@@ -1,7 +1,9 @@
-# projeto-ru
+# Projeto RU USP São Carlos
 Projeto de previsão e otimização do restaurante universitário da USP de São Carlos
 
-Estrutura do repositório
+## Estrutura do repositório
+
+```text
 projeto-ru/
 ├── previsao/             # Módulo de Previsão (Python)
 │   ├── data/             # Datasets brutos e processados
@@ -20,4 +22,4 @@ projeto-ru/
 │   └── frontend/         # App React
 │
 ├── .gitignore            # Arquivos para o Git ignorar
-├── README.md             # Documentação principal do projeto
+└── README.md             # Documentação principal do projeto

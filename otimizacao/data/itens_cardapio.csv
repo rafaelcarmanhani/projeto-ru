@@ -1,0 +1,24 @@
+item;categoria;P;tipo_carne;embutido
+bife;prato_principal_1;1;vermelha;0
+frango;prato_principal_1;2;branca;0
+linguica;prato_principal_1;2;vermelha;1
+estrogonofe de frango;prato_principal_1;3;branca;0
+lombo suino;prato_principal_1;1;vermelha;0
+carne moida;prato_principal_1;1;vermelha;0
+pernil;prato_principal_1;1;vermelha;0
+lagarto;prato_principal_1;1;vermelha;0
+peixe frito;prato_principal_1;0.5;branca;0
+file de peixe;prato_principal_1;0.5;branca;0
+quibe;prato_principal_1;1;vermelha;0
+hamburguer;prato_principal_1;1;vermelha;1
+bisteca;prato_principal_1;1;vermelha;0
+fricasse;prato_principal_1;1;branca;0
+ovo frito;prato_principal_2;1;NA;0
+moussaka;prato_principal_2;2;NA;0
+maca;sobremesa_1;1;NA;0
+gelatina;sobremesa_2;2;NA;0
+alface;salada_1;1;NA;0
+beterraba;salada_2;1;NA;0
+grao de bico;salada_3;1;NA;0
+creme de milho;guarnicao;1;NA;0
+farofa rica;guarnicao;2;NA;0

@@ -107,6 +107,83 @@ for d in D:
                     name=f"E3_{c}_Desjejum_{d}"
                 )
 
+#PP1
+for i in Ic["prato_principal_1"]:
+    for d in D:
+        if d + 6 <= max(D):
+            m.addConstr(
+                quicksum(
+                    x[i, r, k]
+                    for k in range(d, d + 7)
+                    for r in R_ds(k)
+                ) <= 1,
+                name=f"PP1_{i}_{d}"
+            )
+
+#OP1
+for i in Ic["prato_principal_2"]:
+    for d in D:
+        if d + 6 <= max(D):
+            m.addConstr(
+                quicksum(
+                    x[i, r, k]
+                    for k in range(d, d + 7)
+                    for r in R_ds(k)
+                ) <= 1,
+                name=f"OP1_{i}_{d}"
+            )
+
+#G1
+for i in Ic["guarnição"]:
+    for d in D:
+        if d + 6 <= max(D):
+            m.addConstr(
+                quicksum(
+                    x[i, r, k]
+                    for k in range(d, d + 7)
+                    for r in R_ds(k)
+                ) <= 1,
+                name=f"G1_{i}_{d}"
+            )
+
+#SO1
+for i in Ic["sobremesa_1"]:
+    for d in D:
+        if d + 6 <= max(D):
+            m.addConstr(
+                quicksum(
+                    x[i, r, k]
+                    for k in range(d, d + 7)
+                    for r in R_ds(k)
+                ) <= 1,
+                name=f"G1_{i}_{d}"
+            )
+
+#SO3
+for d in D:
+    for i in Ic["sobremesa_2"]:
+        m.addConstr(
+            quicksum(
+                x[i, r, d]
+                for r in R_ds(d)
+                if (i, r, d) in x
+            ) <= 1,
+            name=f"SO3_{i}_{d}"
+        )
+
+#SO4
+for i in Ic["sobremesa_2"]:
+    for d in D:
+        if d + 6 <= max(D):
+            m.addConstr(
+                quicksum(
+                    x[i, "Desjejum", k]
+                    for k in range(d, d + 7)
+                    if "Desjejum" in R_ds(k)
+                ) <= 1,
+                name=f"SO4_{i}_{d}"
+            )
+
 #------------------------FUNÇÃO OBJETIVO------------------------
 
 #Score temporal por refeição e dia da semana

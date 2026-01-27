@@ -1,0 +1,42 @@
+# PYTHON
+**/__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter & Colab
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+shell-init-http-server-output
+
+# GUROBI (Otimização)
+gurobi.lic
+gurobi.log
+*.log
+
+# INTERFACE (Node.js & React)
+**/node_modules/
+**/dist/
+**/build/
+.npm
+**.pnpm-debug.log*
+yarn-error.log*
+npm-debug.log*
+
+# SEGURANÇA & AMBIENTE
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# SISTEMA & IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.bak

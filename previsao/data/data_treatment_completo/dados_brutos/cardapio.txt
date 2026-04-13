@@ -1,0 +1,1410 @@
+data,refeicao,prato_principal_1,prato_principal_2,guarnição,sobremesa
+2023-01-03 ,almoco,frango empanado,quibe de brócolis,creme de milho,doce de leite e maçã
+2023-01-03,jantar,linguiça acebolada,ovo frito,farofa,maxi goiabinha e laranja
+2023-01-04,almoco,bisteca ao molho barbecue,hamburguer de lentilha a pizzaiolo,couve refogada,barra de cereal e melão
+2023-01-04,jantar,lagarto ao molho madeira,goulash vegetariano,polenta,gelatina de morango e banana
+2023-01-05,almoco,peixe frito,omelete de forno,purê de mandioquinha,chocolate e abacaxi
+2023-01-05,jantar,isca de carne ao molho roty,curry de legumes,legumes refogados,mousse de limão e melancia
+2023-01-06,almoco,bife ao molho de azeitonas,cassoulet vegetariano,batata corada,picolé de limão e banana
+2023-01-06,jantar,frango assado,pvt com azeitonas,macarrão ao sugo,brigadeirão e abacaxi
+2023-01-07,almoco,carne de panela ao pomodoro,brócolis gratinado,cenoura sautê,sagu e tangerina
+2023-01-09,almoco,bife acebolado,tomate recheado,torta de legumes,bombom e melancia
+2023-01-09,jantar,estrogonofe de frango,estrogonofe de pvt,batata palha,barra de cereal e melão
+2023-01-10,almoco,lombo ao molho de limão,ovo cozido,farofa rica,arroz doce e banana
+2023-01-10,jantar,bife ao molho de azeitona,pvt alemão,chuchu com manjericão,maxi chocolate e abacaxi
+2023-01-11,almoco,iscas ao molho de cogumelo,pvt com cogumelo,nhoque ao sugo,mosaico de gelatina e maçã
+2023-01-11,jantar,cubos de pernil ao molho barbecue,omelete,mandioca sautê,cocada branca e laranja
+2023-01-12,almoco,carne louca,almôndega de pvt,polenta cremosa,doce de abóbora e melão
+2023-01-12,jantar,lasanha à bolonhesa,lasanha de queijo,acelga ao vinagrete,picolé de uva e mexerica
+2023-01-13,almoco,filé de frango ao molho tomatelli,curry de legumes,batata rústica,bananada e laranja
+2023-01-13,jantar,bife ao molho madeira,quibe de brócolis,legumes gratinados,pudim de maria mole e banana
+2023-01-14,almoco,cubos de pernil ao molho ferrugem,hamburguer de lentilha,abobrinha à italiana,cocada e melancia
+2023-01-16,almoco,filé de frango empanado,suflê de legumes,creme de milho,mini bolo de chocolate e melancia
+2023-01-16,jantar,iscas ao molho madeira,tomate recheado,batata doce com ervas,maxi goiabinha e melão
+2023-01-17,almoco,linguiça acebolada,grãos com queijo branco ,legumes ao forno,sorvete de creme e tangerina
+2023-01-17,jantar,bife ao molho pomodoro,pvt com shimeji e cogumelo,acelga à chinesa,gelatina de cereja e maçã
+2023-01-18,almoco,bife ao molho ferrugem,ovo frito,farofa,flan de baunilha e banana
+2023-01-18,jantar,peixe ao molho de queijos,almôndega de grão de bico,brócolis refogado ,iogurte e mamão
+2023-01-19,almoco,quibe assado,quibe de pvt,repolho à escabeche,pudim de chocolate e laranja
+2023-01-19,jantar,isca de frango ao molho rosê,ovo cozido,macarrão alho e óleo,manjar de coco e melancia
+2023-01-20,almoco,filé de coxa assado,cassoulet vegetariano,polenta ao sugo,mosaico de gelatina e mamão
+2023-01-20,jantar,hambúrguer ao sugo,hambúrguer de lentilha ao sugo,batata rústica,goiabada e banana
+2023-01-21,almoco,bife ao molho roty,pvt mexicano,couve flor ao alho,mousse de maracujá e abacaxi
+2023-01-23,almoco,carne moída refogada,pvt alemão,cenoura gratinada,torrone e maçã
+2023-01-23,jantar,bisteca suína ao molho barbecue ,grão de bico à indiana,couve ao alho,chocolate e melão
+2023-01-24,almoco,hambúrguer ao sugo,hambúrguer de lentilha ao sugo,macarrão com espinafre,manjar de coco e melancia
+2023-01-24,jantar,frango assado,caneloni de ricota com espinafre,quiabo refogado,mini bolo de baunilha e mamão
+2023-01-25,almoco,lombo assado ao molho roty,curry de legumes,farofa rica,maxi chocolate e melão
+2023-01-25,jantar,strogonoff de carne,strogonoff de pvt,batata palha,sorvete de flocos e banana
+2023-01-26,almoco,panqueca de carne,panqueca de pvt,legumes sauté,iogurte e laranja
+2023-01-26,jantar,frango empanado,ovo frito,creme de milho,gelatina de framboesa e melancia
+2023-01-27,almoco,frango assado,omelete de espinafre,batata corada,brigadeirão e abacaxi
+2023-01-27,jantar,bife grelhado ao molho de cebola,grãos gratinados,couve -  flor sauté,cocada branca e maçã
+2023-01-28,almoco,cubos de pernil ao molho de limão,quibe de pvt,batata doce com ervas,curau e mamão
+2023-01-30,almoco,carne em cubos ao molho pomodoro,ovo frito,purê de batatas,bombom e abacaxi
+2023-01-30,jantar,lombo ao molho de limão,pvt gratinado,farofa rica,iogurte e laranja
+2023-01-31,almoco,filé de frango à pizzaiolo,bife de grão de bico à pizzaiolo,brócolis à provençal,doce de abóbora com coco e banana
+2023-01-31,jantar,bife ao molho roty,pvt alemão,legumes sautê,bananada e melancia
+2023-02-01,almoco,estrogonofe de carne,bobó de abóbora e palmito,vagem ao alho,picolé de uva e maçã
+2023-02-01,jantar,peixe frito com limão autoserviço,ovo cozido,batata corada,maria mole com coco e abacaxi
+2023-02-02,almoco,bife ao molho de cogumelos,almôndega de aveia ao molho de cogumelo,nhoque ao sugo,maxi goiabinha e laranja
+2023-02-02,jantar,filé de frango ao molho rosê,grãos com queijo,cenoura à salsa,mosaico de gelatina e banana
+2023-02-03,almoco,pernil ao molho de limão,curry de legumes,virado de couve,brigadeirão e melancia
+2023-02-03,jantar,quibe de assadeira com limão autoserviço,quibe de pvt,couve flor ao vinagrete,romeu e julieta e maçã
+2023-02-04,almoco,bife ao molho de azeitonas,bife de pvt ao molho de azeitonas,chuchu gratinado,pudim de morango com calda de groselha e melão
+2023-02-06,almoco,bife ao molho madeira,tomate recheado,mandioca temperada,iogurte e maçã
+2023-02-06,jantar,pernil ao molho barbecue,ovo frito,virado de vagem,picolé de limão e mexerica
+2023-02-07,almoco,filé de frango empanado,almôndega de feijão branco,creme de milho,gelatina de cereja e melão
+2023-02-07,jantar,lasanha à bolonhesa,lasanha de pvt,acelga à chinesa,maxi goiabinha e banana
+2023-02-08,almoco,lombo assado ao molho de limão,cassoulet vegetariano,farofa rica,brigadeirão e abacaxi
+2023-02-08,jantar,bife ao molho de azeitonas,pvt com azeitonas,batata doce com ervas,arroz doce e mamão
+2023-02-09,almoco,carne em cubos ao molho roty,quibe de brócolis com requeijão,ervilha à parmentier,manjar de coco com calda de ameixa e banana
+2023-02-09,jantar,frango assado,curry de legumes,chuchu com azeitonas,mini bolo de chocolate e melancia
+2023-02-10,almoco,bife ao molho ferrugem,omelete de espinafre,legumes refogados,goiabada e mamão
+2023-02-10,jantar,hamburguer ao tomatelli,hamburguer de lentilha ao tomatelli,macarrão ao molho de queijos,pudim de maria mole e abacaxi
+2023-02-11,almoco,estrogonofe de frango,estrogonofe de pvt,batata palha,cocada e laranja
+2023-02-13,almoco,linguiça acebolada,grão de bico à indiana,farofa,mini bolo e laranja
+2023-02-13,jantar,bife ao molho roty,tomate recheado,batata rústica,torrone e melão
+2023-02-14,almoco,lasanha à bolonhesa,lasanha de pvt,brócolis ao alho,mousse de chocolate e abacaxi
+2023-02-14,jantar,filé de frango ao molho ferrugem,pvt mexicano,purê de mandioquinha,doce de leite e mamão
+2023-02-15,almoco,pernil ao molho barbecue,pvt com cogumelo e shimeji,couve refogada,sorvete de abacaxi e banana
+2023-02-15,jantar,carne louca,bife de lentilha,polenta,bananada e laranja
+2023-02-16,almoco,bife ao molho de cogumelos,rondele de queijos,repolho com ervas,sagu e melancia
+2023-02-16,jantar,frango assado,pvt com azeitonas,macarrão a primavera,barra de cereais e banana
+2023-02-17,almoco,frango xadrez,almôndega de feijão branco,legumes ao alho,gelatina de morango e mamão
+2023-02-17,jantar,lombo ao molho de limão,omelete de forno,ervilha a parmentier,chocolate e abacaxi
+2023-02-23,almoco,hamburguer ao molho pizzaiolo,hamburguer pizzaiolo com pvt,purê de batatas,chocolate e melancia
+2023-02-23,jantar,filé de frango empanado,almôndegas de lentilha,cenoura à salsa,sorvete de creme e banana
+2023-02-24,almoco,bife ao molho roty,omelete de espinafre,macarrão ao sugo,delícia de abacaxi e mamão
+2023-02-24,jantar,lombo ao molho de limão,lasanha de berinjela com pvt,couve refogada,gelatina de morango e melão
+2023-02-25,almoco,frango assado,grãos com queijo,legumes refogados,mousse de maracujá e banana
+2023-02-27,almoco,filé de frango empanado,ovo cozido,creme de milho,barra de cereal e banana
+2023-02-27,jantar,bife ao molho madeira,quibe de brócolis,abobrinha à italiana,torrone e maçã
+2023-02-28,almoco,carne em cubos ao molho de cogumelo,pvt com shimeji e cogumelo,macarrão ao molho suíço,iogurte e banana
+2023-02-28,jantar,linguiça acebolada,almôndega de aveia,farofa,bombom e melancia
+2023-03-01,almoco,bife ao molho ferrugem,bifinho de lentilha ao molho ferrugem,legumes sautê,picolé de uva e maçã
+2023-03-01,jantar,peixe frito,grãos com queijo branco,brócolis ao alho,maria mole e mamão
+2023-03-02,almoco,lombo ao molho madeira,curry de legumes,polenta ao sugo,brigadeirão e abacaxi
+2023-03-02,jantar,filé de frango à pizzaiolo,moussaka de pvt,chuchu à salsa,cocada e banana
+2023-03-03,almoco,frango assado,cassoulet vegetariano,purê de batata com mandioquinha,goiabada e laranja
+2023-03-03,jantar,carne louca,ovo frito,cenoura refogada,pudim de baunilha e melão
+2023-03-04,almoco,iscas ao molho roty,pvt mexicano,batata doce com ervas,gelatina de cereja e mamão
+2023-03-06,almoco,frango empanado,fricassê de pvt,legumes refogados,doce de leite e maçã
+2023-03-06,jantar,bife ao molho de cebola,tomate recheado ,farofa rica,pão de mel e abacaxi
+2023-03-07,almoco,lasanha à bolonhesa,lasanha de pvt,acelga refogada,bananada e tangerina
+2023-03-07,jantar,pernil ao molho barbecue,cassoulet vegetariano ,mandioca sautê,gelatina de cereja e melão
+2023-03-08,almoco,estrogonofe de frango,estrogonofe de pvt,batata palha,mousse de maracujá e melancia
+2023-03-08,jantar,carne em cubos ao tomatelli,pvt mexicano ,polenta cremosa,sorvete de flocos e banana
+2023-03-09,almoco,hamburguer bovino à pizzaiolo,hamburguer de grão de bico à pizzaiolo,macarrão à primavera,bombom e abacaxi
+2023-03-09,jantar,filé de frango ao molho ferrugem,curry de legumes,cenoura gratinada,curau e tangerina
+2023-03-10,almoco,lombo ao molho de limão,ovo frito,couve ao alho,sagú e banana
+2023-03-10,jantar,isca de carne ao molho roty,quibe de pvt,ervilha à parmentier,iogurte e melancia
+2023-03-11,almoco,lagarto ao molho champignon,pvt com cogumelo e shimeji,virado de cenoura e azeitona,pudim de coco com calda e melão
+2023-03-13,almoco,bife ao molho madeira,quibe de brócolis,repolho à escabeche,alfajor e abacaxi
+2023-03-13,jantar,linguiça acebolada,pvt com azeitonas,chuchu gratinado,mini bolo com recheio de morango e mamão
+2023-03-14,almoco,frango empanado,bifinho de grão de bico,creme de milho,arroz doce e banana
+2023-03-14,jantar,iscas de carne ao molho de azeitonas,rondele de ricota com espinafre,abobrinha à italiana,bombom e melancia
+2023-03-15,almoco,carne em cubos ao pomodoro,pvt alemão,batata rústica,barra de cereais sabor chocolate e frutas e laranja
+2023-03-15,jantar,frango assado,almôndega de aveia,polenta ao sugo,gelatina de morango e melão
+2023-03-16,almoco,pernil ao molho barbecue,ovo frito,virado de couve,manjar de coco e melancia
+2023-03-16,jantar,estrogonofe de carne,estrogonofe de legumes,batata palha,torrone e banana
+2023-03-17,almoco,peixe ao molho de queijos,grãos com queijo branco,brócolis ao alho,sorvete de creme e tangerina
+2023-03-17,jantar,isca de frango ao molho ferrugem,ovo cozido,legumes refogados,chocolate ao leite e abacaxi
+2023-03-18,almoco,bisteca ao molho de limão,lasanha de berinjela e pvt,farofa,delicia de banana e maçã
+2023-03-20,almoco,linguiça acebolada,pvt com azeitonas,vagem ao alho,iogurte e mamão
+2023-03-20,jantar,filé de frango empanado,grãos gratinado,chuchu com azeitonas,bananada e laranja
+2023-03-21,almoco,carne de panela ao tomatelli,almôndegas de feijão branco ao tomatelli,purê de batatas,gelatina de cereja e maçã
+2023-03-21,jantar,lombo ao molho barbecue,lasanha de pvt,legumes refogados,bombom e melancia
+2023-03-22,almoco,frango assado,ovo frito,polenta ao sugo,barra de cereais sabor banana e mel e laranja
+2023-03-22,jantar,bife ao molho madeira,bife de lentilha ao molho madeira,abobrinha à italiana,pudim de pão e mamão
+2023-03-23,almoco,estrogonofe de carne,estrogonofe de pvt,batata palha,brigadeirão e melão
+2023-03-23,jantar,bisteca suína ao molho de limão,omelete de espinafre,farofa,bolinho de baunilha e abacaxi
+2023-03-24,almoco,filé de frango à pizzaiolo,grão de bico à indiana,macarrão ao alho e óleo,pudim de maria mole com coco e melancia
+2023-03-24,jantar,quibe recheado,quibe de brócolis com requeijão,acelga à chinesa,picolé de limão e maçã
+2023-03-25,almoco,bife ao molho ferrugem,assado vienense de pvt,ervilha à parmentier,flan de morango e banana
+2023-03-27,almoco,bife ao molho tomatelli,ovo cozido,chuchu refogado,barra de cereal com chocolate e mamão
+2023-03-27,jantar,lombo ao molho ferrugem,pvt com azeitonas,farofa rica,cocada morena e laranja
+2023-03-28,almoco,fricassê de frango,grãos gratinados,batata rústica,sorvete de flocos e banana
+2023-03-28,jantar,hamburguer à pizzaiolo,hamburguer de pvt à pizzaiolo ,macarrão ao alho e óleo,mousse de morango e abacaxi
+2023-03-29,almoco,cubos de pernil ao molho barbecue,curry de legumes,mandioca ao tomatelli,pudim de coco com calda e melão
+2023-03-29,jantar,bife ao molho madeira,tomate recheado,legumes refogados,iogurte e melancia
+2023-03-30,almoco,carne moída com azeitonas,pvt alemão,nhoque ao sugo,chocolate ao leite e abacaxi
+2023-03-30,jantar,frango assado,almôndega de grão de bico,abóbora sautê,flan de baunilha com calda e maçã
+2023-03-31,almoco,bife ao molho de cogumelos,lasanha de queijo,couve flor ao vinagrete,gelatina de morango e melancia
+2023-03-31,jantar,isca ao molho roty,bifinho de feijão branco ao molho roty,batata doce com ervas,maxi goiabinha e banana
+2023-04-01,almoco,frango assado,omelete de forno,ervilha à parmentier,cocada e tangerina
+2023-04-03,almoco,linguiça acebolada,ovo frito,farofa,torrone e maçã
+2023-04-03,jantar,bife ao molho ferrugem,suflê de legumes,abobrinha à italiana,maxi chocolate e laranja
+2023-04-04,almoco,estrogonofe de frango,estrogonofe de pvt,batata palha,sagu e mamão
+2023-04-04,jantar,lagarto ao molho madeira,curry de legumes ,cuscuz,cocada morena e banana
+2023-04-05,almoco,bife ao molho de azeitonas,hamburguer de lentilha ao molho de azeitonas,mandioca ao tomatelli,ovo de páscoa e tangerina
+2023-04-05,jantar,frango assado,omelete de espinafre,creme de milho,ovo de páscoa e maçã
+2023-04-06,almoco,peixe frito,grãos com queijo,legumes refogado,chocolate ao leite e melancia
+2023-04-06,jantar,cubos de pernil ao barbecue,pvt shimeji e cogumelo,batata corada,banoffee e abacaxi
+2023-04-10,almoco,fricassê de frango,estrogonofe de legumes,batata palha,mini bolo de brigadeiro e melancia
+2023-04-10,jantar,bife ao molho de azeitonas,pvt alemão,legumes ao alho,barra de cereal de banana e mel e melão
+2023-04-11,almoco,lombo ao molho barbecue,ovo cozido,couve refogada,pudim de pão com calda e mamão
+2023-04-11,jantar,carne em cubos ao tomatelli,pvt com azeitonas,polenta cremosa,picolé de uva e banana
+2023-04-12,almoco,bife ao molho de cogumelo,moussaka vegetariana,macarrão ao sugo,maxi goiabinha e maçã
+2023-04-12,jantar,filé de frango ao molho rosê,omelete de forno,chuchu com manjericão,mousse de limão e abacaxi
+2023-04-13,almoco,lasanha à bolonhesa,lasanha de pvt,acelga à chinesa,gelatina de morango e melão
+2023-04-13,jantar,bisteca ao molho ferrugem,cassoulet vegetariano,farofa,bananada e laranja
+2023-04-14,almoco,filé de frango empanado,curry de legumes,cenoura à sautê,bombom e abacaxi
+2023-04-14,jantar,bife ao molho madeira,tomate recheado,batata corada,pudim de maria mole e banana
+2023-04-15,almoco,carne louca,quibe de pvt,abobrinha com ervas,flan de baunilha com calda e laranja
+2023-04-17,almoco,bife ao molho roty,pvt alemão,legumes ao forno,maxi chocolate e maçã
+2023-04-17,jantar,lombo ao molho de abacaxi,almôndega de aveia com ricota,batata doce com ervas,barra de cereal de banana e mel e tangerina
+2023-04-18,almoco,hamburguer à pizzaiolo,hamburguer de grão de bico à pizzaiolo,penne ao alho e óleo com espinafre,sorvete de creme e banana
+2023-04-18,jantar,frango empanado,pvt com shimeji e cogumelo,creme de milho,gelatina de framboesa e melão
+2023-04-19,almoco,bife ao molho ferrugem,quibe de brócolis,acelga à chinesa,manjar de coco com calda de ameixa e abacaxi
+2023-04-19,jantar,filé de frango ao molho rosê,bifinho de grão de bico ao sugo,brócolis refogado,iogurte e mamão
+2023-04-20,almoco,pernil ao molho de limão,lasanha berinjela com pvt,farofa,banana caramelada e laranja
+2023-04-20,jantar,carne moída,ovo frito,ervilha à parmentier,pão de mel e melancia
+2023-04-24,almoco,filé de frango empanado,rondele de queijos,vagem refogada,iogurte e tangerina
+2023-04-24,jantar,carne moída,pvt com azeitonas,batata rústica,chocolate ao leite e abacaxi
+2023-04-25,almoco,bife ao molho provençal,tomate recheado,quiabo refogado,canjica e banana
+2023-04-25,jantar,linguiça acebolada,ovo frito ,nhoque ao sugo,mini bolo de baunilha e melancia
+2023-04-26,almoco,carne em cubos ao molho madeira,almôndega de pvt ao sugo,cenoura gratinada,gelatina de cereja e melão
+2023-04-26,jantar,filé de frango ao molho ferrugem,quibe de brócolis e requeijão,chuchu com manjericão,picolé de limão e banana
+2023-04-27,almoco,lombo assado ao molho roty,omelete de forno,couve ao alho,bananada e laranja
+2023-04-27,jantar,bife ao molho de azeitonas ,curry de legumes,farofa,mosaico de gelatina e mamão
+2023-04-28,almoco,filé de coxa assado,cassoulet vegetariano,polenta,rocambole de chocolate e abacaxi
+2023-04-28,jantar,hambúrguer ao molho pomodoro ,bifinho de feijão branco ao molho pomodoro,couve flor sauté,curau e melão
+2023-04-29,almoco,estrogonofe de carne, grão de bico à indiana,batata palha,canjica e mamão
+2023-05-02,almoco,filé de frango empanado,ovo frito,creme de milho,torrone e laranja
+2023-05-02,jantar,linguiça acebolada,almôndega de aveia ao sugo,farofa,bombom e melancia
+2023-05-03,almoco,estrogonofe de carne,estrogonofe de grão de bico,batata palha,sorvete de morango e banana
+2023-05-03,jantar,peixe frito,grãos com queijo branco,brócolis ao alho,pudim de pão com calda e mamão
+2023-05-04,almoco,lombo ao molho madeira,suflê de legumes,couve refogada,brigadeirão e abacaxi
+2023-05-04,jantar,bife ao molho tomatelli,moussaka de pvt,batata doce com ervas,maxi goiabinha e banana
+2023-05-05,almoco,filé de coxa assado,cassoulet vegetariano,polenta cremosa,goiabada e tangerina
+2023-05-05,jantar,carne louca (lagarto),omelete de forno,macarrão ao alho e óleo,gelatina de cereja e melão
+2023-05-06,almoco,bisteca ao molho de limão,pvt mexicano,chuchu com azeitonas,pudim de maria mole com como e melancia
+2023-05-08,almoco,carne moída,pvt com azeitonas,vagem ao alho,cocada branca e maçã
+2023-05-08,jantar,filé de frango empanado,rondele de queijo ao molho bechamel,cenoura à salsa,barra de cereais banana e mel e laranja
+2023-05-09,almoco,bife ao molho roty,omelete espinafre,cuscuz,gelatina de framboesa e banana
+2023-05-09,jantar,bisteca ao molho barbecue,curry de legumes ,farofa,mousse de limão e abacaxi
+2023-05-10,almoco,frango assado,grãos com queijo,legumes refogados,manjar com calda de ameixa e melancia
+2023-05-10,jantar,bife ao molho tomatelli,ovo cozido,batata corada,rocambole de chocolate e melão
+2023-05-11,almoco,lagarto ao molho cogumelo,bifinho de lentilha ao molho de cogumelo,nhoque ao sugo,iogurte e mamão
+2023-05-11,jantar,filé de frango ao molho rosê,bobó de abóbora com palmito,acelga à chinesa,pudim de baunilha c
+2023-05-12,almoco,pernil ao molho ferrugem,grão de bico à indiana ,virado de abobrinha,bombom e abacaxi
+2023-05-12,jantar,quibe de bandeja,quibe de pvt,couve flor ao alho,picolé de uva e maçã
+2023-05-13,almoco,bife ao molho de azeitonas,bife de pvt,ervilha à parmentier,mosaico de gelatina e melão
+2023-05-15,almoco,bife ao molho madeira,tomate recheado,mandioca temperada,sorvete de flocos e maçã
+2023-05-15,jantar,pernil em cubos ao molho barbecue,ovo frito,virado de vagem,torrone e mexerica
+2023-05-16,almoco,peixe frito,quibe de brócolis e requeijão,batata doce com ervas,gelatina de cereja e melão
+2023-05-16,jantar,lasanha à bolonhesa,lasanha de pvt,acelga à chinesa,maxi goiabinha e banana
+2023-05-17,almoco,lombo ao molho de limão,cassoulet vegetariano,farofa rica,chocolate ao leite e abacaxi
+2023-05-17,jantar,bife ao molho de azeitonas,pvt com azeitonas,batata rústica,arroz doce e mamão
+2023-05-18,almoco,carne em cubos ao molho roty,pvt alemão,ervilha à parmentier,pudim de morango com calda de groselha e banana
+2023-05-18,jantar,frango assado,almôndega de ricota com espinafre ao sugo,chuchu com azeitonas,mini bolo de brigadeiro e melancia
+2023-05-19,almoco,bife acebolado,omelete com brócolis,legumes refogados,barra de cereais e mamão
+2023-05-19,jantar,hamburguer ao tomatelli,hamburguer de lentilha ao tomatelli,macarrão ao alho com espinafre,manjar com calda de ameixa e abacaxi
+2023-05-20,almoco,estrogonofe de frango,estrogonofe de pvt,batata palha,bananada e laranja
+2023-05-22,almoco,linguiça acebolada,grão de bico à indiana,virado de vagem,mini bolo de baunilha com recheio de chocolate e melancia
+2023-05-22,jantar,bife ao molho roty,tomate recheado,legumes à salsa,sorvete de creme e maçã
+2023-05-23,almoco,carne moída,ovo cozido,batata rústica,mousse de morango e abacaxi
+2023-05-23,jantar,frango assado,quibe de brócolis e requeijão,macarrão à primavera,bananada e laranja
+2023-05-24,almoco,pernil ao molho barbecue,pvt com cogumelo e shimeji,couve refogada,barra de cereais e maçã
+2023-05-24,jantar,isca ao molho tomatelli,souflê de legumes,polenta,surpresa de abacaxi e melancia
+2023-05-25,almoco,bife ao molho de cogumelo,estrogonofe de grão de bico,repolho com ervas,iogurte e melão
+2023-05-25,jantar,lombo ao molho ferrugem,pvt com azeitonas,farofa,sagu e banana
+2023-05-26,almoco,frango xadrez,curry de legumes,cenoura ao alho,gelatina de framboesa e mamão
+2023-05-26,jantar,carne de panela ao molho de cebola,omelete de forno,ervilha à parmentier,pão de mel e abacaxi
+2023-05-27,almoco,lasanha à bolonhesa,lasanha de pvt,acelga à chinesa,maxi goiabinha e laranja
+2023-05-29,almoco,filé de frango empanado,ovo cozido,creme de milho,picolé de limão e mexerica
+2023-05-29,jantar,isca de carne ao molho rosê,quibe de brócolis e requeijão,legumes sautê,barra de cereais e melão
+2023-05-30,almoco,hamburguer ao molho pizzaiolo,hamburguer de feijão branco à pizzaiolo,purê de batatas,flan de baunilha com calda e banana
+2023-05-30,jantar,lombo ao molho barbecue,lasanha de pvt com berinjela,couve refogada,chocolate ao leite e abacaxi
+2023-05-31,almoco,carne em cubos ao molho ferrugem,almôndega de pvt ao molho ferrugem,polenta cremosa,bolinho de baunilha com recheio de morango e melancia
+2023-05-31,jantar,estrogonofe de frango,estrogonofe de grão de bico,batata palha,gelatina de cereja e maçã
+2023-06-01,almoco,bisteca ao molho de cebola,pvt alemão,farofa,brigadeirão e abacaxi
+2023-06-01,jantar,bife ao molho madeira,curry de legumes,chuchu à salsa,cocada e banana
+2023-06-02,almoco,frango assado,almôndegas de ricota e espinafre,macarrão à primavera,pé de moça e laranja
+2023-06-02,jantar,lagarto assado ao molho de azeitonas,ovo frito,cenoura à salsa,manjar com calda de ameixa e melancia
+2023-06-03,almoco,iscas ao molho roty,pvt mexicano,batata doce com ervas,mosaico e mamão
+2023-06-06,jantar,pernil ao molho barbecue,ovo cozido,farofa,gelatina de framboesa e melão
+2023-06-07,almoco,filé de frango empanado,estrogonofe de grão de bico,legumes refogados,pudim de pão e melancia
+2023-06-07,jantar,hamburguer ao molho tomatelli,hamburguer de pvt ao tomatelli,macarrão ao alho e óleo,sorvete de flocos e banana
+2023-06-12,almoco,frango empanado,bifinho de grão de bico,creme de milho,bananada e maçã
+2023-06-12,jantar,bife ao molho de azeitonas,lasanha de ricota e espinafre,legumes refogados,iogurte e tangerina
+2023-06-13,almoco,carne louca (lagarto desfiado),curry de legumes,batata rústica,arroz doce moreno e banana
+2023-06-13,jantar,linguiça acebolada,pvt com azeitonas,abobrinha à italiana,bombom e melancia
+2023-06-14,almoco,iscas de carne ao molho madeira,pvt alemão,macarrão ao sugo,barra de cereais e laranja
+2023-06-14,jantar,frango assado,almôndegas de aveia,polenta ao sugo,mosaico de gelatina e melão
+2023-06-15,almoco,pernil ao molho barbecue,ovo frito,couve refogada,manjar de coco com calda de ameixa e melancia
+2023-06-15,jantar,estrogonofe de carne,estrogonofe de legumes,batata palha,doce de abóbora e banana
+2023-06-16,almoco,peixe ao molho de queijos,grãos com queijo branco,brócolis ao alho,sorvete de creme e tangerina
+2023-06-16,jantar,carne em cubos ao molho pomodoro,ovo cozido,chuchu gratinado,chocolate ao leite e abacaxi
+2023-06-17,almoco,lombo grelhado ao molho ferrugem,lasanha de berinjela e pvt,farofa,espumone de morango e
+2023-06-19,almoco,linguiça acebolada,pvt com azeitonas,purê de batatas,iogurte e melão
+2023-06-19,jantar,frango empanado,grãos gratinado,chuchu com azeitonas,pé de moça e laranja
+2023-06-20,almoco,carne de panela ao tomatelli,almôndega de feijão branco ao tomatelli,macarrão ao alho e óleo,gelatina de cereja e maçã
+2023-06-20,jantar,lombo ao molho barbecue,cassoulet vegetariano,virado de abobrinha e cenoura,bolinho de chocolate e abacaxi
+2023-06-21,almoco,frango assado,ovo frito,polenta ao sugo,torrone e banana
+2023-06-21,jantar,bife ao molho madeira,bife de lentilha,repolho com ervas,mousse de maracujá e melancia
+2023-06-22,almoco,quibe de assadeira recheado,quibe de pvt recheado,vagem ao alho,curau e mamão
+2023-06-22,jantar,bisteca suína ao molho de limão,omelete de espinafre,farofa,maxi goiabinha e maçã
+2023-06-23,almoco,filé de frango à pizzaiolo,grão de bico à indiana,legumes refogados,brigadeirão e melancia
+2023-06-23,jantar,lasanha à bolonhesa,lasanha de pvt,acelga à chinesa,doce de batata doce e banana
+2023-06-24,almoco,bife ao molho ferrugem,almôndega de aveia ao molho ferrugem,cuscuz de legumes,bombom e abacaxi
+2023-06-26,almoco,hamburguer à pizzaiolo,grãos gratinados,legumes ao alho,chocolate ao leite e abacaxi
+2023-06-26,jantar,lombo ao molho ferrugem,quibe de brócolis e requeijão,mandioca ao tomatelli,cocada morena e laranja
+2023-06-27,almoco,hamburguer à pizzaiolo,grãos gratinados,legumes ao alho,chocolate ao leite e abacaxi
+2023-06-27,jantar,peixe frito,omelete de forno,batata rústica,manjar de coco e ameixa e melão
+2023-06-28,almoco,filé de frango ao molho rosê,lasanha de queijo,cenoura à salsa,gelatina de framboesa e tangerina
+2023-06-28,jantar,bife ao molho madeira,pvt com cogumelo e shimeji,couve flor ao vinagrete,iogurte e melancia
+2023-06-29,almoco,bife ao molho de cebola,ovo cozido,nhoque ao sugo,kit junino e banana
+2023-06-29,jantar,frango assado,almôndega de grão de bico ao sugo,cuscuz de legumes,kit junino e maçã
+2023-06-30,almoco,pernil ao molho barbecue,bife de pvt ao molho barbecue,farofa,mousse de limão e melancia
+2023-06-30,jantar,isca de carne ao molho roty,tomate recheado,batata doce com ervas,maxi chocolate e mamão
+2023-07-01,almoco,lagarto ao molho ferrugem,bifinho de lentilha ao molho ferrugem,chuchu gratinado,barra de cereais chocolate e melão
+2023-07-03,almoco,bife ao molho madeira,suflê de legumes,batata doce temperada,goiabada e maçã
+2023-07-03,jantar,linguiça acebolada,pvt com cogumelo e shimeji,abobrinha à italiana,maxi chocolate e laranja
+2023-07-04,almoco,tiras de frango ao molho rosê,grão de bico à indiana,batata palha,canjica quente e mamão
+2023-07-04,jantar,carne louca,curry de legumes,polenta cremosa,manjar de coco e ameixa e banana
+2023-07-05,almoco,feijoada,feijoada vegetariana,couve refogada,gelatina de cereja e tangerina
+2023-07-05,jantar,bife ao molho roty,omelete de forno,mandioca ao molho pomodoro,torrone e melão
+2023-07-06,almoco,carne moída,ovo frito,macarrão à primavera,chocolate e melancia
+2023-07-06,jantar,filé de frango ao molho tomatelli,estrogonofe de pvt,batata corada,sagu e mamão
+2023-07-07,almoco,isca ao molho de cogumelos,quibe de brócolis e requeijão,legumes refogados,barra de cereais e banana
+2023-07-07,jantar,lombo ao molho ferrugem,almôndega de aveia e espinafre,farofa,pudim de maria mole e melancia
+2023-07-08,almoco,frango assado,pvt mexicano,repolho com azeitonas,brigadeirão e abacaxi
+2023-07-10,almoco,fricassé de frango,bifinho de lentilha ao sugo,batata palha,maxi goiabinha e laranja
+2023-07-10,jantar,bife ao molho de azeitonas,tomate recheado,brócolis à provençal,barra de cereais e maçã
+2023-07-11,almoco,lombo ao molho roty,ovo cozido,farofa,pudim de maria mole com coco e banana
+2023-07-11,jantar,carne em cubos ao molho de cebola,pvt com azeitonas,nhoque ao sugo,chocolate ao leite e abacaxi
+2023-07-12,almoco,estrogonofe de carne,estrogonofe de grão de bico,batata corada,mini bolo de brigadeiro e maçã
+2023-07-12,jantar,filé de coxa,ovo frito,vagem ao alho,manjar com calda de ameixa e melancia
+2023-07-13,almoco,lasanha à bolonhesa,lasanha de pvt,cenoura sauté,gelatina de morango e mamão
+2023-07-13,jantar,bisteca ao molho ferrugem,cassoulet vegetariano,virado de couve,bananada e laranja
+2023-07-14,almoco,filé de frango empanado,curry de legumes,acelga à chinesa,bombom e abacaxi
+2023-07-14,jantar,carne moída,quibe de pvt,ervilha à parmentier,doce de abóbora com coco e banana
+2023-07-15,almoco,bife ao molho de cogumelos,moussaka vegetariana,legumes ensopados,flan de baunilha com calda e
+2023-07-17,almoco,bife grelhado ao molho de cebola,almôndega de aveia e espinafre,mandioca ensopada,torrone e maçã
+2023-07-17,jantar,frango empanado,ovo frito,creme de milho,barra de cereais e tangerina
+2023-07-18,almoco,linguiça acebolada,pvt com cogumelo champignon e shimeji,ervilha à parmentier,beijinho de coco e abacaxi
+2023-07-18,jantar,lasanha à bolonhesa,lasanha de queijos,repolho e cenoura refogados,flan de baunilha com calda e
+2023-07-19,almoco,hamburguer ao sugo,hamburguer de grão de bico ao sugo,purê misto com mandioquinha,sagu e banana
+2023-07-19,jantar,pernil ao molho barbecue ,pvt alemão,farofa,maxi goiabinha e melão
+2023-07-20,almoco,frango assado,cassoulet vegetariano,polenta de corte ao sugo com parmesão,banana caramelada e laranja
+2023-07-20,jantar,bife ao molho roty,grãos com queijo,legumes ensopados,bombom e abacaxi
+2023-07-21,almoco,carne moída refogada,pvt com azeitonas,penne ao alho e alho com espinafre,goiabada com queijo e
+2023-07-21,jantar,peixe frito,quibe de brócolis e requeijão,batata corada,marigel e banana
+2023-07-22,almoco,lombo ao molho madeira,melete de brócolis,virado de vagem e cenoura e legumes ensopados,iogurte e melão
+2023-07-24,almoco,frango empanado,lasanha de berinjela e pvt,cenoura à salsa,bananada e tangerina
+2023-07-24,jantar,bife grelhado ao molho de cebola,rondele de queijos,chuchu com manjericão,goiabada com queijo e abacaxi
+2023-07-25,almoco,carne em cubos ao molho madeira,tomate recheado,batata rústica,arroz doce caramelado e banana
+2023-07-25,jantar,lombo assado ao molho barbecue,souflé de legumes,couve ao alho,beijinho de coco e melancia
+2023-07-26,almoco,bife ao molho provençal,bifinho de feijão branco ao sugo,legumes ensopados,marigel
+2023-07-26,jantar,filé de coxa assado,ovo cozido,polenta de corte ao sugo com parmesão,iogurte e banana
+2023-07-27,almoco,bisteca assada ao molho roty,almôndega de pvt ao sugo,farofa,cocada morena e laranja
+2023-07-27,jantar,hamburguer à pizzaiolo,hamburguer de grão de bico à pizzaiolo,espaguete alho e óleo,manjar com calda de ameixa e mamão
+2023-07-28,almoco,peixe frito,omelete de forno,vagem refogada,banoffe e abacaxí
+2023-07-28,jantar,estrogonofe de carne,estrogonofe de pvt,batata palha,gelatina de cereja
+2023-07-29,almoco,pernil ao molho ferrugem,cassoulet vegetariano,couve - flor sauté,barra de cereais e mamão
+2023-07-31,almoco,carne em cubos ao molho roty,grãos com queijo branco,legumes com salsa,pão de mel e melancia
+2023-07-31,jantar,tiras de frango ao molho ferrugem,curry de legumes,batata palha,canjica quente e maçã
+2023-08-01,almoco,bife ao molho de azeitonas,quibe de brócolis e requeijão,macarrão ao sugo,cocada e mexerica
+2023-08-01,jantar,linguiça acebolada,omelete de forno,couve refogada,mosaico de gelatina e melão
+2023-08-02,almoco,filé de coxa assado,pvt azeitonas,polenta de corte ao sugo e parmesão,iogurte e mamão
+2023-08-02,jantar,estrogonofe de carne,estrogonofe de legumes,brócolis ao alho,chocolate ao leite e abacaxí
+2023-08-03,almoco,lombo suíno assado ao molho barbecue,cassoulet vegetariano,batata corada,picolé de limão e banana
+2023-08-03,jantar,hamburguer à pizzaiolo,hamburguer de pvt à pizzaiolo,vagem refogada,pudim de maria mole com calda e melancia
+2023-08-04,almoco,lagarto ao molho madeira,ovo frito,farofa,brigadeirão e abacaxi
+2023-08-04,jantar,filé de coxa assado,almôndega de aveia,chuchu gratinado,barra de cereais e banana
+2023-08-05,almoco,bife ao molho de azeitonas,pvt mexicano,batata doce com ervas,mousse de morango e melão
+2023-08-07,almoco,fricassé de frango,curry de legumes,batata palha,doce de leite e maçã
+2023-08-07,jantar,bife ao molho de azeitona,ovo cozido,legumes refogados,bombom e abacaxí
+2023-08-08,almoco,lasanha à bolonhesa,lasanha de pvt,chuchu com manjericão,rocambole de chocolate e mamão
+2023-08-08,jantar,pernil em cubos ao molho barbecue,almôndega de aveia,farofa,flan de baunilha com calda de goiabada
+2023-08-09,almoco,bife ao molho roty,omelete de espinafre,abobrinha ao alho,mousse de limão e melancia
+2023-08-09,jantar,filé de coxa assado,grão de bico à indiana,macarrão à primavera,sorvete de morango e maçã
+2023-08-10,almoco,feijoada ,feijoada vegetariana,couve refogada,gelatina de cereja e laranja
+2023-08-10,jantar,carne louca (lagarto),pvt com azeitonas,polenta cremosa,bolinho de baunilha e morango
+2023-08-11,almoco,filé de peixe ao molho de queijo e espinafre,suflê de legumes,batata sauté,surpresa de abacaxi e banana
+2023-08-11,jantar,bife ao molho ferrugem,tomate recheado,brócolis à provençal,iogurte e melancia
+2023-08-12,almoco,filé de frango à pizzaiolo,bife de pvt à pizzaiolo,vagem refogada,pudim de coco com calda e melão
+2023-08-16,almoco,filé de frango empanado,pvt com shimeji e cogumelo,creme de milho,maxi goiabinha e laranja
+2023-08-16,jantar,bife ao molho tomatelli,quibe de brócolis recheado,abobrinha à italiana,barra de cereais banana e mel e melão
+2023-08-17,almoco,carne moída,bifinho de grão de bico,ervilha à parmentier,bombom e melancia
+2023-08-17,jantar,lombo suíno ao molho madeira,pvt mexicano,chuchu com azeitonas,mousse de maracujá e banana
+2023-08-18,almoco,carne de panela ao molho champignon,moussaka vegetariana,nhoque ao sugo,sorvete de creme e maçã
+2023-08-18,jantar,tiras de frango ao molho rosê,omelete de brócolis,batata doce com ervas,bolinho de baunilha e abacaxi
+2023-08-19,almoco,pernil ao molho madeira,curry de legumes,farofa rica,surpresa de banana e melão
+2023-08-21,almoco,filé de frango empanado,quibe de pvt,acelga ao alho,bananada e mexerica
+2023-08-21,jantar,carne em cubos ao molho champignon,ovo frito,batata rústica,mini bolo chocolate e abacaxi
+2023-08-22,almoco,bife ao molho roty,tomate recheado,legumes sautê,gelatina de cereja e banana
+2023-08-22,jantar,bisteca ao molho ferrugem,curry de legumes,farofa,alfajor e melancia
+2023-08-23,almoco,estrogonofe de carne,souflê de legumes,batata palha,barra de cereal e laranja
+2023-08-23,jantar,peixe frito,grão com queijo branco,cenoura à salsa,udim de pão com calda e mamão
+2023-08-24,almoco,lombo suíno ao molho barbecue,omelete com brócolis,virado de abobrinha,brigadeirão e abacaxi
+2023-08-24,jantar,lasanha à bolonhesa,lasanha de pvt,repolho com ervas,goiabada em barra e laranja
+2023-08-25,almoco,hamburguer à pizzaiolo,hamburguer de grão de bico à pizzaiolo,macarrão ao alho e óleo com espinafre,pudim de maria mole com coco e melancia
+2023-08-25,jantar,fricassê de frango,pvt alemão,vagem ao alho,picolé de uva e maçã
+2023-08-26,almoco,carne em cubos ao molho pomodoro,bife de pvt,purê de batata e mandioquinha,torrone e mamão
+2023-08-28,almoco,linguiça acebolada,curry de legumes,farofa,barra de cereal banana e mel e maçã
+2023-08-28,jantar,bife ao molho madeira,quibe de brócolis com requeijão,ervilha à parmentier,cocada morena e laranja
+2023-08-29,almoco,frango assado,grão de bico à indiana,polenta ao sugo,sorvete de flocos e banana
+2023-08-29,jantar,isca de carne ao molho de azeitona,pvt com cogumelo e shimeji,macarrão à primavera,iogurte e melancia
+2023-08-30,almoco,carne moída,cassoulet vegetariano,batata rústica,pudim de pão com calda e abacaxi
+2023-08-30,jantar,lombo suíno ao molho roty,ovo cozido,virado de vagem e cenoura,maxi goiabinha e banana
+2023-08-31,almoco,bife ao molho de cebola,lasanha de ricota e espinafre,couve flor ao alho,chocolate ao leite e melancia
+2023-08-31,jantar,frango empanado,souflê de legumes,creme de milho,gelatina de framboesa e tangerina
+2023-09-01,almoco,pernil ao molho barbecue,almôndega de feijão branco,cenoura à salsa,mini bolo de brigadeiro e abacaxi
+2023-09-01,jantar,lagarto ao molho de cogumelos,pvt mexicano,legumes sautê,manjar com calda de ameixa e maçã
+2023-09-02,almoco,isca bovina ao molho provençal,ovo frito,batata doce com ervas,mosaico de gelatina e mamão
+2023-09-04,almoco,bife ao molho madeira,tomate recheado,mandioca refogada,max goiabinha e laranja
+2023-09-04,jantar,fricassé de frango,curry de legumes,batata palha,pão de mel e abacaxi
+2023-09-05,almoco,lasanha à bolonhesa,lasanha de pvt,vagem sauté,barra de cereal e banana
+2023-09-05,jantar,pernil ao molho barbecue,omelete de brócolis,farofa rica,gelatina de cereja e melão
+2023-09-06,almoco,frango empanado,estrogonofe de grão de bico,legumes refogados,pudim de pão e melancia
+2023-09-06,jantar,hamburguer ao molho pomodoro,hamburguer de pvt ao molho pomodoro,macarrão ao alho e óleo,sorvete de flocos e banana
+2023-09-11,almoco,frango empanado,bife de grão de bico,creme de milho,doce de banana
+2023-09-11,jantar,bife ao molho de azeitonas,lasanha de ricota com espinafre,legumes refogados,maxi goiabinha
+2023-09-12,almoco,carne louca (lagarto desfiado),souflê de legumes,batata rústica,arroz doce
+2023-09-12,jantar,linguiça suína acebolada,pvt com azeitonas,abobrinha à italiana,bombom
+2023-09-13,almoco,isca bovina ao molho madeira,pvt alemão,macarrão à primavera,barra de cereal
+2023-09-13,jantar,filé de coxa grelhado,almôndegas de aveia,cuscuz de legumes,mosaico de gelatina
+2023-09-14,almoco,pernil ao molho provençal,ovo frito,couve refogada,manjar com calda de ameixa
+2023-09-14,jantar,estrogonofe de carne,estrogonofe de legumes,batata palha,mini bolo de baunilha
+2023-09-15,almoco,filé de peixe ao molho suíço,grãos com queijo branco,brócolis ao alho,sorvete de creme
+2023-09-15,jantar,carne em cubos ao molho de cebola,ovo cozido,nhoque ao sugo,brigadeirão 
+2023-09-16,almoco,lombo ao molho ferrugem,moussaka vegetariana,farofa rica,espumone de morango
+2023-09-18,almoco,linguiça suína acebolada,pvt com azeitonas,purê de batatas,iogurte de morango
+2023-09-18,jantar,frango empanado,grão com queijo branco,chuchu com manjericão,doce de abóbora
+2023-09-19,almoco,carne de panela ao molho pomodoro,almôndegas de feijão branco ao molho pomodoro,macarrão ao alho e óleo com espinafre,gelatina de cereja
+2023-09-19,jantar,lombo ao molho barbecue,cassoulet vegetariano,virado de abobrinha,bolinho de chocolate
+2023-09-20,almoco,frango assado,ovo frito,polenta cremosa,torrone
+2023-09-20,jantar,bife ao molho madeira,bife de pvt ao molho madeira,repolho com ervas,mousse de maracujá
+2023-09-21,almoco,estrogonofe de carne,quibe de brócolis com requeijão,batata palha,curau
+2023-09-21,jantar,bisteca suína ao molho roty,omelete com espinafre,farofa rica,picolé de uva
+2023-09-22,almoco,filé de frango ao molho pizzaiolo,grão de bico à indiana,legumes refogados,flan de baunilha com calda
+2023-09-22,jantar,lasanha à bolonhesa,lasanha de pvt,vagem ao alho,goiabada
+2023-09-23,almoco,bife ao molho ferrugem,almôndegas de aveia e ricota,cuscuz de legumes,bombom
+2023-09-25,almoco,carne moída com azeitonas,pvt com azeitonas,ervilha à parmentier,maxi goiabinha
+2023-09-25,jantar,lombo ao molho ferrugem,quibe de brócolis com requeijão,mandioca refogada,chocolate ao leite
+2023-09-26,almoco,bife ao molho provençal,moussaka vegetariana,cenoura à salsa,torrone
+2023-09-26,jantar,peixe frito,suflê de legumes,batata rústica,flan de baunilha com calda de goiabada
+2023-09-27,almoco,frango assado,cassoulet vegetariano,chuchu gratinado,gelatina de framboesa
+2023-09-27,jantar,bife ao molho madeira,omelete de forno,couve - flor ao vinagrete,iogurte de morango
+2023-09-28,almoco,hamburguer ao molho pizzaiolo,hamburguer de grão de bico ao molho pizzaiolo,macarrão ao alho e óleo,bolinho de chocolate
+2023-09-28,jantar,frango assado,pvt com cogumelo,polenta,surpresa de banana
+2023-09-29,almoco,lombo ao molho barbecue,ovo cozido,farofa rica,mousse de limão
+2023-09-29,jantar,bife ao molho de cebola,tomate recheado,batata doce com ervas,barra de cereal 
+2023-09-30,almoco,estrogonofe de frango,curry de legumes,batata palha,pudim de maria mole com coco
+2023-10-02,almoco,bife ao molho madeira,lasanha de queijos e espinafre,cenoura à salsa,torrone
+2023-10-02,jantar,lombo ao molho roty,quibe de pvt,abobrinha à italiana,bolinho de brigadeiro
+2023-10-03,almoco,carne moída com azeitonas,pvt com azeitonas,nhoque ao sugo,arroz doce moreno
+2023-10-03,jantar,filé de coxa assado,cassoulet vegetariano,polenta cremosa ,maxi goiabinha
+2023-10-04,almoco,frango empanado,ovo cozido,creme de milho,bombom 
+2023-10-04,jantar,bife ao molho ferrugem,lasanha de berinjela e pvt,chuchu com manjericão,gelatina de morango
+2023-10-05,almoco,peixe ao molho suíço,grãos com queijo branco,brócolis ao alho,barra de cereal
+2023-10-05,jantar,carne louca (lagarto desfiado),almôndegas de aveia ao sugo,batata corada,pudim de maria mole
+2023-10-06,almoco,linguiça acebolada,pvt alemão,virado de couve,picolé de uva
+2023-10-06,jantar,carne de panela,omelete de forno,macarrão à primavera,brigadeirão
+2023-10-07,almoco,estrogonofe de carne,estrogonofe de legumes,batata palha,mousse de morango
+2023-10-09,almoco,carne em cubos ao molho de cebola,quibe de brócolis,vagem à provençal,barra de cereal
+2023-10-09,jantar,estrogonofe de frango,estrogonofe de grão de bico,batata palha,chocolate ao leite
+2023-10-10,almoco,lombo suíno ao molho barbecue,ovo cozido,farofa,gelatina de framboesa
+2023-10-10,jantar,lasanha à bolonhesa,lasanha de pvt,repolho com ervas,pudim de pão 
+2023-10-11,almoco,filé de coxa assado,suflê de legumes,macarrão ao sugo,bolinho roll
+2023-10-11,jantar,iscas ao molho madeira,ovo frito,ervilha à parmentier,sorvete de morango
+2023-10-16,almoco,frango empanado,moussaka vegetariana,legumes sauté,bolinho de chocolate
+2023-10-16,jantar,iscas ao molho de cogumelos,suflê de legumes,batata doce corada,maxi goiabinha
+2023-10-17,almoco,lasanha à bolonhesa,lasanha de pvt,acelga à chinesa,mousse de limão
+2023-10-17,jantar,lombo ao molho barbecue,omelete de forno,abobrinha ao alho,bombom
+2023-10-18,almoco,frango assado,cassoulet vegetariano,polenta cremosa,flan de baunilha com calda de goiabada
+2023-10-18,jantar,bife ao molho roty,tomate recheado,chuchu com manjericão,iogurte de morango
+2023-10-19,almoco,lagarto ao molho madeira,ovo frito,farofa,sorvete de flocos
+2023-10-19,jantar,fricassé de frango,bifinho de feijão branco ao sugo,batata palha,gelatina de framboesa
+2023-10-20,almoco,bisteca suína acebolada,grão de bico à indiana,couve refogada,barra de cereais
+2023-10-20,jantar,carne moída refogada,pvt com azeitonas,macarrão ao alho e óleo,manjar com calda de ameixa
+2023-10-21,almoco,bife ao molho ferrugem,quibe de pvt,batata rústica,pudim de maria mole com coco
+2023-10-23,almoco,bife ao molho de azeitonas,tomate recheado,abobrinha à italiana,chocolate ao leite
+2023-10-23,jantar,linguiça acebolada,ovo cozido,mandioca refogada,goiabada
+2023-10-24,almoco,hambúrguer ao sugo,hambúrguer de lentilha ao sugo,macarrão ao alho e óleo com espinafre,bolinho de baunilha
+2023-10-24,jantar,frango assado,curry de legumes,polenta,surpresa de abacaxi
+2023-10-25,almoco,lombo suíno ao molho roty,grão de bico à moda indiana,farofa rica,max goiabinha
+2023-10-25,jantar,estrogonofe de carne,moussaka vegetariana,batata palha,gelatina de cereja
+2023-10-26,almoco,carne moída refogada,pvt com champignon e shimeji,ervilha à parmentier,manjar com calda de ameixa
+2023-10-26,jantar,filé de peixe frito,quibe de brócolis e requeijão,cenoura ao alho,picolé de limão
+2023-10-27,almoco,filé de frango ao molho pomodoro,omelete de espinafre,legumes sautê,brigadeirão
+2023-10-27,jantar,cubos de pernil ao molho barbecue,cassoulet vegetariano,virado de vagem,cocada
+2023-10-30,almoco,bife ao molho de roty,bobó de abóbora e palmito,legumes à salsa,iogurte de morango
+2023-10-30,jantar,frango empanado,ovo frito,creme de milho,doce de banana
+2023-10-31,almoco,pernil acebolado,curry de legumes,cenoura sauté,gelatina de framboesa 
+2023-10-31,jantar,hamburguer à pizzaiolo,hamburguer de pvt à pizzaiolo,macarrão penne ao alho e óleo e espinafre,bolinho roll de chocolate
+2023-11-01,almoco,filé de frango ao pomodoro,grão de bico à moda indiana,purê de batatas,sorvete de morango
+2023-11-01,jantar,estrogonofe de carne,moussaka vegetariana,batata palha,gelatina de cereja
+2023-11-06,almoco,filé de frango empanado,omelete de abobrinha,repolho com cenoura refogados,bolinho de chocolate
+2023-11-06,jantar,linguiça acebolada,moussaka vegetariana,virado de vagem,goiabada
+2023-11-07,almoco,bife ao molho madeira,tomate recheado,chuchu com manjericão,arroz doce moreno 
+2023-11-07,jantar,frango assado,curry de legumes,polenta,mousse de chocolate
+2023-11-08,almoco,lombo ao molho barbecue,pvt alemão,mandioca temperada,pé de moça
+2023-11-08,jantar,hamburguer ao molho pizzaiolo,hamburguer de lentilha à pizzaiolo,purê misto com mandioquinha,gelatina de cereja
+2023-11-09,almoco,carne em cubos ao molho de cogumelo,almôndega de aveia com espinafre,macarrão ao sugo,manjar com calda de ameixa
+2023-11-09,jantar,filé de frango ao molho ferrugem,ovo cozido,cenoura ao alho,chocolate ao leite
+2023-11-10,almoco,peixe ao molho rio verde,grãos com queijo,batata sautê,barra de cereal
+2023-11-10,jantar,iscas ao molho provençal,pvt com azeitonas,cuscuz de legumes,picolé de uva
+2023-11-11,almoco,pernil ao molho roty,suflê de legumes,couve refogada,brigadeirão
+2023-11-13,almoco,linguiça acebolada,cassoulet vegetariano,virado de couve,bananada e laranja
+2023-11-13,jantar,bife ao molho roty,tomate recheado,legumes refogados,bolinho roll e abacaxi
+2023-11-14,almoco,lasanha à bolonhesa,lasanha de pvt,abobrinha com ervas,mosaico e melancia
+2023-11-14,jantar,frango assado,almôndega de aveia e espinafre,ervilha à parmentier,cocada e banana
+2023-11-16,almoco,filé de frango empanado,ovo frito,acelga à provençal,torrone e maçã
+2023-11-16,jantar,carne de panela ao molho de azeitonas,pvt com azeitonas,nhoque ao sugo,maxi goiabinha e laranja
+2023-11-17,almoco,bife ao molho pomodoro,moussaka vegetariana,polenta,picolé de limão e banana
+2023-11-17,jantar,pernil ao molho ferrugem,omelete de brócolis,farofa,delícia de abacaxi e melancia
+2023-11-18,almoco,fricassé de frango,pvt mexicano,batata palha,pudim de maria mole com coco e melão
+2023-11-21,almoco,bife ao molho roty,omelete de forno,batata rústica,doce de leite e banana
+2023-11-21,jantar,peixe frito,grãos com queijo branco,brócolis à provençal,iogurte
+2023-11-22,almoco,frango assado,quibe de brócolis e requeijão,abobrinha à italiana,gelatina de cereja
+2023-11-22,jantar,bife ao molho de cogumelos,lasanha de queijos,chuchu com manjericão,sorvete de creme e maçã
+2023-11-23,almoco,hamburguer à pizzaiolo,hamburguer de pvt à pizzaiolo,macarrão à primavera,bombom e melancia
+2023-11-23,jantar,fricassé de frango,ovo frito,batata palha,pudim de coco com calda e banana
+2023-11-24,almoco,bisteca ao molho ferrugem e limão,curry de legumes,farofa,arroz doce moreno e laranja
+2023-11-24,jantar,carne moída refogada,pvt com azeitonas,batata doce com ervas,brigadeirão e abacaxi
+2023-11-25,almoco,estrogonofe de carne,estrogonofe de grão de bico,legumes sauté,bolinho de baunilha e
+2023-11-27,almoco,bife ao molho de azeitonas,grão de bico à indiana,chuchu gratinado,cocada
+2023-11-27,jantar,filé de frango empanado,ovo cozido,creme de milho,barra de cereais
+2023-11-28,almoco,carne louca (lagarto desfiado),almôndega de espinafre e ricota ao sugo,macarrão penne ao alho e óleo,pudim de pão
+2023-11-28,jantar,lombo ao molho barbecue,suflê de legumes,couve refogada,bombom
+2023-11-29,almoco,frango assado,bifinho de pvt,ervilha à parmentier,bolinho roll
+2023-11-29,jantar,estrogonofe de carne,estrogonofe de legumes,vagem ao alho,manjar com calda de ameixa
+2023-11-30,almoco,pernil ao molho ferrugem,hamburguer de lentilha,farofa,maxi goiabinha
+2023-11-30,jantar,lagarto ao molho madeira,quibe de brócolis e requeijão,legumes à salsa,gelatina de cereja
+2023-12-01,almoco,bife ao molho roty,omelete de forno,nhoque ao sugo,sorvete de flocos
+2023-12-01,jantar,filé de frango à pizzaiolo,curry de legumes,batata rústica,surpresa de banana com doce de leite
+2023-12-02,almoco,carne em cubos ao molho pomodoro,pvt com cogumelo e shimeji,couve flor ao alho,barra de cereais e melão
+2023-12-04,almoco,filé de frango empanado,ovo frito,creme de milho,max goiabinha
+2023-12-04,jantar,iscas de carne ao molho de cogumelos,quibe de brócolis e requeijão,legumes refogados,bolinho roll de chocolate
+2023-12-05,almoco,lasanha à bolonhesa,lasanha de pvt,vagem sauté,barra de cereal
+2023-12-05,jantar,pernil ao molho barbecue,almôndega de aveia ao molho barbecue,virado de couve,gelatina de cereja
+2023-12-06,almoco,bife ao molho roty,tomate recheado,cenoura à salsa,flan de baunilha com calda de goiabada
+2023-12-06,jantar,peixe frito,cassoulet vegetariano,purê de batatas,sorvete de morango
+2023-12-07,almoco,hamburguer ao molho pizzaiolo,hambúrguer de lentilha ao molho pizzaiolo,macarrão ao alho e óleo,espumone de framboesa
+2023-12-07,jantar,frango assado,omelete de espinafre,polenta cremosa,pé de moça
+2023-12-08,almoco,lombo ao molho ferrugem,baião de dois vegetariano,farofa,mousse de limão
+2023-12-08,jantar,bife ao molho provençal,moussaka vegetariana,chuchu com manjericão,doce de leite
+2023-12-09,almoco,tiras de frango ao molho rosé,souflé de legumes,batata doce com ervas,pudim de maria mole com calda de groselha
+2023-12-11,almoco,linguiça acebolada,curry de legumes,abobrinha à italiana,bolinho de baunilha
+2023-12-11,jantar,carne de panela ao molho roty,quibe de pvt,mandioca ao tomatelli,barra de cereais de chocolate e frutas 
+2023-12-12,almoco,bife ao molho tomatelli,pvt alemão,polenta,arroz doce moreno
+2023-12-12,jantar,frango assado,ovo cozido,macarrão à primavera,chocolate ao leite
+2023-12-13,almoco,estrogonofe de carne,estrogonofe de grão de bico,batata palha,maxi chocolate
+2023-12-13,jantar,filé de frango empanado,suflê de legumes,creme de milho,mosaico de gelatina
+2023-12-14,almoco,frango cremoso,canelloni de brócolis com queijo ao sugo,batata rústica,pavê de bombom
+2023-12-14,jantar,lombo assado,quiche de espinafre,farofa natalina,alfajor
+2023-12-15,almoco,peixe frito,grãos com queijo branco,brócolis ao alho,picolé de limão
+2023-12-15,jantar,carne moída com azeitonas,pvt com azeitonas,ervilha à parmentier,flan de baunilha com calda de goiabada
+2023-12-16,almoco,pernil ao molho ferrugem,omelete de forno,couve ao alho,torrone
+2023-12-18,almoco,carne em cubos ao molho ferrugem,almôndega de feijão branco ao molho ferrugem,purê misto com mandioquinha,maxi goiabinha
+2023-12-18,jantar,filé de frango à pizzaiolo,tomate recheado,legumes ao alho,beijinho de coco 
+2023-12-19,almoco,bife ao molho madeira ,quibe de brócolis,chuchu com azeitonas,gelatina de framboesa
+2023-12-19,jantar,lombo ao molho barbecue,ovo cozido,virado de abobrinha e cenoura,pudim de coco com calda de frutas vermelhas
+2023-12-20,almoco,filé de coxa assado,pvt alemão,polenta cremosa,romeu e julieta
+2023-12-20,jantar,estrogonofe de carne ,estrogonofe de grão de bico,batata palha,banana caramelada
+2023-12-21,almoco,filé de frango empanado,ovo frito,creme de milho,torrone
+2023-12-21,jantar,hambúrguer ao molho pomodoro ,hambúrguer de pvt ao molho pomodoro,macarrão com espinafre alho e óleo,bombom
+2024-01-03,jantar,linguiça acebolado,pvt com azeitonas,farofa,cocada e maçã
+2024-01-04,almoco,peixe frito,bifinho de feijão branco ao sugo,purê misto,picolé de uva e banana
+2024-01-04,jantar,estrogonofe de carne,estrogonofe de pvt,legumes refogados,mousse de limão e abacaxi
+2024-01-05,almoco,bife ao molho de azeitonas,cassoulet vegetariano,batata rústica,chocolate ao leite e melancia
+2024-01-05,jantar,frango assado,curry de legumes,macarrão penne ao sugo,gelatina de morango e banana
+2024-01-06,almoco,carne de panela ao pomodoro,grãos com queijo branco,cenoura sautê,curau e maçã
+2024-01-08,almoco,bife acebolado,pvt com cogumelo e shimeji,couve flor à provençal,bombom e abacaxi
+2024-01-08,jantar,estrogonofe de frango,estrogonofe de grão de bico,batata palha,barra de cereal e melão
+2024-01-09,almoco,bisteca ao molho barbecue,ovo cozido,farofa rica,arroz doce e banana
+2024-01-09,jantar,bife ao molho de azeitonas,quibe de brócolis e requeijão,chuchu com manjericão,maxi chocolate e mamão
+2024-01-10,almoco,iscas de carne ao molho cogumelo,tomate recheado,polenta de corte ao sugo,gelatina colorida e maçã
+2024-01-10,jantar,pernil ao molho ferrugem,omelete de espinafre,farofa,mini bolo de baunilha e abacaxi
+2024-01-11,almoco,lagarto ao molho madeira,bifinho de pvt,batata doce com ervas,doce de abobora com coco e melão
+2024-01-11,jantar,lasanha à bolonhesa,lasanha de queijos,repolho com cenoura refogados,sorvete de creme e banana
+2024-01-12,almoco,filé de frango ao molho tomatelli,curry de legumes,espaguete ao alho e óleo,banana caramelada e mamão
+2024-01-12,jantar,bife ao molho madeira,almôndega de aveia ao molho provençal,ervilha à parmentier,beijinho de coco e melancia
+2024-01-13,almoco,lombo  suíno acebolado,hamburguer de lentilha ao molho ferrugem,virado de cenoura com azeitonas,pudim de morango e laranja
+2024-01-15,almoco,frango empanado,ovo frito,creme de milho,barra de cereal e abacaxi
+2024-01-15,jantar,carne de panela,moussaka vegetariana,batata rústica,torrone e melão
+2024-01-16,almoco,linguiça suína acebolada,pvt com cogumelo e shimeji,farofa,sorvete de flocos e maçã
+2024-01-16,jantar,bife ao molho pomodoro,tomate recheado,acelga chinesa,gelatina de morango e mamão
+2024-01-17,almoco,iscas de carne ao molho madeira,souflê de legumes,mandioca ao tomatelli,romeu e julieta e banana
+2024-01-17,jantar,peixe ao molho de queijos,grãos com queijo branco,brócolis à provençal,doce de abóbora com coco e laranja
+2024-01-18,almoco,quibe de assadeira,quibe de brócolis e requeijão,vagem ao alho,maxi chocolate e melão
+2024-01-18,jantar,tiras de frango à pizzaiolo,ovo cozido,chuchu com azeitonas,manjar de coco e melancia
+2024-01-19,almoco,frango assado,grão de bico à indiana,polenta de corte ao sugo,beijinho de coco e mamão
+2024-01-19,jantar,hamburguer ao sugo,hamburguer de pvt ao sugo,espaguete ao alho e óleo,iogurte e banana
+2024-01-20,almoco,estrogonofe de carne,estrogonofe de legumes,batata corada,brigadeirão e melancia
+2024-01-22,almoco,bife ao molho de azeitonas,pvt com azeitonas,chuchu gratinado,torrone e maçã
+2024-01-22,jantar,lombo suíno ao molho barbecue,souflê de legumes,couve ao alho,chocolate e melão
+2024-01-23,almoco,hamburguer ao sugo,hamburguer de lentilha ao sugo,macarrão com molho suíço,manjar de coco com ameixa e melancia
+2024-01-23,jantar,frango assado,moussaka vegetariana,batata doce com ervas,romeu e julieta e abacaxi
+2024-01-24,almoco,pernil suíno ao molho roty,omelete de espinafre,farofa rica,mousse de morango e melão
+2024-01-24,jantar,bife ao molho provençal,lasanha de abobrinha com pvt,legumes à salsa,picolé de limão e banana
+2024-01-25,almoco,carne moída,quibe de pvt,batata corada,gelatina de cereja e laranja
+2024-01-25,jantar,frango empanado,ovo frito,creme de milho,flan de baunilha com calda de caramelo e melancia
+2024-01-26,almoco,frango assado,almôndega de aveia ao sugo,quiabo refogado,iogurte e abacaxi
+2024-01-26,jantar,carne louca (lagarto),grãos gratinados,polenta cremosa,barra de cereais e maçã
+2024-01-27,almoco,lombo suíno ao molho roty,curry de legumes,mandioca ao tomatelli,sagu e mamão
+2024-01-29,almoco,carne em cubos , ovo frito,legumes sauté,cocada e laranja
+2024-01-29,jantar,lombo suíno ao molho barbecue,moussaka vegetariana,ervilha a parmentier,bananada e mamão
+2024-01-30,almoco,filé de frango a pizzaiolo,bife de grão de bico a pizzaiollo,purê de batata,maria mole e banana
+2024-01-30,jantar,carne moída,pvt com azeitonas,nhoque ao sugo,bombom e melancia
+2024-01-31,almoco,pernil suíno ao molho ferrugem,bobó de palmito e abóbora,couve refogada,barra de cereais e mel e abacaxi
+2024-01-31,jantar,bife ao molho de cebola,omelete de brócolis,mandioca ao tomatelli ,gelatina de framboesa e laranja
+2024-02-01,almoco,bife ao molho de cogumelos opção do prato principal: almôndega de aveia ao molho de cogumelos,almôndega de aveia ao molho de cogumelos,couve flor a provençal,maxi goiabinha e mamão
+2024-02-01,jantar,filé de frango ao molho rosé ,grãos com queijo branco,cenoura a salsa,mousse de limão e banana 
+2024-02-02,almoco,bisteca ao molho barbecue,curry de legumes,farofa,brigadeirão e melancia
+2024-02-02,jantar,lagarto ao molho madeira ,quibe de pvt,batata corada,goiabada com queijo e abacaxi
+2024-02-03,almoco,filé de coxa assado,pvt alemão,chuchu com manjericão,pudim de morango com calda de groselha e banana
+2024-02-05,almoco,bife ao molho madeira,tomate recheado,mandioca temperada,iogurte de morango e mamão
+2024-02-05,jantar,cubos de pernil ao molho barbecue,ovo frito,virado de vagem e cenoura,sorvete de flocos e maçã
+2024-02-06,almoco,frango empanado,bife de feijão branco ao molho ferrugem,creme de milho,gelatina de cereja e melão
+2024-02-06,jantar,lasanha à bolonhesa,lasanha de pvt,acelga à chinesa,maxi goiabinha e banana
+2024-02-07,almoco,lombo suíno ao molho ferrugem,almôndega de aveia e espinafre ao sugo,farofa rica,beijinho de coco e abacaxi
+2024-02-07,jantar,bife ao molho de azeitonas,pvt com cogumelo,batata doce com ervas,arroz doce moreno e mamão
+2024-02-08,almoco,carne em cubos,quibe de brócolis com requeijão,ervilha à parmentier,manjar com calda de ameixa e banana
+2024-02-08,jantar,frango assado,curry de legumes,chuchu com azeitonas,bolinho de chocolate com brigadeiro e melancia
+2024-02-09,almoco,filé de merluza ao molho rio verde,omelete com espinafre,batata rústica,sagu e laranja
+2024-02-09,jantar,hamburguer ao molho pomodoro,hamburguer de pvt ao molho pomodoro,macarrão ao alho e óleo,chocolate ao leite e goiaba
+2024-02-15,almoco,bife ao molho roty,lasanha de queijo,repolho com ervas,doce de cocada e melancia
+2024-02-15,jantar,frango assado,omelete de forno,ervilha à parmentier,barra de cereal e banana
+2024-02-16,almoco,carne moída,pvt com azeitonas,macarrão ao alho e óleo,gelatina de morango e mamão
+2024-02-16,jantar,lombo ao molho barbecue,grão de bico à indiana,farofa,beijinho de coco e abacaxi
+2024-02-17,almoco,fricassê de frango,estrogonofe de pvt,batata palha,goiabada e laranja
+2024-02-19,almoco,linguiça suína acebolada,grão de bico à indiana,farofa rica,bolinho de baunilha com recheio de morango e laranja
+2024-02-19,jantar,estrogonofe de carne,ovo frito,legumes refogados,doce de leite e maçã
+2024-02-20,almoco,lasanha à bolonhesa,lasanha de pvt,brócolis ao alho,mousse de chocolate e melão
+2024-02-20,jantar,filé de frango ao molho ferrugem,souflê de legumes,batata rústica,iogurte de morango e mamão
+2024-02-21,almoco,pernil ao molho barbecue,pvt com cogumelo e shimeji,couve refogada,picolé de limão e banana
+2024-02-21,jantar,bife ao molho provençal,tomate recheado,polenta,pudim de maria mole com coco e laranja
+2024-02-22,almoco,hamburguer à pizzaiolo,hamburguer de pvt à pizzaiolo,purê de batatas,chocolate ao leite e melancia
+2024-02-22,jantar,frango empanado,almôndega de aveia e espinafre ao sugo,cenoura à salsa,mosaico de gelatina e melão
+2024-02-23,almoco,bife ao molho de cebola,omelete de brócolis,nhoque ao sugo,goiabada com queijo e abacaxi
+2024-02-23,jantar,lombo ao molho ferrugem,moussaka vegetariana,vagem sautê,barra de cereais e melancia
+2024-02-24,almoco,frango assado,grãos com queijo branco,abobrinha à italiana,surpresa de abacaxi e maçã
+2024-02-26,almoco,frango empanado,almôndega de ricota com espinafre,creme de milho,bolinho roll de chocolate e melancia
+2024-02-26,jantar,bife ao molho madeira,quibe de brócolis com requeijão,batata corada,torrone e laranja
+2024-02-27,almoco,carne moída refogada,pvt com azeitonas,macarrão penne com molho parmesão,bananada e maçã
+2024-02-27,jantar,linguiça suína acebolada,ovo cozido,farofa rica,bombom e abacaxi
+2024-02-28,almoco,estrogonofe de carne,souflé de legumes,batata palha,pudim de maria mole com coco e melão
+2024-02-28,jantar,peixe frito ,grãos com queijo branco,brócolis à provençal,picolé de uva e banana
+2024-02-29,almoco,tiras de frango ao molho ferrugem,curry de legumes,polenta cremosa,barrinha de cereais de banana e mel e abacaxi
+2024-02-29,jantar,carne de panela ao pomodoro,grão de bico à indiana,chuchu gratinado,brigadeirão e melancia
+2024-03-01,almoco,bife ao molho roty,cassoulet vegetariano,batata doce com ervas,doce de goiabada e laranja
+2024-03-01,jantar,filé de coxa assado,ovo frito,cenoura refogada,pudim de baunilha com groselha e melão
+2024-03-02,almoco,lombo suíno ao molho barbecue,pvt mexicano,couve ao alho,gelatina de cereja e mamão
+2024-03-04,almoco,frango empanado,pvt com azeitonas,legumes refogados,doce de leite e maçã
+2024-03-04,jantar,bife ao molho de cebola,tomate recheado,batata rústica,bolinho roll de chocolate e abacaxi
+2024-03-05,almoco,lasanha à bolonhesa,lasanha de pvt,acelga refogada,doce de banana e mamão
+2024-03-05,jantar,pernil ao molho barbecue,baião de dois vegetariano,mandioca sauté,gelatina de framboesa e melão
+2024-03-06,almoco,filé de coxa assado,souflê de legumes,purê de batata e mandioquinha,mousse de maracujá e melancia
+2024-03-06,jantar,carne em cubos ao molho provençal,omelete de forno,polenta cremosa,sorvete de flocos e banana
+2024-03-07,almoco,hamburguer à pizzaiolo,hamburguer de lentilha ao sugo,macarrão à primavera,bombom e abacaxi
+2024-03-07,jantar,filé de frango ao molho ferrugem,grão de bico à indiana,vagem ao alho,arroz doce moreno
+2024-03-08,almoco,lombo ao molho madeira,ovo frito,chuchu com azeitonas,flan de baunilha com calda e
+2024-03-08,jantar,isca bovina ao molho roty,quibe de brócolis e requeijão,ervilha à parmentier,iogurte de morango e melancia
+2024-03-09,almoco,lagarto ao molho de cogumelos,pvt com shimeji e champignon, farofa,pudim de coco com groselha e
+2024-03-11,almoco,bife ao molho madeira,quibe de brócolis e requeijão ,chuchu gratinado,bolinho de baunilha e morango e abacaxi
+2024-03-11,jantar,linguiça suína acebolada,pvt com azeitonas,farofa,bombom e melão
+2024-03-12,almoco,filé de frango empanado,bife de grão de bico,creme de milho,picolé de uva e banana
+2024-03-12,jantar,carne moída,moussaka vegetariana,abobrinha à italiana,mousse de limão e melancia
+2024-03-13,almoco,bisteca suína ao molho ferrugem,baião de dois vegetariano,couve ao alho,surpresa de banana e melão 
+2024-03-13,jantar,filé de coxa assada,almôndega de aveia,polenta cremosa,gelatina de morango e banana 
+2024-03-14,almoco,pernil ao molho barbecue,omelete de abobrinha,repolho com ervas,manjar com calda de ameixa e melancia
+2024-03-14,jantar,estrogonofe de carne ,estrogonofe de legumes,batata palha,torrone e maçã
+2024-03-15,almoco,filé de peixe ao molho suíço,grãos com queijo branco,brócolis ao alho ,pudim de maria mole com coco e laranja
+2024-03-15,jantar,carne louca ,ovo cozido,macarrão alho e óleo com espinafre,chocolate ao leite e abacaxi
+2024-03-16,almoco,bisteca suína ao molho ferrugem,baião de dois vegetariano,couve ao alho,surpresa de banana e melão 
+2024-03-18,almoco,linguiça acebolada,grão de bico à indiana,virado de cenoura e vagem,iogurte de morango e maçã
+2024-03-18,jantar,frango empanado,omelete de espinafre,creme de milho,barra de cereal e melancia
+2024-03-19,almoco,carne de panela ao pomodoro,almôndegas de aveia,purê de batatas,gelatina de cereja e laranja
+2024-03-19,jantar,lombo ao barbecue,grãos com queijo branco,legumes refogados,doce de banana e mamão
+2024-03-20,almoco,frango assado,ovo frito,polenta cremosa,barra de cereal e abacaxi
+2024-03-20,jantar,bife ao molho madeira,rondele de queijo e espinafre,couve flor à provençal,pudim de pão e banana
+2024-03-21,almoco,bife ao molho ferrugem,pvt alemão,ervilha à parmentier,cocada e banana
+2024-03-21,almoco,estrogonofe de carne,estrogonofe de pvt,batata palha,brigadeirão e melão
+2024-03-21,jantar,bisteca ao molho roty,curry de legumes,farofa rica,maxi goiabinha e laranja
+2024-03-22,almoco,tiras de frango à pizzaiolo,ovo frito,macarrão ao alho e óleo,surpresa de abacaxi e melancia
+2024-03-22,jantar,lasanha à bolonhesa,lasanha de pvt,acelga à chinesa,picolé de limão e maçã
+2024-03-23,almoco,bife ao molho ferrugem,pvt alemão,ervilha à parmentier,cocada e banana
+2024-03-25,almoco,bife ao molho pomodoro,tomate recheado,chuchu gratinado,barra de cereal chocolate e melancia
+2024-03-25,jantar,lombo ao molho roty,pvt com azeitonas,farofa rica,bolinho de baunilha e abacaxi
+2024-03-26,almoco,fricassé de frango,grão de bico,legumes sautê,sorvete de creme e banana
+2024-03-26,jantar,hamburguer à pizzaiolo,hamburguer de pvt ao sugo,purê de batatas,pão de mel e mamão
+2024-03-27,almoco,cubos de pernil ao barbecue,curry de legumes,mandioca à salsa,mosaico de gelatina e abacaxi
+2024-03-27,jantar,filé de frango ao molho ferrugem,omelete de forno,nhoque ao sugo,romeu e julieta e melancia
+2024-03-28,almoco,bife à pizzaiolo,bobó de palmito,batata corada,ovo de páscoa e maçã
+2024-03-28,jantar,peixe frito,souflê de legumes,brócolis à provençal,ovo de páscoa e banana
+2024-04-01,almoco,bife ao molho roty,souflê de legumes,chuchu com manjericão,pé de moça e maçã
+2024-04-01,jantar,linguiça suína acebolada,pvt com azeitonas,virado de vagem com cenoura,maxi chocolate e melão
+2024-04-02,almoco,fricassé de frango,almôndega de aveia ao molho provençal,batata sautê,sorvete de morango e banana
+2024-04-02,jantar,hamburguer ao sugo,hamburguer de pvt ao sugo,macarrão ao alho e óleo,chocolate ao leite e abacaxi
+2024-04-03,almoco,cubos de pernil ao barbecue,curry de legumes,farofa,pudim de pão e melancia
+2024-04-03,jantar,bife ao molho madeira,tomate recheado,legumes ao alho,goiabada e laranja
+2024-04-04,almoco,lasanha à bolonhesa,lasanha de pvt,repolho com ervas,torrone e mamão
+2024-04-04,jantar,frango assado,ovo frito,abobrinha à italiana,flan de baunilha e melancia
+2024-04-05,almoco,peixe ao molho de queijos,grãos com queijo branco,brócolis à provençal,bolinho roll de chocolate e abacaxi
+2024-04-05,jantar,lombo suíno ao molho ferrugem,bifinho de feijão branco ao molho ferrugem,mandioca ao pomodoro,gelatina de morango e banana
+2024-04-06,almoco,carne de panela ao pomodoro,omelete de forno,batata rústica,cocada e laranja
+2024-04-08,almoco,carne de panela ao molho madeira,grãos gratinados,couve flor à provençal,bombom e melão
+2024-04-08,jantar,filé de frango ao molho pomodoro,pvt com shimeji e cogumelo ,chuchu gratinado,barra de cereais e maçã
+2024-04-09,almoco,bisteca ao molho barbecue,cassoulet vegetariano,couve ao alho,arroz doce moreno e laranja
+2024-04-09,jantar,estrogonofe de carne,estrogonofe de pvt ,batata palha,maxi chocolate e melancia
+2024-04-10,almoco,bife ao molho de cogumelo,lasanha de queijo,legumes sautê,iogurte e banana
+2024-04-10,jantar,cubos de pernil ao molho ferrugem,omelete de espinafre,farofa,brigadeirão e abacaxi
+2024-04-11,almoco,frango assado,grão de bico à indiana,macarrão à primavera,gelatina de cereja e mamão
+2024-04-11,jantar,carne moída com azeitonas,pvt alemão,polenta cremosa,picolé de uva e banana
+2024-04-12,almoco,lombo suíno ao molho ferrugem,ovo cozido,virado de cenoura e abobrinha,mini bolo de chocolate e abacaxi
+2024-04-12,jantar,bife ao molho roty,almôndega de aveia e espinafre,ervilha à parmentier,pudim de maria mole com calda e melão
+2024-04-13,almoco,carne louca ( lagarto),pvt com azeitonas,batata doce com ervas,mousse de limão e melancia
+2024-04-15,almoco,filé de frango empanado,ovo cozido,creme de milho,chocolate ao leite e abacaxi
+2024-04-15,jantar,carne em cubos ao molho ferrugem,cassoulet vegetariano,batata rústica,torrone e laranja
+2024-04-16,almoco,linguiça suína acebolada,pvt com shimeji e cogumelo,farofa,picolé de limão e banana
+2024-04-16,jantar,bife ao molho pomodoro,moussaka vegetariana,chuchu com manjericão,gelatina de morango e mamão
+2024-04-17,almoco,quibe de assadeira,quibe de pvt,ervilha à parmentier,manjar de coco com calda de ameixa e maçã
+2024-04-17,jantar,tiras de frango à pizzaiolo,grãos com queijo branco,macarrão ao alho e óleo,iogurte e melancia
+2024-04-18,almoco,estrogonofe de carne,estrogonofe de grão de bico,batata palha,pé de moça e mamão
+2024-04-18,jantar,peixe frito,baião de dois vegetariano,brócolis à provençal,bolinho roll de chocolate e abacaxi
+2024-04-19,almoco,bife ao molho madeira,tomate recheado,nhoque ao sugo,brigadeirão e melancia
+2024-04-19,jantar,lombo suíno ao molho barbecue,omelete de brócolis,cuscuz de legumes,maxi goiabinha e banana
+2024-04-20,almoco,frango assado,grão de bico à indiana,polenta,surpresa de abacaxi e melão
+2024-04-22,almoco,filé de frango empanado,pvt com azeitonas,creme de milho,doce de leite
+2024-04-22,jantar,bife ao molho ferrugem,ovo frito,batata rústica,barra de cereal e tangerina
+2024-04-23,almoco,hamburguer à pizzaiolo,hamburguer de lentilha ao sugo,macarrão ao alho e óleo,flan de baunilha com calda de goiabada
+2024-04-23,jantar,frango assado,souflê de legumes,couve flor à provençal,bombom
+2024-04-24,almoco,pernil ao molho barbecue,baião de dois vegetariano,mandioca à italiana,doce de banana
+2024-04-24,jantar,lasanha à bolonhesa,lasanha de pvt,repolho e cenoura refogados,manjar com calda de ameixa
+2024-04-25,almoco,bife ao molho tomatelli,quibe de brócolis,legumes à salsa,mosaico de gelatina
+2024-04-25,jantar,bisteca suína acebolada ao molho roty,curry de legumes,farofa,sorvete de flocos
+2024-04-26,almoco,estrogonofe de frango,estrogonofe de pvt,batata palha,pudim de maria mole com coco
+2024-04-26,jantar,lagarto ao molho madeira,ovo cozido,vagem ao alho,pé de moça
+2024-04-27,almoco,carne moída refogada,pvt alemão,cenoura gratinada,mousse de morango
+2024-04-29,almoco,bife ao molho de azeitonas,moussaka vegetariana,vagem ao vinagrete,barra de cereais (cereais e chocolate) e abacaxi
+2024-04-29,jantar,filé de frango empanado,ovo frito,creme de milho,bananada e maçã
+2024-04-30,almoco,lombo suíno grelhado ao barbecue,bife de feijão branco ao molho barbecue,farofa,gelatina de framboesa e tangerina
+2024-04-30,jantar,iscas de carne ao molho madeira,quibe de brócolis,batata corada,bolinho de baunilha e morango e melão
+2024-05-02,almoco,filé de frango empanado,omelete de abobrinha,legumes com ervas,bombom e melancia
+2024-05-02,jantar,bife ao molho tomatelli,tomate recheado,ervilha à parmentier,pé de moça e banana
+2024-05-03,almoco,filé de coxa assado,cassoulet vegetariano,polenta cremosa,goiabada em barra e laranja
+2024-05-03,jantar,carne louca (lagarto desfiado),pvt alemão,macarrão ao alho e óleo,manjar com calda de ameixa e melão
+2024-05-04,almoco,pernil ao molho ferrugem,pvt mexicano,chuchu com manjericão,mosaico de gelatina e mamão
+2024-05-06,almoco,carne em cubos ao molho de azeitonas,ovo cozido,ervilha parmentier,cocada branca e maçã
+2024-05-06,jantar,filé de frango empanado,lasanha de queijos,cenoura à salsa,barra de cereais e melão
+2024-05-07,almoco,bife ao molho roty,moussaka vegetariana,brócolis à provençal,mousse de morango e banana
+2024-05-07,jantar,lombo ao molho barbecue,curry de legumes,farofa rica,bolinho roll e abacaxi
+2024-05-08,almoco,frango assado,bifinho de feijão ao molho barbecue,abobrinha à italiana,manjar com calda de ameixa e melancia
+2024-05-08,jantar,strogonoff de carne,strogonoff de grão de bico,batata palha,doce de leite e laranja
+2024-05-09,almoco,lagarto ao molho de cogumelos,pvt com azeitonas,legumes ao alho,iogurte e mamão
+2024-05-09,jantar,filé de frango à pizzaiolo,omelete de forno,polenta cremosa,pudim de maria mole e banana
+2024-05-10,almoco,pernil ao molho ferrugem ,baião de dois vegetariano,mandioca ao tomatelli,brigadeirão e abacaxi
+2024-05-10,jantar,quibe recheado com requeijão,quibe de pvt,couve flor à salsa,picolé de uva e maçã
+2024-05-11,almoco,bife grelhado ao molho de cebola,pvt alemão,batata doce com ervas,surpresa de abacaxi e melão
+2024-05-13,almoco,bife ao molho madeira,tomate recheado,mandioca temperada,picolé de limão e maçã
+2024-05-13,jantar,linguiça acebolada,ovo frito,virado de couve,torrone e mamão
+2024-05-14,almoco,tiras de frango ao molho ferrugem,quibe de brócolis,vagem à provençal,arroz doce caramelado e melão
+2024-05-14,jantar,lasanha à bolonhesa,lasanha de pvt,acelga à chinesa,maxi goiabinha e banana
+2024-05-15,almoco,lombo assado ao molho barbecue,omelete de espinafre,farofa rica,chocolate ao leite e abacaxi
+2024-05-15,jantar,bife ao molho de azeitonas,pvt com azeitonas,batata rústica,gelatina de framboesa e mexerica
+2024-05-16,almoco,carne moída,souflê de legumes,polenta cremosa,flan de baunilha com calda de caramelo e banana
+2024-05-16,jantar,frango assado,baião de dois,brócolis ao alho,mini bolo baunilha com morango e melancia
+2024-05-17,almoco,peixe frito,almôndega de aveia ao molho ferrugem,purê de batata e mandioquinha,barra de cereais e mamão
+2024-05-17,jantar,hamburguer ao tomatelli,hamburguer de lentilha ao tomatelli,macarrão ao alho com espinafre,brigadeirão e abacaxi
+2024-05-18,almoco,carne em cubos ao molho roty,pvt c cogumelo e shimeji,chuchu gratinado,bananada e laranja
+2024-05-20,almoco,linguiça acebolada ,grão de bico à indiana,virado de cenoura e vagem,mini bolo de baunilha e melancia
+2024-05-20,jantar,filé de peixe ao molho rio verde , grãos com queijo branco,cenoura a salsa,bombom e abacaxi
+2024-05-21,almoco,lasanha à bolonhesa,lasanha de pvt,repolho com cenoura refogados,gelatina de cereja e melão
+2024-05-21,jantar,frango assado,cassoulet,polenta ,iogurte e mamão
+2024-05-22,almoco,lombo ao molho barbecue,ovo frito,couve refogada,pão de mel e banana
+2024-05-22,jantar,carne de panela ao molho acebolado,souflê de legumes,nhoque ao sugo,pudim de maria mole com coco e melancia
+2024-05-23,almoco,estrogonofe de carne,bifinho de pvt ao molho ferrugem,batata palha,barra de cereais e abacaxi
+2024-05-23,jantar,pernil ao molho roty,ovo cozido,farofa,sorvete de creme e banana
+2024-05-24,almoco,bife ao molho madeira,curry de legumes,batata rústica ,surpresa de banana e maçã
+2024-05-24,jantar,filé de peixe ao molho rio verde , grãos com queijo branco,cenoura a salsa,bombom e abacaxi
+2024-05-25,almoco,filé de frango ao molho ferrugem,almôndega de aveia ao molho ferrugem ,couve flor ao tomatelli ,maxi goiabinha e laranja
+2024-05-27,almoco,filé de frango empanado,ovo cozido,creme de milho,bananada
+2024-05-27,jantar,bife ao molho de cebola,almôndega de aveia ao molho ferrugem,abobrinha à italiana,barra de cereais e melão
+2024-05-28,almoco,hamburguer à pizzaiolo,hamburguer de lentilha ao sugo,purê de batatas,gelatina de morango e banana
+2024-05-28,jantar,lombo ao molho roty,moussaka,farofa,chocolate ao leite e abacaxi
+2024-05-29,almoco,carne moída ao sugo,pvt com azeitonas,macarrão à primavera,pudim de pão e melancia
+2024-05-29,jantar,estrogonofe de frango,estrogonofe de legumes,batata palha,cocada e laranja
+2024-06-03,almoco,filé de frango empanado,bifinho de feijão branco,creme de milho,doce de batata doce e laranja
+2024-06-03,jantar,bife ao molho provençal,tomate recheado,legumes à salsa,bombom e abacaxi
+2024-06-04,almoco,lasanha à bolonhesa,lasanha de ricota e espinafre,vagem sauté,maxi chocolate e banana
+2024-06-04,jantar,pernil ao molho barbecue,ovo frito,farofa,mousse de limão e mamão
+2024-06-05,almoco,estrogonofe de carne,estrogonofe de legumes,batata palha,flan de baunilha com calda e maçã
+2024-06-05,jantar,filé de frango ao molho ferrugem,baião de dois vegetariano,couve flor à provençal,sorvete de flocos e banana
+2024-06-06,almoco,lombo assado ao molho roty,cassoulet vegetariano,couve refogada,mosaico de gelatina e melão
+2024-06-06,jantar,hamburguer ao molho tomatelli,hamburguer de pvt ao molho tomatelli,macarrão pene ao alho,doce de leite e mexerica
+2024-06-07,almoco,filé de coxa assado,almôndega de aveia e espinafre ao molho ferrugem,abobrinha à italiana,torrone e mamão
+2024-06-07,jantar,lagarto assado ao molho madeira,moussaka vegetariana,batata corada,pudim de maria mole com coco
+2024-06-08,almoco,bife ao molho pomodoro,omelete de brócolis,chuchu com manjericão,bolinho roll e abacaxi
+2024-06-10,almoco,filé de frango empanado,bifinho de grão de bico ao sugo,vagem ao alho,bananada e maçã
+2024-06-10,jantar,estrogonofe de carne,estrogonofe de pvt,batata palha,torrone e laranja
+2024-06-11,almoco,carne em cubos ao molho pomodoro,curry de legumes,batata rústica,arroz doce moreno e banana
+2024-06-11,jantar,linguiça acebolada,ovo cozido,acelga à chinesa,chocolate ao leite e melancia
+2024-06-12,almoco,bife ao molho madeira,tomate recheado,macarrão ao sugo,barra de cereal e mamão
+2024-06-12,jantar,tiras de frango ao tomatelli,grãos com queijo branco,legumes refogados,pudim de pão com calda e melão
+2024-06-13,almoco,pernil ao molho barbecue,omelete de espinafre,mandioca ensopada ao molho pomodoro,pudim de maria mole com coco e melancia
+2024-06-13,jantar,bife ao molho de azeitonas,quibe de brócolis e requeijão,ervilha à parmentier,mini bolo de baunilha com chocolate e banana
+2024-06-14,almoco,filé de coxa assado,pvt com azeitonas,polenta ao sugo,mousse de limão e tangerina
+2024-06-14,jantar,lagarto assado ao molho roty,almôndega de aveia molho roty,chuchu gratinado,pão de mel e abacaxi
+2024-06-15,almoco,lombo ao molho ferrugem,lasanha de abobrinha e pvt,farofa,espumone de morango e melão
+2024-06-17,almoco,linguiça suína acebolada,moussaka vegetariana,virado de couve e milho,iogurte
+2024-06-17,jantar,bife ao molho madeira,curry de legumes,chuchu com azeitonas,rocambole de chocolate
+2024-06-18,almoco,quibe recheado com requeijão,quibe de pvt recheado com requeijão,purê de batata e mandioquinha,gelatina de framboesa
+2024-06-18,jantar,filé de coxa assado,cassoulet vegetariano,macarrão ao sugo,pé de moça
+2024-06-19,almoco,filé de peixe ao molho rio verde,grãos com queijo branco,couve flor à provençal,cocada
+2024-06-19,jantar,carne em cubos ao molho de cogumelos,pvt alemão,batata rústica,mousse de maracujá
+2024-06-20,almoco,carne louca (lagarto desfiado),almôndegas de aveia ao molho ferrugem,polenta cremosa,kit junino
+2024-06-20,jantar,lombo suíno ao molho ferrugem,omelete de brócolis,cuscuz,kit junino
+2024-06-21,almoco,filé de frango ao molho de cebola,baião de dois vegetariano,legumes refogados,brigadeirão
+2024-06-21,jantar,lasanha à bolonhesa,lasanha de pvt,repolho com ervas,doce de batata doce
+2024-06-22,almoco,bife ao molho provençal,ovo frito,abobrinha sautê,pão de mel
+2024-06-24,almoco,carne em cubos ao molho ferrugem,quibe de brócolis com requeijão,batata doce com ervas,pé de moça
+2024-06-24,jantar,filé de frango empanado,ovo frito,creme de milho,cocada
+2024-06-25,almoco,hamburguer ao sugo,hamburguer de pvt ao sugo,purê de batatas,chocolate ao leite
+2024-06-25,jantar,lombo ao molho de cebola,souflê de legumes,farofa,manjar de coco com calda de ameixa
+2024-06-26,almoco,estrogonofe de frango,pvt com champignon e shimeji,batata palha,canjica c amendoim
+2024-06-26,jantar,bife ao molho madeira,almôndegas de ricota e espinafre,brócolis à provençal,barra de cereais 
+2024-06-27,almoco,carne moída refogada,ovo cozido,nhoque ao sugo,mini bolo de baunilha 
+2024-06-27,jantar,filé de coxa assado,grão de bico à indiana,polenta cremosa,brigadeirão
+2024-06-28,almoco,isca de carne ao molho roty,bifinho de lentilha ao molho roty,ervilha à parmentier,sorvete de creme
+2024-06-28,jantar,peixe frito,pvt com azeitonas,legumes na manteiga,maxi goiabinha
+2024-06-29,almoco,cubos de pernil ao molho barbecue,pvt mexicano,couve refogada,curau
+2024-07-01,jantar,linguiça suína acebolada,pvt com shimeji e champignon,farofa,bombom
+2024-07-02,almoco,iscas de frango ao molho ferrugem,bifinho de feijão branco ao molho ferrugem,batata doce com ervas,manjar com calda de ameixa
+2024-07-02,jantar,carne louca (lagarto desfiado),omelete de brócolis,polenta,bolinho de baunilha e morango
+2024-07-03,almoco,feijoada,feijoada vegetariana,couve refogada,gelatina de cereja
+2024-07-03,jantar,bife ao molho tomatelli,curry de legumes,cenoura à salsa,torrone
+2024-07-04,almoco,carne moída refogada,ovo frito,macarrão à primavera,chocolate ao leite
+2024-07-04,jantar,filé de coxa assada,moussaka vegetariana,batata corada,arroz doce
+2024-07-05,almoco,iscas de carne ao molho de cogumelos,quibe de brócolis,chuchu com manjericão,barra de cereal
+2024-07-05,jantar,lombo ao molho roty,almôndegas de aveia ao molho rotty,cuscuz de legumes,pudim de maria mole com calda
+2024-07-06,almoco,carne em cubos ao molho provençal,pvt mexicano,mandioca ao tomatelli,brigadeirão
+2024-07-10,almoco,linguiça acebolada,grão de bico à indiana,farofa,max chocolate
+2024-07-10,jantar,filé de frango empanado,pvt com azeitonas,creme de milho,barra de cereais (banana e mel)
+2024-07-11,almoco,lasanha à bolonhesa,não informado,acelga à chinesa,gelatina de morango e mamão
+2024-07-11,jantar,bisteca suína ao molho ferrugem,cassoulet vegetariano,virado de couve,bananada e laranja
+2024-07-12,almoco,filé de coxa assado,bifinho de lentilha ao sugo,polenta,bombom
+2024-07-12,jantar,bife ao molho provençal,ovo frito,ervilha à parmentier,doce de abóbora caseiro e banana
+2024-07-13,almoco,lagarto ao molho de cogumelos,estrogonofe de pvt,legumes refogados,flan de baunilha com calda de goiabada
+2024-07-15,almoco,carne em cubos ao molho pomodoro,almôndega de aveia ao molho pomodoro,legumes refogados,torrone
+2024-07-15,jantar,filé de frango ao molho ferrugem,quibe de brócolis e requeijão,polenta,barra de cereal de chocolate e frutas
+2024-07-16,almoco,lombo ao molho roty,curry de legumes ,abobrinha à italiana,beijinho
+2024-07-16,jantar,lasanha à bolonhesa,lasanha de ricota e espinafre,repolho com cenoura refogados ,gelatina de cereja
+2024-07-17,almoco,hamburguer bovino ao sugo,bifinho de grão de bico ao sugo,purê de batata e mandioquinha,arroz doce
+2024-07-17,jantar,pernil ao molho barbecue,ovo cozido,farofa rica,max goiabinha
+2024-07-18,almoco,filé de frango empanado,cassoulet vegetetariano,creme de milho,banana caramelada
+2024-07-18,jantar,bife ao molho de cebola,tomate recheado,chuchu com manjericão,bolinho roll de chocolate
+2024-07-19,almoco,carne moída refogada,hamburguer de pvt ao molho ferrugem,macarrão com espinafre ao alho e óleo,goiabada com queijo
+2024-07-19,jantar,peixe frito,grãos gratinados,batata corada,pão de mel
+2024-07-20,almoco,bisteca ao molho madeira,ovo frito,couve flor à provençal,iogurte
+2024-07-22,almoco,filé de frango empanado,omelete de forno,creme de milho,bananada
+2024-07-22,jantar,bife grelhado ao molho de cebola,estrogonofe de pvt,batata doce com ervas,goiabada com queijo
+2024-07-23,almoco,estrogonofe de carne,pvt com azeitonas,batata palha,canjica
+2024-07-23,jantar,lombo ao molho barbecue,suflê de legumes,couve ao alho ,beijinho
+2024-07-24,almoco,bife ao molho de azeitonas,tomate recheado,vagem ao alho,mosaico de gelatina
+2024-07-24,jantar,filé de coxa assado,ovo cozido,polenta ao sugo com parmesão,iogurte
+2024-07-25,almoco,pernil ao molho roty,moussaka vegetariana,farofa,cocada
+2024-07-25,jantar,hambúrguer à pizzaiolo,hambúrguer de grão de bico ao sugo,macarrão macarrão ao alho e óleo,manjar com calda de ameixa
+2024-07-26,almoco,peixe frito,grãos com queijo,brócolis à provençal,bolinho roll de chocolate
+2024-07-26,jantar,carne moída refogada,pvt alemão,batata rústica,gelatina de cereja
+2024-07-26,almoco,peixe frito,grãos com queijo,brócolis à provençal,bolinho roll de chocolate
+2024-07-27,almoco,filé de frango ao molho ferrugem,bifinho de feijão branco ao molho ferrugem,ervilha à parmentier,barra de cereal de banana e mel
+2024-07-29,almoco,bife ao molho roty,quibe de pvt,chuchu com manjericão,pão de mel
+2024-07-29,jantar,iscas de frango ao molho ferrugem,grão de bico à indiana,mandioca ao tomatelli,doce de leite
+2024-07-30,almoco,lombo ao molho barbecue,lasanha de abobrinha e pvt,batata rústica,max goiabinha
+2024-07-30,jantar,carne em cubos ao molho de cebola,:almôndegas de aveia e escarola ao molho de cebola,nhoque ao sugo ,brigadeirão
+2024-07-31,almoco,filé de coxa assado,ovo cozido,polenta de corte ao sugo,pudim de maria mole com calda
+2024-07-31,jantar,estrogonofe de carne,pvt com azeitonas,batata palha,canjica
+2024-08-01,almoco,lagarto ao molho madeira,estrogonofe de grão de bico,legumes à salsa,picolé de limão
+2024-08-01,jantar,linguiça acebolada, hamburguer de pvt a pizzaiolo,farofa,flan de baunilha com calda de goiabada
+2024-08-02,almoco,bife ao molho de azeitonas,suflê de legumes,acelga à chinesa,bolinho roll de chocolate
+2024-08-02,jantar,filé de frango ao molho pomodoro,ovo frito,purê de batata e mandioquinha,mosaico de gelatina
+2024-08-03,almoco,pernil ao molho provençal,moussaka vegetariana,couve refogada,mousse de limão
+2024-08-05,almoco,filé de frango empanado,almôndega de aveia e escarola ao molho barbecue,creme de milho,doce de leite
+2024-08-05,jantar,estrogonofe de carne,bifinho de feijão branco ao molho de cebola,batata palha,barra de cereais
+2024-08-06,almoco,lasanha à bolonhesa,lasanha de pvt,legumes refogados,bolinho de baunilha com morango
+2024-08-06,jantar,lombo ao molho barbecue,grão de bico à indiana,chuchu com azeitonas,pudim de maria mole e coco
+2024-08-07,almoco,isca ao molho roty,cassoulet vegetariano,batata doce com ervas,mousse de maracujá
+2024-08-07,jantar,filé de coxa assado,moussaka vegetariana,vagem ao alho,sorvete de morango
+2024-08-08,almoco,feijoada,feijoada vegetariana,couve refogada,gelatina de cereja
+2024-08-08,jantar,bife grelhado ao molho madeira,ovo cozido,brócolis à provençal,pé de moça
+2024-08-09,almoco,filé de peixe ao molho rio verde,pvt alemão,batata sauté,surpresa de abacaxi
+2024-08-09,jantar,hamburguer ao sugo,hamburguer de grão de bico ao molho pizzaiolo,macarrão com espinafre,iogurte de morango
+2024-08-10,almoco,filé de frango ao molho ferrugem,ovo frito,polenta,arroz doce moreno
+2024-08-12,almoco,linguiça acebolada + limão,pvt com shimeji e champignon,farofa,maxi goiabinha
+2024-08-12,jantar,carne em cubos ao molho roty,souflé de legumes,mandioca ao tomatelli,barra de cereal banana e mel
+2024-08-13,almoco,bife ao molho ferrugem,tomate recheado,ervilha à parmentier,bombom
+2024-08-13,jantar,lombo ao molho madeira,cassoulet vegetariano,virado de couve,mousse de limão
+2024-08-14,almoco,hamburguer à pizzaiolo,hamburguer de pvt ao sugo,macarrão ao alho e óleo,sorvete de creme
+2024-08-14,jantar,estrogonofe de frango,omelete de espinafre,batata palha,bolinho roll de chocolate
+2024-08-19,almoco,filé de frango empanado,pvt com shimeji e champignon,legumes sautê,doce de banana
+2024-08-19,jantar,bife ao molho roty,tomate recheado,batata rústica,chocolate ao leite
+2024-08-20,almoco,carne moída refogada,curry de legumes,abobrinha à salsa,gelatina de cereja
+2024-08-20,jantar,bisteca suína ao molho ferrugem,ovo cozido,farofa rica,bombom
+2024-08-21,almoco,estrogonofe de carne,grão de bico à indiana,batata palha,barra de cereal com fruta
+2024-08-21,jantar,filé de coxa assado,pvt com azeitonas,polenta cremosa,surpresa de banana
+2024-08-22,almoco,lombo assado ao molho barbecue,omelete de abobrinha,mandioca ao molho tomatelli,brigadeirão
+2024-08-22,jantar,lasanha à bolonhesa,lasanha de pvt,repolho com ervas,doce de goiabada
+2024-08-23,almoco,carne em cubos ao molho de cogumelos,quibe de brócolis,nhoque ao sugo,pudim de pão com calda
+2024-08-23,jantar,peixe frito,almôndega de aveia e espinafre ao molho ferrugem,batata doce com ervas,picolé de uva e maçã
+2024-08-24,almoco,filé de coxa assado,grãos com queijo branco,vagem à provençal,torrone
+2024-08-26,almoco,fricassê de frango,bifinho de pvt ao molho pomodoro,batata palha,barra de cereais banana
+2024-08-26,jantar,bife ao molho madeira,quibe de brócolis com requeijão,legumes sautê,cocada
+2024-08-27,almoco,lombo ao molho ferrugem,bifinho de grão de bico ao molho ferrugem,farofa,sorvete de flocos
+2024-08-27,jantar,isca de coxão mole ao molho de azeitonas,pvt com cogumelo e shimeji,ervilha à parmentier,brigadeirão
+2024-08-28,almoco,carne moída refogada,pvt com azeitonas,batata rústica,manjar de coco com calda de ameixa
+2024-08-28,jantar,filé de frango empanado,ovo frito,creme de milho,maxi goiabinha
+2024-08-29,almoco,bife ao molho de cebola,lasanha de ricota com espinafre,couve flor ao alho,chocolate ao leite
+2024-08-29,jantar,pernil ao molho roty,hamburguer de lentilha ao molho roty,virado de abobrinha e cenoura,gelatina de framboesa
+2024-08-30,almoco,filé de coxa assado,almôndega de aveia e espinafre ao tomatelli,polenta cremosa,iogurte
+2024-08-30,jantar,lagarto ao molho de cogumelos,curry de legumes,macarrão à primavera,arroz doce moreno
+2024-08-31,almoco,carne em cubos ao molho provençal,omelete de abobrinha,cuscuz de legumes,mosaico de gelatina
+2024-09-02,jantar,fricassê de frango,bifinho de feijão branco,batata palha,bolinho roll de chocolate
+2024-09-03,almoco,lasanha à bolonhesa,lasanha de pvt,vagem sautê,doce de abóbora c
+2024-09-03,jantar,lombo ao molho barbecue,omelete c brócolis e queijo,farofa rica,marigel
+2024-09-04,almoco,filé de coxa assado,xadrez de grão de bico e legumes,ervilha à parmentier,barra de cereais
+2024-09-04,jantar,bife ao molho provençal,moussaka vegetariana,legumes refogados,sorvete de flocos
+2024-09-05,almoco,carne louca (lagarto),ovo cozido,polenta,arroz doce moreno
+2024-09-05,jantar,peixe frito,grãos gratinados,brócolis à provençal,flan de baunilha com calda de goiabada
+2024-09-06,almoco,filé de frango ao molho pizzaiolo,quibe de abóbora e requeijão,abobrinha com ervas,pudim de maria mole c
+2024-09-06,jantar,hamburguer ao molho ferrugem,hamburguer de pvt ao molho ferrugem,macarrão penne ao alho e óleo,chocolate ao leite
+2024-09-09,almoco,filé de frango empanado,souflê de legumes,creme de milho,barra de cereais
+2024-09-09,jantar,bife grelhado ao molho pomodoro,lasanha de ricota e espinafre,abobrinha à salsa,maxi goiabinha
+2024-09-10,almoco,carne moída refogada,bifinho de grão de bico ao sugo,batata rústica,gelatina de cereja
+2024-09-10,jantar,linguiça acebolada,pvt com azeitonas,cuscuz de legumes,pão de mel
+2024-09-11,almoco,bife ao molho madeira,omelete de forno,macarrão à primavera,cocada
+2024-09-11,jantar,filé de coxa grelhada,batata especial,chuchu com azeitonas,pudim de maria mole com calda de goiabada
+2024-09-12,almoco,pernil suíno ao molho barbecue,moussaka vegetariana,couve refogada,manjar c
+2024-09-12,jantar,estrogonofe de carne,ovo frito,batata palha,bolinho de baunilha
+2024-09-13,almoco,filé de peixe à portuguesa,batatalhoada,brócolis ao alho,torrone
+2024-09-13,jantar,carne em cubos ao molho roty,almôndega de aveia e espinafre ao molho roty,polenta,brigadeirão
+2024-09-14,almoco,lombo suíno ao molho ferrugem,quibe de brócolis c requeijão,farofa rica,espumone de morango
+2024-09-16,jantar,filé de frango empanado,souflê de legumes,chuchu com manjericão,torrone
+2024-09-17,almoco,lombo ao molho barbecue,almôndega de aveia e ricota ao molho barbecue,couve flor à provençal,gelatina de framboesa
+2024-09-17,jantar,lagarto ao molho de cogumelos,cassoulet vegetariano,ervilha à parmentier,pé de moça
+2024-09-18,almoco,carne moída refogada,grãos gratinados,macarrão com brócolis ao alho e óleo,chocolate ao leite
+2024-09-18,jantar,filé de coxa assada,omelete de abobrinha,repolho com azeitonas,mousse de maracujá
+2024-09-19,almoco,estrogonofe de carne,pvt à chinesa,batata palha,surpresa de abacaxi
+2024-09-19,jantar,pernil suíno ao molho roty,quibe de abóbora com requeijão,farofa rica,picolé de uva
+2024-09-20,almoco,filé de peixe frango ao molho ferrugem,grão de bico à indiana,polenta,iogurte de morango
+2024-09-20,jantar,bife ao molho madeira,batata especial veg.,acelga à chinesa,bombom
+2024-09-21,almoco,bife ao molho madeira,batata especial vegetariana,acelga à chinesa,bombom
+2024-09-23,almoco,filé de frango empanado,pvt com azeitonas,creme de milho,torrone
+2024-09-23,jantar,bife ao molho ferrugem ,tomate recheado,mandioca à salsa,barra de cereais
+2024-09-24,almoco,hamburguer bovino ao sugo,hamburguer de lentilha à pizzaiolo,macarrão à primavera,picolé de limão
+2024-09-24,jantar,estrogonofe de frango,almôndega de aveia ao molho barbecue,batata rústica,pudim de pão
+2024-09-25,almoco,bife ao molho de azeitonas,cassoulet vegetariano,ervilha à parmentier,brigadeirão
+2024-09-25,jantar,lombo suíno ao molho barbecue,omelete de espinafre,virado de couve,iogurte de morango
+2024-09-26,almoco,filé de coxa assado,escondidinho de pvt,chuchu com azeitonas,bolinho roll de chocolate
+2024-09-26,jantar,carne moída refogada,bifinho de grão de bico ao sugo,polenta cremosa,gelatina de cereja
+2024-09-27,almoco,pernil assado ao molho de cebola,ovo frito,farofa,mousse de limão
+2024-09-27,jantar,isca bovina ao molho de cogumelo,quibe de brócolis e requeijão,nhoque ao sugo,manjar com calda de ameixa
+2024-09-28,almoco,carne em cubos ao pomodoro,xadrez de pvt e legumes,batata doces com ervas,doce de leite
+2024-09-30,almoco,linguiça acebolada,curry de legumes,cuscuz ,bananada
+2024-09-30,jantar,bife ao molho azeitonas ,pvt à chinesa,purê de batata e mandioquinha,bombom
+2024-10-01,almoco,carne moída refogada,cassoulet vegetariano,nhoque,arroz doce moreno
+2024-10-01,jantar,filé de coxa assado,ovo frito,polenta cremosa,maxi goiabinha
+2024-10-02,almoco,lombo ao molho ferrugem,souflê de legumes,batata doce com ervas,torrone
+2024-10-02,jantar,lasanha à bolonhesa,lasanha de pvt,repolho à salsa,gelatina de morango
+2024-10-03,almoco,filé de frango empanado,xadrez de pvt,creme de milho,pão de mel
+2024-10-03,jantar,carne louca (lagarto),bifinho de grão de bico ao sugo,macarrão ao alho e óleo com espinafre,pudim de maria mole c
+2024-10-04,almoco,estrogonofe de carne,omelete de forno,batata palha,picolé de uva
+2024-10-04,jantar,bisteca ao molho barbecue,moussaka vegetariana,farofa,brigadeirão
+2024-10-05,almoco,bife ao molho pomodoro,almôndega de aveia ao molho pomodoro,chuchu gratinado,barra de cereais chocolate
+2024-10-07,almoco,carne em cubos ao molho de cebola,omelete de espinafre,vagem ao alho,barra de cereais
+2024-10-07,jantar,lombo ao molho provençal,baião de dois vegetariano,legumes sautê,chocolate ao leite
+2024-10-08,almoco,filé de coxa assado,almôndega de aveia ao molho ferrugem,purê de batata e mandioquinha,gelatina de framboesa
+2024-10-08,jantar,isca de carne ao molho madeira,tomate recheado,cuscuz de legumes,doce de leite
+2024-10-09,almoco,pernil suíno ao molho roty,curry de legumes,farofa,bombom
+2024-10-09,jantar,carne moída refogada,ovo cozido,polenta,iogurte de morango
+2024-10-10,almoco,bife ao molho de azeitonas,lasanha de ricota com espinafre,abobrinha à italiana,mousse de limão
+2024-10-10,jantar,fricassê de frango,xadrez de grão de bico,batata palha,bolinho de baunilha e morango
+2024-10-11,almoco,filé de peixe ao molho suíço,quibe de abóbora com requeijão,brócolis refogado,pudim de pão com calda
+2024-10-11,jantar,hamburguer ao molho ferrugem,hamburguer de pvt,macarrão ao sugo,bananada
+2024-10-14,almoco,filé de frango empanado,bifinho de grão de bico ao sugo,creme de milho,maxi goiabinha
+2024-10-14,jantar,carne em cubos ao molho de cogumelo,souflê de legumes,batata doce com ervas,torrone e mamão
+2024-10-15,almoco,lasanha à bolonhesa,lasanha de pvt,acelga à chinesa,mosaico de gelatina
+2024-10-15,jantar,lombo assado ao molho barbecue,omelete de abobrinha,farofa,bombom
+2024-10-16,almoco,filé de coxa grelhado,batata vegetariana,polenta,flan de baunilha com calda
+2024-10-16,jantar,bife ao molho roty,almôndega de ricota com espinafre ao molho roty,chuchu com manjericão,barra de cereal
+2024-10-17,almoco,lagarto assado ao molho madeira,ovo frito,batata rústica,picolé de limão
+2024-10-17,jantar,filé de frango ao molho ferrugem,bobó de palmito e abóbora,batata palha,mousse de morango
+2024-10-18,almoco,pernil suíno ao molho de cebola,xadrez de grão de bico com legumes,couve refogada,bolinho de chocolate
+2024-10-18,jantar,estrogonofe de carne,quibe de abóbora com requeijão,batata palha,manjar com calda de ameixa
+2024-10-19,almoco,bife ao molho de azeitonas,baião de dois vegetariano,couve flor ao tomatelli,surpresa de abacaxi
+2024-10-21,almoco,bife ao molho de azeitonas,tomate recheado,legumes refogados,bananada
+2024-10-21,jantar,linguiça suína acebolada,pvt à chinesa,mandioca à italiana,pão de mel
+2024-10-22,almoco,hamburguer bovino à pizzaiolo,hamburguer de lentilha ao sugo,macarrão com espinafre,bolinho baunilha c
+2024-10-22,jantar,filé de coxa grelhado,quibe de brócolis e requeijão,polenta cremosa,pudim de pão com calda
+2024-10-23,almoco,lombo assado ao molho roty,grão de bico à indiana,farofa rica,chocolate ao leite
+2024-10-23,almoco,lombo assado ao molho roty,grão de bico à indiana,farofa rica,chocolate ao leite
+2024-10-23,jantar,bife ao molho provençal,ovo frito,chuchu gratinado,gelatina de cereja
+2024-10-24,almoco,carne moída refogada,pvt c cogumelo e shimeji,ervilha à parmentier,pudim de maria mole com coco
+2024-10-24,jantar,pernil suíno ao molho barbecue,grãos gratinados,couve refogada,picolé de uva
+2024-10-25,almoco,isca bovina ao molho madeira,pvt com azeitonas,cuscuz de legumes,brigadeirão
+2024-10-25,jantar,peixe frito,estrogonofe de grão de bico,batata rústica,cocada
+2024-10-26,almoco,filé de frango ao molho ferrugem,omelete de brócolis,abobrinha com ervas,iogurte
+2024-10-29,almoco,linguiça suína acebolada,ovo cozido,farofa,cocada
+2024-10-29,jantar,bife ao molho ferrugem,batata especial vegetariana,brócolis à provençal,bolinho roll
+2024-10-30,almoco,filé de frango ao molho pomodoro,moussaka vegetariana,polenta,picolé de limão
+2024-10-30,jantar,isca bovina ao molho de cogumelos,omelete de forno,ervilha à parmentier,mosaico de gelatina
+2024-10-31,almoco,carne em cubos ao molho de cebola,quibe de brócolis com requeijão,macarrão com espinafre,pé de moça
+2024-10-31,jantar,filé de frango empanado,xadrez de pvt,creme de milho,surpresa de abacaxi
+2024-11-01,almoco,hamburguer ao molho pizzaiolo,hamburguer de lentilha ao sugo,purê de batatas,iogurte
+2024-11-01,jantar,lombo ao molho barbecue,pvt com azeitonas,virado de vagem,barra de cereais chocolate e frutas
+2024-11-04,almoco,filé de frango empanado,omelete de brócolis,creme de milho,torrone
+2024-11-05,jantar,linguiça acebolada,curry de legumes,farofa,goiabada
+2024-11-06,almoco,bife ao molho ferrugem,quibe de pvt,purê misto com mandioquinha,brigadeirão
+2024-11-06,jantar,filé de frango ao molho pomodoro,ovo frito,macarrão ao alho e óleo,picolé de morango
+2024-11-07,almoco,pernil ao molho barbecue,bifinho de grão de bico ao molho barbecue,couve refogada,mousse de limão
+2024-11-07,jantar,carne moída,souflê de legumes,polenta,bombom
+2024-11-08,almoco,peixe à portuguesa,batatalhoada,brócolis ao alho,barra de cereais
+2024-11-08,jantar,iscas de carne ao molho roty,tomate recheado,batata rústica,gelatina de cereja
+2024-11-09,almoco,estrogonofe de frango,lasanha de abobrinha e pvt,legumes sautê,surpresa de banana
+2024-11-11,almoco,filé de frango empanado,escondidinho de pvt,cenoura com repolho refogados,bananada
+2024-11-11,jantar,bife grelhado ao molho de cebola,tomate recheado,nhoque ao sugo,bolinho roll de chocolate
+2024-11-12,almoco,lasanha à bolonhesa,lasanha de pvt,acelga à chinesa,pudim de maria mole com calda de goiabada
+2024-11-12,jantar,pernil ao molho ferrugem,estrogonofe de grão de bico,couve flor à provençal,cocada
+2024-11-13,almoco,estrogonofe de carne,ovo frito,batata palha,picolé de coco
+2024-11-13,jantar,filé de coxa assado,almôndega de ricota e espinafre ao molho ferrugem,vagem ao alho,mousse de maracujá
+2024-11-14,almoco,lombo assado ao molho madeira,quibe de brócolis,farofa,chocolate ao leite
+2024-11-14,jantar,hamburguer ao molho sugo,hamburguer de pvt ao sugo,purê de batata,maxi goiabinha
+2024-11-18,almoco,linguiça suína acebolada,batata especial vegetariana,vagem à provençal,pão de mel
+2024-11-18,jantar,carne em cubos ao molho roty,xadrez de grão de bico,mandioca ao tomatelli,torrone
+2024-11-19,almoco,bife ao molho de cebola,tomate recheado,ervilha à parmentier,doce de leite
+2024-11-19,jantar,filé de coxa assado,ovo frito,chuchu com manjericão,brigadeirão
+2024-11-21,almoco,fricassé de frango,quibe de abóbora com requeijão,batata palha,bombom
+2024-11-21,jantar,bife ao molho provençal,pvt com cogumelo e shimeji,macarrão à primavera,picolé de creme
+2024-11-22,almoco,carne louca,omelete de brócolis,cuscuz de legumes,arroz doce moreno
+2024-11-22,jantar,peixe frito,grãos gratinados,brócolis ao alho,iogurte de morango
+2024-11-23,almoco,frango assado,moussaka vegetariana,polenta,gelatina de framboesa
+2024-11-25,almoco,bife grelhado ao molho de azeitonas,ovo cozido,mandioca sauté,maxi goiabinha
+2024-11-25,jantar,filé de frango empanado,lasanha de queijos,legumes ao alho,barra de cereal banana e mel
+2024-11-26,almoco,carne moída refogada,baião de dois,batata rústica,surpresa de abacaxi
+2024-11-26,jantar,lombo assado ao molho barbecue,quibe de brócolis e requeijão,farofa,pão de mel
+2024-11-27,almoco,filé de coxa grelhado,almôndegas de ricota e espinafre,polenta,bolinho roll
+2024-11-27,jantar,estrogonofe de carne,omelete de forno,batata palha,pudim de maria mole com calda de goiabada
+2024-11-28,almoco,carne em cubos ao molho ferrugem,pvt com azeitonas,macarrão à primavera,picolé de uva
+2024-11-28,jantar,filé de frango ao molho pomodoro,batata especial vegetariana,chuchu com azeitonas,pudim de pão com calda
+2024-11-29,almoco,pernil assado ao molho barbecue,suflê de legumes,virado de vagem,flan de baunilha com calda de caramelo
+2024-11-29,jantar,lasanha à bolonhesa,lasanha de pvt,repolho com cenoura refogados,bolinho de chocolate recheado com brigadeiro 
+2024-11-30,almoco,iscas grelhadas ao molho provençal,estrogonofe de grão de bico,batata doce com ervas,mosaico de gelatina
+2024-12-02,almoco,linguiça acebolada,pvt com azeitonas,mandioca refogada,doce de batata doce
+2024-12-02,jantar,filé de frango empanado,ovo frito,creme de milho,bombom
+2024-12-03,almoco,lasanha à bolonhesa,lasanha de pvt,vagem sautê,pé de moça
+2024-12-03,jantar,lombo assado ao molho madeira,omelete de abobrinha,farofa,gelatina de cereja
+2024-12-04,almoco,filé de frango ao sugo,quibe de brócolis e requeijão,polenta,pudim de pão com calda
+2024-12-04,jantar,carne em cubos ao molho roty,almôndega de ricota com espinafre,batata rústica,barra de cereais
+2024-12-05,almoco,hamburguer ao molho ferrugem,hamburguer de lentilha ao molho ferrugem,macarrão ao sugo,bolinho roll chocolate
+2024-12-05,jantar,filé de coxa grelhado,moussaka vegetariana,quiabo refogado,arroz doce
+2024-12-06,almoco,peixe frito,suflê de legumes,brócolis ao alho,picolé de limão
+2024-12-06,jantar,isca bovina ao molho provençal,bifinho de grão de bico ao molho provençal,não informado,surpresa de abacaxi
+2024-12-07,almoco,pernil ao molho barbecue,curry de legumes,virado de cenoura e abobrinha,mosaico de gelatina
+2024-12-09,almoco,frango empanado,bife de grão de bico,creme de milho,bolinho de baunilha
+2024-12-09,jantar,bife ao molho de azeitonas,tomate recheado,legumes refogados,torrone
+2024-12-10,almoco,carne moída refogada,ovo frito,ervilha à parmentier,gelatina de morango
+2024-12-10,jantar,pernil ao molho de cebola,pvt com azeitonas,virado de couve,pudim de maria mole com calda
+2024-12-11,almoco,filé de coxa,quibe de abóbora e requeijão,polenta de corte ao sugo e parmesão,barra de cereal chocolate com frutas 
+2024-12-11,jantar,estrogonofe de carne,almôndega de aveia ao molho ferrugem,vagem sautê,flan de baunilha com calda
+2024-12-12,almoco,lombo ao molho de ervas,quiche de brócolis,farofa natalina,panacota
+2024-12-12,jantar,frango cremoso,rondelli de espinafre e ricota ao sugo,batata corada,alfajor
+2024-12-13,almoco,carne em cubos ao molho madeira,omelete de forno,nhoque ao sugo,picolé de creme
+2024-12-13,jantar,filé de peixe à portuguesa,batatalhoada,couve flor à provençal,curau
+2024-12-14,almoco,isca bovina ao molho ferrugem,grãos com queijo branco,acelga à chinesa,mousse de limão
+2024-12-16,almoco,bife ao molho de azeitonas,estrogonofe de grão de bico,chuchu à salsa,romeu e julieta
+2024-12-16,jantar,pernil ao molho ferrugem,lasanha de abobrinha,legumes refogados,barra de cereal banana e mel
+2024-12-17,almoco,carne de panela ao molho pomodoro,tomate recheado,batata rústica,gelatina de cereja
+2024-12-17,jantar,filé de coxa assado,omelete de espinafre,acelga à chinesa,bolinho de baunilha com chocolate
+2024-12-18,almoco,lombo ao molho barbecue,pvt com cogumelo e shimeji,mandioca ao tomatelli,doce de abóbora caseiro
+2024-12-18,jantar,carne moída refogada,curry de legumes,polenta de corte ao sugo e parmesão,mousse de maracujá
+2024-12-19,almoco,estrogonofe de carne,almôndega de ricota e espinafre ao sugo,batata palha,bombom
+2024-12-19,jantar,linguiça acebolada,quibe de abóbora com requeijão,farofa,picolé de uva
+2024-12-20,almoco,filé de frango empanado,ovo frito,creme de milho,torrone
+2024-12-20,jantar,hamburguer à pizzaiolo,hamburguer de pvt ao sugo,macarrão ao alho e óleo,maxi goiabinha
+2025-01-06,almoco,filé de frango empanado,ovo frito,creme de milho,bananada
+2025-01-06,jantar,linguiça suína acebolada,pvt com azeitonas,farofa rica,torrone
+2025-01-07,almoco,bife ao molho roty,grãos c queijo branco,chuchu com manjericão,surpresa de abacaxi
+2025-01-07,jantar,estrogonofe de frango,bifinho de grão de bico ao molho barbecue,batata palha,maxi goiabinha
+2025-01-08,almoco,lombo suíno ao molho ferrugem,moussaka vegetariana,virado de cenoura e azeitonas,mosaico de gelatina
+2025-01-08,jantar,carne moída refogada,almôndega de aveia ao sugo,ervilha à parmentier,bombom
+2025-01-09,almoco,frango assado,quibe de brócolis,polenta de corte ao sugo com parmesão,doce de abóbora caseiro
+2025-01-09,jantar,bife ao molho de azeitonas,lasanha de queijos,batata doce com ervas,picolé de doce de leite
+2025-01-10,almoco,lagarto ao molho madeira,curry de legumes,macarrão à primavera,brigadeirão
+2025-01-10,jantar,pernil suíno ao molho barbecue,omelete de forno,couve refogada,beijinho
+2025-01-11,almoco,carne em cubos ao molho pomodoro,lasanha de abobrinha,vagem sautê,arroz doce
+2025-01-13,almoco,bife ao molho ferrugem,omelete de brócolis,mandioca ao tomatelli,barra de cereal
+2025-01-13,jantar,filé de frango empanado,quibe de abóbora,purê de mandioquinha,iogurte
+2025-01-14,almoco,linguiça suína acebolada,pvt com cogumelo e shimeji,farofa rica,picolé de coco
+2025-01-14,jantar,carne em cubos ao molho provençal,moussaka vegetariana,chuchu com azeitonas,gelatina de framboesa
+2025-01-15,almoco,estrogonofe de carne,souflê de legumes,batata palha,goiabada com queijo
+2025-01-15,jantar,filé de frango ao molho ferrugem ,grãos com queijo branco,brócolis à provençal,doce de abóbora com coco
+2025-01-16,almoco,lasanha à bolonhesa,lasanha de pvt,repolho com cenoura refogados,pé de moça
+2025-01-16,jantar,bisteca ao molho barbecue,ovo frito,batata rústica,surpresa de banana
+2025-01-17,almoco,filé de coxa assado,almôndega de ricota com espinafre ao molho ferrugem,polenta,beijinho
+2025-01-17,jantar,hamburguer bovino ao sugo,hamburguer de pvt ao sugo,macarrão ao alho e óleo com espinafre,arroz doce
+2025-01-18,almoco,isca bovina ao molho de cebola,xadrez de grão de bico,ervilha à parmentier,maxi chocolate
+2025-01-20,almoco,filé de frango empanado,batata vegetariana,acelga à chinesa,torrone
+2025-01-20,jantar,lombo assado ao molho barbecue,omelete de abobrinha,farofa,chocolate ao leite
+2025-01-21,almoco,hamburguer bovino ao sugo,hamburguer de pvt ao sugo,espaguete ao alho e óleo,manjar com calda
+2025-01-21,jantar,frango assado,curry de legumes,polenta de corte ao sugo,goiabada com queijo
+2025-01-22,almoco,cubos de pernil ao molho roty,quibe de abóbora,couve refogada,mousse de morango
+2025-01-22,jantar,estrogonofe de carne,bifinho de lentilha ao molho barbecue,legumes à salsa,picolé de limão
+2025-01-23,almoco,carne moída refogada,pvt com azeitonas,batata corada,gelatina de cereja
+2025-01-23,jantar,filé de peixe frito,estrogonofe de grão de bico,couve flor à provençal,bolinho roll
+2025-01-24,almoco,filé de frango grelhado ao molho ferrugem,almôndega de aveia com espinafre ao molho ferrugem,quiabo refogado,iogurte de morango
+2025-01-24,jantar,bife ao molho pomodoro,tomate recheado,mandioca sautê,barra de cereal
+2025-01-25,almoco,lombo assado ao molho roty,ovo frito,batata doce com ervas,bombom
+2025-01-27,almoco,carne em cubos ao molho pomodoro,omelete com espinafre,legumes sautê,cocada
+2025-01-27,jantar,lombo assado ao molho barbecue,batata vegetariana,farofa,bananada
+2025-01-28,almoco,fricassé de frango,bife de grão de bico ao molho ferrugem,batata palha,picolé de uva
+2025-01-28,jantar,bife ao molho provençal,souflê de legumes,nhoque ao sugo,brigadeirão
+2025-01-29,almoco,cubos de pernil ao molho ferrugem,estrogonofe de grão de bico,abobrinha à salsa,barra de cereal
+2025-01-29,jantar,lasanha à bolonhesa,lasanha de pvt,acelga à chinesa,gelatina de morango
+2025-01-30,almoco,bife ao molho de cogumelos,tomate recheado,batata rústica,chocolate ao leite
+2025-01-30,jantar,frango assado,quibe de brócolis,quiabo refogado,mousse de limão
+2025-01-31,almoco,filé de peixe à portuguesa,batatalhoada,brócolis ao alho,marigel
+2025-01-31,jantar,carne louca,ovo cozido,polenta cremosa,mini bolo
+2025-02-01,almoco,filé de coxa assado,grãos com queijo branco,vagem à provençal,pudim de coco com groselha
+2025-02-03,almoco,bife ao molho madeira,tomate recheado,legumes ao alho,iogurte de morango
+2025-02-03,jantar,pernil suíno ao molho barbecue,ovo frito,virado de vagem com cenoura,picolé de creme
+2025-02-04,almoco,filé de frango ao molho ferrugem,bife de feijão branco ao molho ferrugem,nhoque ao sugo,gelatina de cereja
+2025-02-04,jantar,lagarto ao molho de cogumelos,estrogonofe de pvt,batata corada,maxi goiabinha
+2025-02-05,almoco,lombo assado ao molho roty,almôndega de aveia ao sugo,farofa rica,beijinho
+2025-02-05,jantar,lasanha à bolonhesa,lasanha de pvt,repolho com ervas,arroz doce
+2025-02-06,almoco,isca de carne ao molho de cebola,quibe de brócolis com requeijão,polenta de corte ao sugo e parmesão,doce de abóbora com coco caseiro
+2025-02-06,jantar,frango assado,hamburguer de lentilha ao molho pomodoro,chuchu gratinado,bombom
+2025-02-07,almoco,peixe frito,xadrez de grão de bico,purê de batatas,maria mole com coco queimado
+2025-02-07,jantar,hamburguer bovino ao pomodoro,omelete de forno,espaguete ao alho e óleo,barra de cereais
+2025-02-08,almoco,carne em cubos ao molho provençal,moussaka vegetariana,mandioca saute,cocada
+2025-02-10,almoco,bife ao molho de cogumelos,lasanha de queijo,repolho com cenoura refogado,maxi goiabinha
+2025-02-10,jantar,filé de frango empanado,bifinho de grão de bico ao sugo,creme de milho,beijinho
+2025-02-11,almoco,linguiça acebolada,batata especial,couve ao alho,flan de baunilha com calda de caramelo
+2025-02-11,jantar,isca bovina ao molho de azeitonas,omelete de brócolis,batata rústica,goiabada com queijo
+2025-02-12,almoco,hamburguer ao molho pizzaiolo,hamburguer de pvt ao sugo,penne ao alho e óleo,mousse de limão
+2025-02-12,jantar,lombo ao molho ferrugem,curry de legumes,farofa rica,gelatina de framboesa
+2025-02-13,almoco,filé de frango ao molho tomatelli,ovo frito,brócolis refogado, picolé de doce de leite
+2025-02-13,jantar,bife ao molho provençal,moussaka vegetariana,polenta,doce de abóbora com coco
+2025-02-14,almoco,carne moída refogada,pvt com azeitonas,ervilha à parmentier,brigadeirão
+2025-02-14,jantar,frango assado,quibe de abóbora e requeijão,abobrinha à italiana,bananada
+2025-02-15,almoco,pernil suíno ao molho roty,estrogonofe de grão de bico,batata doce com ervas,bolinho de baunilha com recheio de morango
+2025-02-17,almoco,filé de frango empanado,bifinho de grão de bico ao molho barbecue,legumes sautê,bolinho roll de chocolate
+2025-02-17,jantar,bife ao molho de cogumelo,tomate recheado,mandioca refogada,doce de leite
+2025-02-18,almoco,lasanha à bolonhesa,lasanha de pvt,chuchu à salsa,surpresa de abacaxi
+2025-02-18,jantar,lombo ao molho barbecue,souflê de legumes,couve refogada,iogurte de morango
+2025-02-19,almoco,frango assado,omelete de espinafre,acelga à chinesa,mosaico de gelatina
+2025-02-19,jantar,carne moída,batata vegetariana,vagem ao alho,pudim de maria mole com coco
+2025-02-20,almoco,carne em cubos ao molho provençal,pvt com azeitonas,ervilha à parmentier,chocolate ao leite
+2025-02-20,jantar,filé de frango ao molho ferrugem,almôndega de ricota de espinafre,polenta de corte ao sugo e parmesão,picolé de uva
+2025-02-21,almoco,pernil ao molho de azeitonas,quibe de brócolis com requeijão,virado de abobrinha,goiabada com queijo
+2025-02-21,jantar,estrogonofe de carne,ovo frito,batata palha,barra de cereal
+2025-02-22,almoco,bife ao molho ferrugem,curry de legumes,abobrinha à italiana,arroz doce
+2025-02-24,almoco,filé de frango empanado,almôndega de ricota com espinafre ao molho ferrugem,creme de milho,pé de moça
+2025-02-24,jantar,bife ao molho provençal,bifinho de feijão branco ao molho provençal,legumes refogado,torrone
+2025-02-25,almoco,carne moída,xadrez de grão de bico,purê de batata e mandioquinha,picolé de morango
+2025-02-25,jantar,linguiça suína acebolada,ovo cozido,repolho e cenoura com ervas,bolinho roll chocolate
+2025-02-26,almoco,carne louca (lagarto),lasanha de abobrinha,polenta cremosa,manjar com calda de ameixa
+2025-02-26,jantar,filé de frango ao molho tomatelli,almôndega de aveia ao molho tomatelli,batata doce com ervas,bombom ouro branco
+2025-02-27,almoco,lombo ao molho ferrugem,ovo frito,virado de couve,barra de cereal
+2025-02-27,jantar,carne em cubos ao molho pomodoro,quibe de brócolis e requeijão,macarrão à primavera,mousse de maracujá
+2025-02-28,almoco,estrogonofe de carne,souflê de legumes,batata palha,bombom sonho de valsa
+2025-02-28,jantar,peixe à portuguesa,batatalhoada,brócolis ao alho,surpresa de banana
+2025-03-05,almoco,hamburguer bovino ao sugo,hamburguer de pvt à pizzaiolo,purê de batata,torrone
+2025-03-05,jantar,frango empanado,ovo frito,legumes sautê,iogurte
+2025-03-06,almoco,hamburguer bovino ao sugo,hamburguer de pvt à pizzaiolo,purê de batata,torrone
+2025-03-06,jantar,frango empanado,ovo frito,legumes sautê,iogurte
+2025-03-07,almoco,pernil ao molho barbecue,lasanha de abobrinha,farofa,bombom sonho de valsa
+2025-03-07,jantar,isca bovina ao molho roty,quibe de brócolis com requeijão,ervilha à parmentier,gelatina de cereja
+2025-03-08,almoco,frango assado,bifinho de feijão branco ao molho ferrugem,polenta cremosa,manjar com calda de ameixa
+2025-03-10,almoco,bife ao molho de cebola,quibe de brócolis com requeijão,legumes refogados,goiabada
+2025-03-10,jantar,linguiça suína acebolada,pvt com azeitonas,farofa rica,barra de cereais
+2025-03-11,almoco,filé de frango empanado,bifinho de grão de bico à provençal,creme de milho,picolé de limão
+2025-03-11,jantar,carne moída refogada,moussaka vegetariana,polenta cremosa,mousse de limão
+2025-03-12,almoco,lagarto ao molho de cogumelos,omelete de brócolis,batata rústica,bolinho roll de chocolate
+2025-03-12,jantar,frango assado,grãos com queijo branco,abobrinha à salsa,gelatina de morango
+2025-03-13,almoco,lasanha à bolonhesa,lasanha de pvt,repolho com ervas,pudim de pão com calda
+2025-03-13,jantar,filé de frango ao molho ferrugem,almôndega de aveia e espinafre ao molho ferrugem,cuscuz de legumes,bolinho de baunilha e morango
+2025-03-14,almoco,filé de peixe à portuguesa,batatalhoada,brócolis ao alho,pudim de maria mole com calda
+2025-03-14,jantar,estrogonofe de carne,ovo frito,batata palha,ouro branco
+2025-03-15,almoco,lombo ao molho barbecue,baião de dois vegetariano,couve ao alho,surpresa de banana
+2025-03-26,almoco,cubos de pernil ao molho barbecue,quibe de abóbora e requeijão,cuscuz de legumes,bolinho de baunilha e morango
+2025-03-26,jantar,bife ao molho de azeitonas,bifinho de grão de bico ao molho de azeitonas,nhoque ao sugo,manjar com calda de ameixa
+2025-03-27,almoco,carne moída refogada,pvt com cogumelo e shimeji,polenta cremosa,bananada
+2025-03-27,jantar,peixe frito,baião de dois vegetariano,brócolis à provençal,bombom
+2025-03-28,almoco,lombo ao molho ferrugem,omelete de brócolis,abobrinha à italiana,mousse de limão
+2025-03-28,jantar,filé de coxa assado,souflê de legumes,batata doce com ervas,barra de cereais
+2025-03-29,almoco,carne em cubos ao molho pomodoro,batata vegetariana,couve flor refogada,gelatina de cereja
+2025-03-31,almoco,filé de frango empanado,ovo frito,legumes refogados,doce de leite
+2025-03-31,jantar,carne em cubos ao molho pomodoro,tomate recheado,batata rústica,bolinho roll de chocolate
+2025-04-01,almoco,estrogonofe de carne,almôndegas de aveia ao molho provençal,vagem sautê,manjar com calda de ameixa
+2025-04-01,jantar,frango assado,lasanha de abobrinha,polenta,maxi goiabinha
+2025-04-02,almoco,pernil suíno ao molho barbecue,curry de legumes,farofa rica,pudim de maria mole com calda
+2025-04-02,jantar,hamburguer à pizzaiolo,hamburguer de pvt ao sugo,macarrão ao alho e óleo,goiabada
+2025-04-03,almoco,filé de frango ao molho ferrugem,quibe de brócolis e requeijão,chuchu com manjericão,torrone
+2025-04-03,jantar,lagarto ao molho de cogumelo,omelete de forno,batata corada,mosaico de gelatina
+2025-04-04,almoco,lasanha à bolonhesa,lasanha de pvt,couve de flor à provençal,brigadeirão
+2025-04-04,jantar,lombo suíno ao molho de cebola,bife de grão de bico ao molho ferrugem,cuscuz de legumes,picolé de limão
+2025-04-05,almoco,carne em cubos ao molho roty,souflê de legumes,ervilha à parmentier,cocada
+2025-04-07,almoco,bife ao molho de cebola,tomate recheado,mandioca sautê,bombom
+2025-04-07,jantar,fricassê de frango,ovo frito,batata palha,barra de cereal
+2025-04-08,almoco,pernil suíno ao molho barbecue,baião de dois vegetariano,couve ao alho,picolé de coco
+2025-04-08,jantar,isca bovina ao molho provençal,omelete de forno,batata doce com ervas,surpresa de abacaxi
+2025-04-09,almoco,carne louca (lagarto),quibe de abóbora e requeijão,macarrão ao alho e óleo,goiabada
+2025-04-09,jantar,linguiça acebolada,curry de legumes,farofa,brigadeirão
+2025-04-10,almoco,frango assado,lasanha de abobrinha,polenta,gelatina de cereja
+2025-04-10,jantar,carne moída refogada,pvt com azeitonas,ervilha à parmentier,torrone
+2025-04-11,almoco,lombo suíno ao molho roty,omelete de espinafre,virado de abobrinha e cenoura,bolinho roll
+2025-04-11,jantar,bife ao molho pomodoro,almôndega de aveia ao molho pomodoro,vagem refogada,pudim de pão com calda
+2025-04-12,almoco,filé de frango empanado,batata vegetariana,acelga à chinesa,iogurte
+2025-04-14,almoco,bife ao molho ferrugem,batatalhoada,brócolis gratinado,chocolate ao leite
+2025-04-14,jantar,lombo ao molho roty,omelete de forno,polenta de corte ao sugo e parmesão,pé de moça
+2025-04-15,almoco,filé de frango ao molho pomodoro,lasanha de ricota e espinafre,cenoura à salsa,marigel
+2025-04-15,jantar,carne em cubos ao molho de cebola,bifinho de feijão branco ao molho ferrugem,acelga à provençal,mousse de limão
+2025-04-16,almoco,quibe assado com requeijão,quibe de pvt com requeijão,legumes à italiana,doce de abóbora com coco
+2025-04-16,jantar,frango assado,almôndegas de aveia e escarola ao molho barbecue,penne à primavera,beijinho de coco
+2025-04-17,almoco,isca bovina ao molho de cogumelos,ovo frito,batata corada,ovo de páscoa
+2025-04-17,jantar,peixe frito,moussaka vegetariana,chuchu com azeitonas,ovo de páscoa
+2025-04-22,almoco,linguiça acebolada,bifinho de lentilha ao molho ferrugem,não informado,doce de banana
+2025-04-22,jantar,filé de frango empanado,ovo frito,creme de milho,maxi goiabinha
+2025-04-23,jantar,pernil ao molho roty,souflê de legumes,mandioca à italiana,arroz doce moreno
+2025-04-24,almoco,filé de peixe à portuguesa,xadrez de grão de bico,purê de batatas,mousse de limão
+2025-04-24,jantar,bife ao molho de cebola,quibe de brócolis e requeijão,couve flor à provençal,picolé de morango
+2025-04-25,almoco,filé de coxa assado,omelete de espinafre,polenta,mosaico de gelatina
+2025-04-25,jantar,lasanha à bolonhesa,lasanha de pvt,abobrinha à salsa,bombom
+2025-04-26,almoco,carne em cubos ao molho roty,moussaka vegetariana,batata rústica,flan de baunilha
+2025-04-28,almoco,filé de frango empanado,ovo frito,creme de milho,barra de cereal
+2025-04-28,jantar,bife ao molho ferrugem,tomate recheado,brócolis ao alho,doce de banana
+2025-04-29,almoco,lombo ao molho de cebola,bifinho de feijão branco ao molho barbecue,acelga à chinesa,picolé de limão suíço
+2025-04-29,jantar,estrogonofe de carne,xadrez de grão de bico,batata palha,pudim de maria mole com calda
+2025-04-30,almoco,carne moída refogada,pvt com azeitonas,nhoque ao sugo,mousse de maracujá
+2025-04-30,jantar,filé de frango ao molho ferrugem,omelete de brócolis,polenta,bolinho roll
+2025-05-05,almoco,carne em cubos ao molho de azeitonas,ovo frito,chuchu com manjericão,cocada branca
+2025-05-05,jantar,filé de frango empanado,xadrez de grão de bico,creme de milho,barra de cereal
+2025-05-06,almoco,bife ao molho roty,tomate recheado,macarrão à primavera,mousse de morango
+2025-05-06,jantar,lombo suíno ao molho barbecue,bifinho de lentilha ao molho barbecue,farofa rica,bolinho roll
+2025-05-07,almoco,frango assado,almôndega de aveia ao molho ferrugem,vagem à provençal,manjar de coco com calda de ameixa
+2025-05-07,jantar,estrogonofe de carne,omelete de espinafre,batata palha,doce de leite
+2025-05-08,almoco,lagarto ao molho de cogumelos,pvt com shimeji e cogumelo,repolho com ervas,iogurte de morango
+2025-05-08,jantar,filé de frango ao molho pomodoro,quibe de brócolis e requeijão,abobrinha ao alho,pudim de maria mole com calda
+2025-05-09,almoco,pernil suíno ao molho ferrugem,souflê de legumes,mandioca à italiana,brigadeirão
+2025-05-09,jantar,carne moída refogada,moussaka vegetariana,polenta cremosa,picolé de coco
+2025-05-10,almoco,bife ao molho de cebola,curry de legumes,batata rústica,surpresa de abacaxi
+2025-05-12,almoco,bife ao molho roty,quibe de brócolis e requeijão,cenoura à salsa,barra de cereais
+2025-05-12,jantar,linguiça suína acebolada,ovo frito,virado de couve,orrone
+2025-05-13,almoco,fricassé de frango,bifinho de feijão branco ao molho barbecue,batata palha,mosaico de gelatina
+2025-05-13,jantar,hamburguer bovino ao sugo,hamburguer de pvt ao molho pizzaiolo,macarrão ao alho e óleo,bolinho de baunilha e morango
+2025-05-14,almoco,filé de peixe à portuguesa,estrogonofe de grão de bico,legumes sautê,chocolate ao leite
+2025-05-14,jantar,bife grelhado ao molho de azeitonas,almôndega de ricota e espinafre ao molho ferrugem,batata rústica,gelatina de framboesa
+2025-05-15,almoco,carne moída refogada,lasanha de abobrinha,polenta cremosa,picolé de limão
+2025-05-15,jantar,frango assado,baião de dois,acelga à chinesa,surpresa de abacaxi
+2025-05-16,almoco,lombo suíno ao molho ferrugem,omelete de brócolis,farofa,pé de moça
+2025-05-16,jantar,lasanha à bolonhesa,lasanha de pvt,vagem sautê,brigadeirão
+2025-05-17,almoco,carne em cubos ao molho roty,grão de bico à indiana,ervilha à parmentier,bananada
+2025-05-20,jantar,filé de coxa assado,bifinho de grão de bico ao molho barbecue,polenta,barra de cereis de banana e mel
+2025-05-21,almoco,lombo assado ao molho barbecue,ovo frito,couve refogada,bolinho roll
+2025-05-21,jantar,isca bovina ao molho de cebola,souflê de legumes,nhoque,pudim de pão com calda
+2025-05-22,jantar,pernil suíno ao molho roty,omelete de espinafre,farofa rica,picolé de limão suíço
+2025-05-23,almoco,estrogonofe de carne,xadrez de grão de bico,batata palha,flan de baunilha com calda
+2025-05-23,jantar,peixe frito,quibe de abóbora e requeijão,brócolis à provençal,bombom
+2025-05-24,almoco,filé de frango ao molho provençal,batata vegetariana especial,abobrinha à salsa,surpresa de banana
+2025-05-26,almoco,filé de frango empanado,omelete de abobrinha,creme de milho,goiabada
+2025-05-26,jantar,bife ao molho de cogumelos,lasanha de ricota e espinafre,chuchu com azeitonas,pé de moça
+2025-05-27,almoco,hamburguer ao molho pizzaiolo,hamburguer de lentilha ao sugo,purê de batatas,gelatina de morango
+2025-05-27,jantar,lombo suíno ao molho roty,curry de legumes,virado de vagem e cenoura,chocolate
+2025-05-28,almoco,carne moída,pvt com azeitonas,macarrão ao alho e óleo,pudim de maria mole com coco
+2025-05-28,jantar,filé de frango ao molho ferrugem,batata vegetariana especial,repolho ao vinagrete,cocada
+2025-05-29,almoco,pernil ao molho barbecue,moussaka vegetariana,farofa,bombom
+2025-05-29,jantar,carne louca,almôndega de aveia ao molho provençal,batata doce com ervas,flan de baunilha com calda
+2025-05-30,almoco,frango assado,bifinho de grão de bico ao molho barbecue,polenta ,picolé de doce de leite
+2025-05-30,jantar,carne em cubos ao molho provençal,ovo frito,ervilha à parmentier,mousse de maracujá
+2025-05-31,almoco,isca de carne ao molho roty,pvt alemão,cenoura gratinada,bolinho de brigadeiro
+2025-06-02,almoco,fricassé de frango,omelete de brócolis,batata palha,doce de batata
+2025-06-02,jantar,bife ao molho provençal,tomate recheado,mandioca à salsa,bombom
+2025-06-03,almoco,lasanha à bolonhesa,lasanha de ricota e espinafre,vagem ao alho,maxi chocolate
+2025-06-03,jantar,pernil suíno ao molho barbecue,xadrez de grão de bico,farofa rica,mousse de limão
+2025-06-04,almoco,estrogonofe de carne,quibe de abóbora,legumes sautê,pudim de pão com calda
+2025-06-04,jantar,filé de frango ao molho ferrugem,ovo frito,couve flor à provençal,torrone
+2025-06-05,almoco,lombo ao molho roty,estrogonofe de grão de bico,couve refogada,mosaico de gelatina
+2025-06-06,almoco,frango assado,almôndega de ricota e espinafre ao molho barbecue,abobrinha a italiana,picolé de morango
+2025-06-06,jantar,lagarto ao molho de cogumelos,moussaka vegetariana,batata rústica,pudim de maria mole com calda
+2025-06-07,almoco,bife ao molho pomodoro,bife de feijão branco ao molho ferrugem,cuscuz de legumes,brigadeirão
+2025-06-09,almoco,filé de frango empanado,tomate recheado,acelga à chinesa,bananada
+2025-06-09,jantar,bife ao molho ferrugem,estrogonofe de grão de bico,legumes refogados,mini bolo de baunilha e chocolate
+2025-06-10,almoco,filé de peixe à portuguesa,batatalhoada,brócolis ao alho,arroz doce
+2025-06-10,jantar,lombo suíno ao molho roty,almôndega de aveia ao molho de cogumelos,virado de couve,chocolate crocante
+2025-06-11,almoco,carne em cubos ao molho de cogumelos,pvt com azeitonas,macarrão ao sugo,barra de cereal
+2025-06-11,jantar,frango assado,omelete de forno,polenta,pudim crocante
+2025-06-12,almoco,pernil assado ao molho barbecue,souflê de legumes,mandioca ao molho pomodoro,surpresa de abacaxi
+2025-06-12,jantar,lasanha à bolonhesa,lasanha de pvt,couve flor à provençal,picolé de creme
+2025-06-13,almoco,estrogonofe de frango,bifinho de grão de bico ao molho ferrugem,batata palha,pé de moça
+2025-06-13,jantar,isca de carne ao molho provençal,batata vegetariana especial,vagem sautê,brigadeirão
+2025-06-14,almoco,lombo ao molho ferrugem,lasanha de abobrinha,farofa rica,gelatina de morango
+2025-06-16,almoco,linguiça acebolada,moussaka vegetariana,chuchu com manjericão,doce de leite
+2025-06-16,jantar,carne em cubos ao molho ferrugem,ovo frito,ervilha à parmentier,bolinho roll
+2025-06-17,almoco,carne moída refogada,pvt com shimeji e champignon,polenta,pudim de maria mole com calda
+2025-06-17,jantar,filé de coxa assado,quibe de brócolis,legumes à italiana,pé de moça
+2025-06-18,almoco,filé empanado,omelete de abobrinha,purê de batatas,iogurte
+2025-06-18,jantar,hamburguer bovino à pizzaiolo,hamburguer de pvt ao sugo,macarrão ao alho e óleo,bananada
+2025-06-23,almoco,carne em cubos ao molho ferrugem,quibe de brócolis com requeijão,legumes sauté,torrone
+2025-06-23,jantar,filé de frango empanado,almôndega de aveia e espinafre ao molho ferrugem,creme de milho,barra de cereal chocolate e frutas
+2025-06-24,almoco,carne moída refogada,hamburguer de pvt ao sugo,ervilha à parmentier,bombom
+2025-06-24,jantar,lombo assado ao molho de cebola,curry de legumes,farofa rica,arroz doce moreno
+2025-06-25,almoco,filé de coxa assado,ovo frito,cenoura à salsa,bolinho de baunilha
+2025-06-25,jantar,strogonoff de carne,lasanha de abobrinha,batata palha,canjica
+2025-06-26,almoco,carne louca,xadrez de grão de bico,polenta,kit junino
+2025-06-26,jantar,linguiça acebolada,omelete de brócolis,cuscuz de legumes,kit junino
+2025-06-27,almoco,hamburguer bovino ao sugo,bife de lentilha à pizzaiolo,macarrão à primavera,curau com canela
+2025-06-27,jantar,peixe frito,baião de dois vegetariano,brócolis à provençal,maxi chocolate
+2025-06-28,almoco,cubos de pernil ao molho barbecue,pvt mexicano,batata rústica,flan de baunilha com calda
+2025-06-30,almoco,bife ao molho ferrugem,batata especial,repolho com azeitonas,goiabada
+2025-06-30,jantar,fricassé de frango, bife de grão de bico ao molho de cogumelo,batata palha,iogurte
+2025-07-01,almoco,pernil ao molho barbecue,hamburguer de lentilha ao molho barbecue,virado de couve,manjar com calda
+2025-07-01,jantar,carne louca,moussaka vegetariana,polenta,bolinho de baunilha com recheio de morango
+2025-07-02,almoco,filé de frango empanado,omelete de forno,creme de milho,gelatina de cereja
+2025-07-02,jantar,bife ao molho de cebola,lasanha de abobrinha,couve flor à provençal,bolinho roll de chocolate
+2025-07-03,almoco,carne moída acebolada,pvt com azeitonas,macarrão à primavera,pé de moça
+2025-07-03,jantar,filé de coxa assado,quibe de abóbora e requeijão,mandioca ensopada ao pomodoro,arroz doce moreno
+2025-07-04,almoco,isca de carne ao molho de cogumelos,souflê de legumes,batata rústica,barra de cereal chocolate com fruta
+2025-07-04,jantar,lombo ao molho roty,ovo frito,cuscuz de legumes,pudim de maria mole com calda
+2025-07-05,almoco,filé de frango ao molho provençal,estrogonofe de grão de bico,chuchu com manjericão,mosaico de gelatina
+2025-07-07,almoco,bife ao molho acebolado,tomate recheado,legumes à italiana,mini bolo de baunilha e
+2025-07-07,jantar,lombo ao molho ferrugem,pvt com azeitonas,batata doce com ervas,cocada
+2025-07-08,almoco,lasanha à bolonhesa,lasanha de pvt,repolho com cenoura,bombom
+2025-07-08,jantar,filé de frango empanado,omelete de abobrinha,creme de milho,mousse de limão
+2025-07-10,almoco,linguiça acebolada,almôndega de aveia e escarola ao sugo, abobrinha à salsa,max chocolate
+2025-07-10,jantar,bife ao molho roty,estrogonofe de grão de bico,chuchu com azeitonas,barra de cereal banana e mel ou laranja
+2025-07-11,almoco,estrogonofe de frango,ovo frito,batata palha,flan de baunilha com calda
+2025-07-11,jantar,carne moída refogada,grãos com queijo branco,macarrão ao alho e óleo com espinafre,doce de abóbora e banana
+2025-07-12,almoco,pernil suíno ao molho ferrugem,batata vegetariana especial,brócolis refogado,surpresa de abacaxi
+2025-07-14,almoco,carne em cubos ao molho pomodoro,lasanha de abobrinha,vagem sautê,torrone
+2025-07-14,jantar,filé de frango ao molho ferrugem,quibe de brócolis e requeijão,polenta ao sugo,barra de cereal de chocolate e fruta
+2025-07-15,almoco,peixe frito,xadrez de pvt,purê de batata e mandioquinha,mousse de morango
+2025-07-15,jantar,lasanha à bolonhesa,lasanha de queijos,repolho com cenoura,mosaico de gelatina
+2025-07-16,almoco,file de coxa assado,omelete de brócolis,creme de milho,arroz doce moreno
+2025-07-16,jantar,hambúrguer ao molho pizzaiolo,hambúrguer de pvt ao sugo,batata corada ,max goiabinha
+2025-07-17,almoco,feijoada,feijoada vegetariana,couve ao alho,gelatina de framboesa
+2025-07-17,jantar,bife ao molho de cebola,almôndega de aveia e espinafre ao molho pomodoro,ervilha à parmentier,bombom
+2025-07-18,almoco,lagarto ao molho de cogumelos,curry de legumes,penne ao sugo,goiabada com queijo
+2025-07-18,jantar,pernil ao molho barbecue,ovo frito,farofa,curau com canela
+2025-07-19,almoco,bife ao molho de azeitonas,grãos com queijo branco,couve flor à provençal,iogurte
+2025-07-21,almoco,filé de frango empanado,ovo frito,creme de milho,bananada
+2025-07-21,jantar,bife grelhado ao molho de cebola,batata vegetariana especial,abobrinha à salsa,chocolate
+2025-07-22,almoco,estrogonofe de carne,quibe de brócolis e requeijão,batata palha,canjica quente
+2025-07-22,jantar,bisteca ao molho barbecue,bifinho de grão de bico ao molho barbecue,couve ao alho,marigel
+2025-07-23,almoco,bife ao molho de azeitonas,almôndegas de ricota com espinafre ao molho ferrugem,mandioca à italiana,curau com canela
+2025-07-23,jantar,peixe à portuguesa,batatalhoada,vagem sautê,iogurte
+2025-07-24,almoco,lombo suíno ao molho roty,moussaka vegetariana,farofa,cocada
+2025-07-24,jantar,iscas bovina ao molho provençal,souflê de legumes,batata rústica,manjar com calda de ameixa
+2025-07-25,almoco,hambúrguer ao sugo,hambúrguer de pvt à pizzaiolo,legumes sautê,brigadeirão
+2025-07-25,jantar,filé de coxa assada,omelete de abobrinha,penne à primavera,gelatina de cereja
+2025-07-26,almoco,carne em cubos ao molho ferrugem,xadrez de grão de bico,ervilha à parmentier,barra de cereal
+2025-07-28,almoco,bife ao molho roty,quibe de abóbora com requeijão,batata doce sautê,mini bolo de baunilha com morango
+2025-07-28,jantar,filé de frango ao molho ferrugem,ovo frito,creme de milho,torrone
+2025-07-29,almoco,lombo ao molho barbecue,bife de grão de bico ao molho barbecue,polenta ao sugo e parmesão,pudim de maria mole com calda
+2025-07-29,jantar,estrogonofe de carne,almôndega de aveia e escarola ao molho provençal,batatapalha,canjica quente
+2025-07-30,almoco,filé de coxa assado ,omelete de brócolis,nhoque ao molho rosê,max goiabinha
+2025-07-30,jantar,carne em cubos ao molho de cebola,hambúrguer de lentilha ao molho ferrugem,legumes à italiana,surpresa de abacaxi
+2025-07-31,almoco,carne moida refogada,pvt com cogumelo e shimeji,batata corada,banana caramelada
+2025-07-31,jantar,linguiça suína acebolada,xadrez de grão de bico,virado de vagem,brigadeirão
+2025-08-01,almoco,filé de frango ao molho pomodoro,batata vegetariana especial,abobrinha com ervas,barra de cereal de banana e mel
+2025-08-01,jantar,bife ao molho de cogumelos,souflê de legumes,brócolis ao alho,flan de baunilha com calda de goiabada
+2025-08-02,almoco,pernil suíno ao molho roty,lasanha de abobrinha,farofa,chocolate
+2025-08-04,almoco,filé de frango empanado,estrogonofe de grão de bico,repolho com cenoura refogados,doce de leite
+2025-08-04,jantar,bife ao molho de azeitonas,quibe de brócolis,batata rústica,bolinho de baunilha
+2025-08-05,almoco,lasanha à bolonhesa,lasanha de pvt,legumes refogados,torrone
+2025-08-05,jantar,lombo ao molho barbecue,bifinho de grão de bico ao molho barbecue,farofa,pudim de maria mole e coco
+2025-08-06,almoco,carne em cubos ao molho roty,ovo frito,batata doce com ervas,mousse de maracujá
+2025-08-06,jantar,frango assado,lasanha de abobrinha com pvt,vagem ao alho,picolé de morango
+2025-08-07,almoco,feijoada,feijoada vegetariana,couve refogada,gelatina de cereja
+2025-08-07,jantar,filé de frango ao molho ferrugem,omelete de abobrinha,acelga à chinesa,pé de moça
+2025-08-08,almoco,filé de peixe à portuguesa,batatalhoada,couve flor com ervas,surpresa de abacaxi
+2025-08-08,jantar,carne moída refogada,hamburguer de grão de bico à pizzaiolo,nhoque ao sugo,iogurte de morango
+2025-08-09,almoco,bife ao molho de cebola,tomate recheado,polenta,arroz doce moreno
+2025-08-11,almoco,linguiça acebolada,pvt com azeitonas,farofa,barra de cereal
+2025-08-11,jantar,estrogonofe de carne,xadrez de grão de bico,batata palha,torrone
+2025-08-12,almoco,carne em cubos ao molho ferrugem,omelete de brócolis,legumes ao alho,bombom
+2025-08-12,jantar,lombo ao molho madeira,baião de dois,couve refogada,mousse de limão
+2025-08-13,almoco,frango assado,almôndega de aveia e escarola ao molho barbecue,brócolis à provençal,pudim de maria mole c
+2025-08-13,jantar,bife ao molho pomodoro,moussaka vegetariana,polenta cremosa,bolinho roll
+2025-08-14,almoco,hamburguer à pizzaiolo,bifinho de grão de bico ao sugo,macarrão ao alho e óleo,cocada
+2025-08-14,jantar,filé de frango empanado,ovo frito,purê de batatas,maxi chocolate
+2025-08-18,almoco,filé de frango empanado,lasanha de queijos,vagem refogada,doce de banana
+2025-08-18,jantar,bife ao molho roty,omelete de brócolis,chuchu com azeitonas,chocolate ao leite
+2025-08-19,almoco,estrogonofe de carne,xadrez de grão de bico,batata palha,gelatina de cereja
+2025-08-19,jantar,linguiça suína acebolada,curry de legumes,farofa rica,bombom
+2025-08-20,almoco,carne moída,pvt alemão,ervilha à parmentier,maxi goiabinha
+2025-08-20,jantar,filé de coxa assado,almôndegas de aveia e espinafre ao molho ferrugem,mandioca à italiana,surpresa de banana
+2025-08-21,almoco,pernil suíno ao molho roty,ovo frito,couve ao alho,brigadeirão
+2025-08-21,jantar,lasanha à bolonhesa,lasanha de pvt,repolho com cenoura refogados,doce de goiabada
+2025-08-22,almoco,carne louca,moussaka vegetariana,polenta cremosa,pudim de pão com calda
+2025-08-22,jantar,peixe frito,batata vegetariana especial,couve flor à provençal,picolé de uva
+2025-08-23,almoco,lombo suíno ao molho ferrugem,grãos com queijo branco,cenoura à salsa,flan de baunilha com calda
+2025-08-25,almoco,fricassé de frango,omelete de abobrinha,batata palha,barra de cereal 
+2025-08-25,jantar,carne em cubos ao molho provençal,estrogonofe de grão de bico,legumes sauté,cocada
+2025-08-26,almoco,lombo ao molho ferrugem,curry de legumes,farofa,picolé de creme
+2025-08-26,jantar,lagarto ao molho de cogumelos,ovo frito,ervilha à parmentier,brigadeirão
+2025-08-27,almoco,carne moída refogada,souflê de legumes,batata rústica,manjar de coco com calda de ameixa
+2025-08-27,jantar,filé de frango ao molho ferrugem,tomate recheado,abobrinha à salsa,maxi goiabinha
+2025-08-28,almoco,isca de carne ao molho de cebola,quibe de brócolis,chuchu com manjericão,chocolate ao leite
+2025-08-28,jantar,pernil ao molho roty,pvt com azeitonas,virado de vagem e cenoura,gelatina de framboesa
+2025-08-29,almoco,filé de coxa assado,almôndegas de ricota com espinafre ao molho barbecue,polenta cremosa,iogurte
+2025-08-29,jantar,hamburguer ao molho sugo,hamburguer de lentilha ao sugo,macarrão à primavera,arroz doce moreno
+2025-08-30,almoco,bife ao molho de cebola,bifinho de feijão,cuscuz de legumes,mosaico de gelatina
+2025-09-01,almoco,bife grelhado ao molho de cebola,tomate recheado,mandioca à salsa,maxi goiabinha
+2025-09-01,jantar,fricassê de frango,bifinho de feijão branco ao molho barbecue,batata palha,barra de cereais
+2025-09-02,almoco,lasanha à bolonhesa,lasanha de pvt,vagem sautê,marigel
+2025-09-02,jantar,lombo ao molho roty,omelete c brócolis e queijo,farofa rica,flan de baunilha com calda
+2025-09-03,almoco,filé de frango ao molho ferrugem,almôndega de aveia e espinafre ao molho de cogumelos,polenta de corte ao sugo com parmesão,pudim de pão com calda
+2025-09-03,jantar,bife ao molho provençal,estrogonofe de grão de bico,batata doce com ervas,curau com canela
+2025-09-04,almoco,lagarto ao molho de azeitonas,ovo frito,cuscuz,arroz doce moreno
+2025-09-04,jantar,frango assado,quibe de brócolis e requeijão,abobrinha à italiana,gelatina de cereja
+2025-09-05,almoco,peixe frito,lasanha de abobrinha e pvt,purê de batata e mandioquinha,doce de abóbora com coco
+2025-09-05,jantar,hamburguer ao sugo,hamburguer de lentilha ao sugo,macarrão penne ao alho e óleo,surpresa de abacaxi
+2025-09-06,almoco,bisteca ao molho barbecue,batatalhoada,cuscuz à provençal,mousse de morango
+2025-09-08,almoco,filé de frango empanado,quibe de brócolis,creme de milho,barra de cereais (banana e mel)
+2025-09-08,jantar,bife grelhado ao molho pomodoro,lasanha de ricota com espinafre,cenoura à salsa,max chocolate
+2025-09-09,almoco,carne moída refogada,curry de legumes,batata rústica,gelatina de cereja
+2025-09-09,jantar,linguiça acebolada,pvt com azeitona,cuscuz de legumes,bananada
+2025-09-10,almoco,bife ao molho madeira,hamburguer de pvt à pizzaiolo,macarrão à primavera,chocolate ao leite ou abacaxi
+2025-09-10,jantar,filé de coxa grelhado,bifinho de grão de bico ao molho cogumelos,polenta,pudim de maria mole com calda de goiabada ou melão
+2025-09-11,almoco,pernil ao molho barbecue,lasanha de abobrinha e pvt,virado de cenoura e vagem,surpresa de abacaxi
+2025-09-11,jantar,estrogonofe de carne,ovo frito,batata palha,bolinho de baunilha recheado com morango
+2025-09-12,almoco,filé de frango ao sugo,moussaka vegetariana,brócolis ao alho,picolé de doce de leite
+2025-09-12,jantar,carne em cubos ao molho roty,almôndegas de aveia e espinafre ao molho roty,ervilha à parmentier,brigadeirão
+2025-09-13,almoco,lombo suíno ao molho ferrugem, omelete de espinafre,farofa rica,mosaico
+2025-09-15,almoco,carne em cubos ao molho de cebola,estrogonofe de grão de bico,legumes sauté,bombom
+2025-09-15,jantar,filé de frango empanado,escondidinho de pvt,chuchu com manjericão,torrone
+2025-09-16,almoco,lombo ao molho barbecue,ovo frito,couve-flor à provençal,pudim de maria mole com calda de goiabada
+2025-09-16,jantar,carne louca (lagarto bovino),quibe de abóbora com requeijão,purê de batatas,doce de batata doce
+2025-09-17,almoco,carne moída refogada,pvt com azeitonas,polenta,iogurte de morango
+2025-09-17,jantar,filé de peixe à portuguesa,curry de legumes,batata rústica,mousse de limão
+2025-09-18,almoco,iscas de carne ao molho de azeitonas,almôndegas de aveia e brócolis ao molho de azeitonas,cenoura à salsa,gelatina de framboesa
+2025-09-18,jantar,pernil suíno ao molho roty,omelete de abobrinha,farofa rica,doce de leite
+2025-09-19,almoco,filé de coxa assado,bifinho de feijão branco ao molho de cogumelos,nhoque ao sugo,flan de baunilha com calda
+2025-09-19,jantar,lasanha à bolonhesa,lasanha de pvt,vagem ao alho,picolé de coco
+2025-09-20,almoco,bife ao molho provençal,curry de legumes,acelga à chinesa,surpresa de banana
+2025-09-22,almoco,filé de frango empanado,xadrez de grão de bico,creme de milho,barra de cereais
+2025-09-22,jantar,bife grelhado ao molho de cebola, tomate recheado,mandioca à salsa,maxi goiabinha
+2025-09-23,almoco,hamburguer ao sugo,hamburguer de lentilha à pizzaiolo,batata doce com ervas,torrone
+2025-09-23,jantar,estrogonofe de frango,almôndegas de aveia e brócolis ao molho barbecue,legumes sautê,mosaico de gelatina
+2025-09-24,almoco,bife ao molho de azeitonas,quibe de abóbora,ervilha à parmentier,brigadeirão
+2025-09-24,jantar,lombo suíno ao molho barbecue,omelete de espinafre,couve refogada,cocada
+2025-09-25,almoco,frango assado,souflê de legumes,abobrinha à italiana,picolé de limão suíço
+2025-09-25,jantar,carne moída refogada,moussaka vegetariana,polenta cremosa,chocolate
+2025-09-26,almoco,pernil assado ao molho ferrugem,ovo frito,farofa,bolinho de brigadeiro
+2025-09-26,jantar,isca bovina ao molho de cogumelo,bifinho de grão de bico ao molho de cogumelo,macarrão ao sugo,manjar com calda de ameixa
+2025-09-27,almoco,carne em cubos ao molho de azeitonas,escondidinho de pvt,repolho à provençal,doce de batata doce
+2025-09-29,almoco,linguiça acebolada,bifinho de feijão branco à pizzaiolo,polenta,bananada
+2025-09-29,jantar,bife ao molho de azeitonas,batata vegetariana especial,brócolis à provençal,bombom
+2025-09-30,almoco,estrogonofe de carne,omelete de brócolis,batata palha,cocada
+2025-09-30,jantar,bisteca suína ao molho barbecue,lasanha de abobrinha,virado de couve,iogurte de morango
+2025-10-01,almoco,filé de peixe à portuguesa,batatalhoada,vagem sauté,torrone
+2025-10-01,jantar,hambúrguer ao molho ferrugem,hamburguer de lentilha ao molho ferrugem,purê de batata e mandioquinha,gelatina de morango
+2025-10-02,almoco,bife grelhado ao molho roty,bifinho de grão de bico à pizzaiolo,macarrão ao alho e óleo com espinafre,bolinho roll de chocolate
+2025-10-02,jantar,filé de coxa assado,ovo frito,couve-flor à provençal,pudim de maria mole com calda de goiabada
+2025-10-03,almoco,pernil assado ao molho de cebola,almôndegas de aveia ao molho barbecue,farofa,picolé de coco
+2025-10-03,jantar,lasanha à bolonhesa,lasanha de pvt,repolho com ervas,brigadeirão
+2025-10-04,almoco,filé de frango ao molho provençal,estrogonofe de grão de bico,chuchu à salsa,arroz doce moreno

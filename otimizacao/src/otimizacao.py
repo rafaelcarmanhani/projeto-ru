@@ -42,15 +42,23 @@ P = dict(zip(df["item"], df["P"]))
 Categoria = dict(zip(df["item"], df["categoria"]))
 TipoCarne = dict(zip(df["item"], df["tipo_carne"]))
 Embutido = dict(zip(df["item"], df["embutido"]))
+Especificacao = dict(zip(df["item"], df["especificacao"]))
 
 #Conjunto C
 C = sorted(df["categoria"].unique())
-print("Categorias:", C)
+# Conjunto E 
+E = sorted(df["especificacao"].dropna().unique())
 
 #Subconjuntos Ic
 Ic = {c: [] for c in C}
 for i in I:
     Ic[Categoria[i]].append(i)
+# Subconjuntos Ie (especificações)
+Ie = {e: [] for e in E}
+for i in I:
+    e = Especificacao[i]
+    if pd.notna(e):
+        Ie[e].append(i)
 
 #Subconjuntos especiais
 IBranca   = [i for i in I if TipoCarne[i] == "branca"]
@@ -119,6 +127,102 @@ for i in Ic["prato_principal_1"]:
                 ) <= 1,
                 name=f"PP1_{i}_{d}"
             )
+
+#PP2
+for d in D:
+    refeicoes = R_ds(d)
+
+    if "Almoco" in refeicoes and "Janta" in refeicoes:
+
+        m.addConstr(
+            quicksum(x[i, "Almoco", d] for i in IBranca)
+            ==
+            quicksum(x[i, "Janta", d] for i in IVermelha),
+            name=f"PP2_{d}"
+        )
+
+#PP3
+for d in D:
+    refeicoes = R_ds(d)
+
+    if "Almoco" in refeicoes and "Janta" in refeicoes:
+
+        m.addConstr(
+            quicksum(x[i, "Almoco", d] for i in IVermelha)
+            ==
+            quicksum(x[i, "Janta", d] for i in IBranca),
+            name=f"PP3_{d}"
+        )
+
+#PP4
+for d in D:
+
+    if d + 6 <= max(D):
+
+        almoco_embutido = quicksum(
+            x[i, "Almoco", k]
+            for k in range(d, d + 7)
+            for i in IEmbutido
+            if (i, "Almoco", k) in x
+        )
+
+        janta_embutido = quicksum(
+            x[i, "Janta", k]
+            for k in range(d, d + 7)
+            for i in IEmbutido
+            if (i, "Janta", k) in x
+        )
+
+        z = m.addVar(vtype=GRB.BINARY, name=f"z_PP4_{d}")
+
+        m.addConstr(almoco_embutido >= z)
+        m.addConstr((z == 1) >> (janta_embutido == 0))
+
+
+#PP5
+for d in D:
+
+    if d + 6 <= max(D):
+
+        almoco_embutido = quicksum(
+            x[i, "Almoco", k]
+            for k in range(d, d + 7)
+            for i in IEmbutido
+            if (i, "Almoco", k) in x
+        )
+
+        janta_embutido = quicksum(
+            x[i, "Janta", k]
+            for k in range(d, d + 7)
+            for i in IEmbutido
+            if (i, "Janta", k) in x
+        )
+
+        z = m.addVar(vtype=GRB.BINARY, name=f"z_PP5_{d}")
+
+        m.addConstr(janta_embutido >= z)
+        m.addConstr((z == 1) >> (almoco_embutido == 0))
+
+#PP6
+
+for d in D:
+    if d + 1 <= max(D):
+
+        for e in E:
+
+            jantar_espec = quicksum(
+                x[i, "Janta", d]
+                for i in Ie[e]
+                if (i, "Janta", d) in x
+            )
+
+            almoco_espec = quicksum(
+                x[i, "Almoco", d + 1]
+                for i in Ie[e]
+                if (i, "Almoco", d + 1) in x
+            )
+
+            m.addConstr(jantar_espec + almoco_espec <= 1)
 
 #OP1
 for i in Ic["prato_principal_2"]:

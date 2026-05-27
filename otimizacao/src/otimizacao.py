@@ -13,7 +13,7 @@ df = pd.read_excel("otimizacao\data\itens_cardapio.xlsx")
 
 #Configurações iniciais
 ano = 2026
-mes = 1
+mes = 5
 
 #Definir os conjuntos
 I = list(df["item"])

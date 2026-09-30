@@ -1801,8 +1801,18 @@ for d in D:
 # baixo. Isso mantém a relaxação linear apertada e o modelo rápido.
 #
 # O PESO DECAI COM A DISTÂNCIA: peso(k) = PESO_PEN_BASE / k. A distância 0
-# (mesma refeição, pp1 e pp2 juntos) é tratada à parte, com o dobro do
-# peso da distância 1, por ser o caso mais gritante.
+# (mesma refeição) é tratada à parte, com o dobro do peso da distância 1,
+# EXCETO o par pp1 + pp2 de mesmo preparo, que passou a ser DESEJADO e
+# recebe bônus (BON1, abaixo). A distância 0 continua pegando os outros
+# casos, ex.: "ovo frito" (pp2) com "batata corada" (guarnição, frito).
+#
+# PRESENÇA, NÃO CONTAGEM: nos pares a distância k >= 1, cada slot entra
+# com y[q,slot] = "o preparo q aparece no slot", e não com a soma dos
+# itens. Com a soma, um slot com estrogonofe no pp1 E no pp2 (2 itens)
+# ativaria z >= 2 + 0 - 1 = 1 contra TODOS os vizinhos, mesmo sem nenhum
+# estrogonofe neles — e o bônus BON1 nunca compensaria. y é contínua em
+# [0, 1] com y >= x[i] para cada item de q: a maximização empurra y para
+# baixo, então y = max(x[i]), sem precisar ser binária.
 #
 # CALIBRAÇÃO DO PESO: o maior S possível é ~20 (P=10 no melhor slot,
 # F=2.0). Com PESO_PEN_BASE = 25, uma colisão em slots adjacentes custa 25
@@ -1835,17 +1845,77 @@ slots = [
 ]
 
 penalidades = []
+bonus = []
+
+# ---------------- BON1: bônus para pp1 e pp2 do MESMO PREPARO -------------
+#
+# Pedido do grupo: é desejável que a opção vegetariana "acompanhe" o prato
+# principal — estrogonofe de frango + estrogonofe de pvt, lasanha
+# bolonhesa + lasanha de berinjela. Para o comensal, pp1 e pp2 viram duas
+# versões do mesmo prato. NÃO É REGRA DO EDITAL; ver DUVIDAS_EDITAL.md,
+# item 9.
+#
+# FORMULAÇÃO: para cada slot e preparo q, b[q,slot] em [0, 1] com
+#
+#     b <= (itens pp1 de q no slot)   e   b <= (itens pp2 de q no slot)
+#
+# Como E1 força exatamente 1 pp1 e 1 pp2 por refeição, os dois lados são
+# 0/1 e b só pode valer 1 quando os dois pratos são de q. O bônus é
+# positivo no objetivo, então a maximização empurra b para cima até esse
+# teto: não precisa ser binária.
+#
+# CALIBRAÇÃO: PESO_BON1 = 5 é ~1/4 do maior S (~20) e ~1/5 do custo de uma
+# colisão adjacente do PEN1. Serve de desempate forte entre pp2 de score
+# parecido, mas não faz o solver trocar um pp2 bom por um ruim só para
+# casar o preparo. O próprio PEN1 (distância k >= 1) e OP1/PP1 limitam
+# quantas vezes cada preparo pode casar no mês.
+PESO_BON1 = 5.0
+
+IPP1 = set(Ic["prato_principal_1"])
+IPP2 = set(Ic["prato_principal_2"])
+
+# Só preparos que existem nas duas categorias podem casar.
+PREPAROS_BON1 = [
+    q for q in PREPAROS
+    if IPP1 & set(I_PREPARO[q]) and IPP2 & set(I_PREPARO[q])
+]
+
+b_BON1 = {}
+for q in PREPAROS_BON1:
+    pp1_q = [i for i in I_PREPARO[q] if i in IPP1]
+    pp2_q = [i for i in I_PREPARO[q] if i in IPP2]
+    for d, r in slots:
+        nome = f"{q}_{d}_{r}".replace(" ", "-")
+        bq = m.addVar(lb=0.0, ub=1.0, name=f"b_BON1_{nome}")
+        m.addConstr(bq <= quicksum(x[i, r, d] for i in pp1_q), name=f"BON1a_{nome}")
+        m.addConstr(bq <= quicksum(x[i, r, d] for i in pp2_q), name=f"BON1b_{nome}")
+        b_BON1[q, d, r] = bq
+        bonus.append(PESO_BON1 * bq)
+
+print(f"\nBON1: {len(PREPAROS_BON1)} preparos podem casar pp1/pp2 "
+      f"({', '.join(PREPAROS_BON1)}), peso {PESO_BON1}")
 
 for q in PREPAROS:
     itens_q = I_PREPARO[q]
 
-    # ---- distância 0: mesma refeição (pp1 e pp2 do mesmo preparo) ----
-    # Peso dobrado em relação à distância 1: é o caso mais visível.
+    # ---- distância 0: mesma refeição ----
+    # Peso dobrado em relação à distância 1: é o caso mais visível. O par
+    # pp1 + pp2 casado pelo BON1 é descontado (- b), então só colide o que
+    # sobrar além dele (ex.: pp1, pp2 e guarnição todos "frito").
     for d, r in slots:
         ocorrencias = quicksum(x[i, r, d] for i in itens_q)
+        casado = b_BON1.get((q, d, r), 0)
         z = m.addVar(lb=0.0, name=f"z_PEN1_{q}_{d}_{r}".replace(" ", "-"))
-        m.addConstr(z >= ocorrencias - 1, name=f"PEN1_0_{q}_{d}_{r}".replace(" ", "-"))
+        m.addConstr(z >= ocorrencias - 1 - casado, name=f"PEN1_0_{q}_{d}_{r}".replace(" ", "-"))
         penalidades.append(2.0 * PESO_PEN_BASE * z)
+
+    # ---- presença do preparo em cada slot (ver "PRESENÇA, NÃO CONTAGEM") ----
+    y = {}
+    for d, r in slots:
+        nome = f"{q}_{d}_{r}".replace(" ", "-")
+        y[d, r] = m.addVar(lb=0.0, ub=1.0, name=f"y_PEN1_{nome}")
+        for i in itens_q:
+            m.addConstr(y[d, r] >= x[i, r, d], name=f"PEN1y_{nome}_{i}".replace(" ", "-"))
 
     # ---- distância k >= 1: pares de slots próximos ----
     for a in range(len(slots)):
@@ -1856,9 +1926,7 @@ for q in PREPAROS:
 
             z = m.addVar(lb=0.0, name=f"z_PEN1_{q}_{da}{ra[:3]}_{db}{rb[:3]}".replace(" ", "-"))
             m.addConstr(
-                z >= quicksum(x[i, ra, da] for i in itens_q)
-                   + quicksum(x[i, rb, db] for i in itens_q)
-                   - 1,
+                z >= y[da, ra] + y[db, rb] - 1,
                 name=f"PEN1_{k}_{q}_{da}{ra[:3]}_{db}{rb[:3]}".replace(" ", "-")
             )
             penalidades.append((PESO_PEN_BASE / k) * z)
@@ -1867,7 +1935,53 @@ print(f"\nPEN1: {len(PREPAROS)} preparos penalizados, "
       f"{len(penalidades)} termos (alcance {ALCANCE_PEN} slots, "
       f"peso base {PESO_PEN_BASE})")
 
-# Objetivo: popularidade menos as colisões de preparo.
+# ---------------- PEN2: pp2 mais atrativo que o pp1 ----------------------
+#
+# Pedido do grupo: o prato principal 2 (vegetariano) não deve ofuscar o
+# prato principal 1. Nunca deveria sair, por exemplo, o MELHOR pp2 junto
+# do PIOR pp1. NÃO É REGRA DO EDITAL; ver DUVIDAS_EDITAL.md, item 9.
+#
+# COMPARAR P ENTRE CATEGORIAS FAZ SENTIDO AQUI: o P é reescalado para
+# [1, 10] DENTRO de cada categoria (BLOCO 3), então P = 10 é "o melhor da
+# categoria" e P = 1 "o pior". P_pp2 > P_pp1 lê-se como "o pp2 está mais
+# alto no ranking dele do que o pp1 no dele", que é a noção de "mais
+# atrativo" pedida — e não uma comparação de demanda absoluta.
+#
+# FORMULAÇÃO: penalidade linear por refeição (hinge), com folga:
+#
+#     v[slot] >= P(pp2 do slot) - P(pp1 do slot) - FOLGA_PEN2,   v >= 0
+#
+# Como E1 força exatamente 1 item de cada, as somas abaixo são o P do
+# prato escolhido. A penalização é negativa no objetivo, então v fica em
+# max(0, excesso) sem precisar de binária.
+#
+# CALIBRAÇÃO ("não tão severa"):
+#   - FOLGA_PEN2 = 1.0: inversões pequenas (pp2 até 1 ponto acima) são de
+#     graça. Pratos de P parecido não travam o modelo.
+#   - PESO_PEN2 = 1.0 por ponto de excesso. O pior caso (pp2 = 10 com
+#     pp1 = 1) custa 8, menos da metade do maior S e bem abaixo de uma
+#     colisão do PEN1. É o suficiente para o solver redistribuir os pares
+#     (o pp2 forte vai para o dia do pp1 forte), mas não para abrir mão de
+#     popularidade de verdade.
+FOLGA_PEN2 = 1.0
+PESO_PEN2 = 1.0
+
+v_PEN2 = {}
+for d, r in slots:
+    v = m.addVar(lb=0.0, name=f"v_PEN2_{d}_{r}")
+    m.addConstr(
+        v >= quicksum(P[i] * x[i, r, d] for i in IPP2)
+           - quicksum(P[i] * x[i, r, d] for i in IPP1)
+           - FOLGA_PEN2,
+        name=f"PEN2_{d}_{r}"
+    )
+    v_PEN2[d, r] = v
+    penalidades.append(PESO_PEN2 * v)
+
+print(f"PEN2: {len(v_PEN2)} termos (folga {FOLGA_PEN2}, peso {PESO_PEN2})")
+
+# Objetivo: popularidade, mais o bônus de preparo casado (BON1), menos as
+# colisões de preparo (PEN1) e as inversões pp2 > pp1 (PEN2).
 m.setObjective(
     quicksum(
         S[i, r, d] * x[i, r, d]
@@ -1875,6 +1989,7 @@ m.setObjective(
         for r in R_ds(d)
         for i in I
     )
+    + quicksum(bonus)
     - quicksum(penalidades),
     GRB.MAXIMIZE
 )

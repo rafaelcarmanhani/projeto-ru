@@ -234,6 +234,13 @@ principais), não em dias — almoço → jantar do mesmo dia é distância 1.
 O peso decai com a distância, `peso(k) = PESO_PEN_BASE / k`, e a distância
 0 (mesma refeição) leva o dobro do peso da distância 1.
 
+> **Atualizado pelo item 9:** o par pp1 + pp2 de mesmo preparo na mesma
+> refeição deixou de ser penalizado e passou a receber bônus (`BON1`). A
+> distância 0 continua penalizando os outros casos (ex.: pp2 e guarnição
+> ambos "frito"). E, nas distâncias k ≥ 1, cada slot passou a contar a
+> **presença** do preparo, não o número de itens — senão um slot com
+> estrogonofe no pp1 e no pp2 colidiria com todos os vizinhos.
+
 Parâmetros atuais: `ALCANCE_PEN = 4` slots, `PESO_PEN_BASE = 25.0`.
 
 **Resultado (maio/2026)**
@@ -276,3 +283,55 @@ Parâmetros atuais: `ALCANCE_PEN = 4` slots, `PESO_PEN_BASE = 25.0`.
 contínuas e subiu o tempo de resolução de menos de 1 segundo para ~105
 segundos. Ainda aceitável para uso mensal, mas é o fator que mais pesa se
 o alcance ou o número de preparos crescer.
+
+## 9. pp2 mais atrativo que o pp1 (PEN2) e pp1/pp2 do mesmo preparo (BON1) — NÃO É REGRA DO EDITAL
+
+**Pedido do grupo**
+
+1. O prato principal 2 não deve ser mais atrativo que o prato principal 1.
+   Não precisa valer sempre, mas nunca deveria sair, por exemplo, o melhor
+   pp2 junto do pior pp1.
+2. É desejável que pp1 e pp2 sejam do mesmo preparo na mesma refeição
+   (estrogonofe de frango + estrogonofe de pvt, lasanha bolonhesa +
+   lasanha de berinjela).
+
+**Solução implementada** (ambas no objetivo, em `src/otimizacao.py`)
+
+- **PEN2** — penalidade linear por refeição:
+  `v >= P(pp2) − P(pp1) − FOLGA_PEN2`, `v >= 0`, custo `PESO_PEN2 · v`.
+  Comparar P entre categorias faz sentido porque o P é reescalado para
+  [1, 10] **dentro** de cada categoria: P_pp2 > P_pp1 significa "o pp2 está
+  mais alto no ranking dele do que o pp1 no dele".
+  Parâmetros: `FOLGA_PEN2 = 1.0` (inversões de até 1 ponto são de graça),
+  `PESO_PEN2 = 1.0` por ponto (o pior caso, 10 contra 1, custa 8).
+- **BON1** — bônus `PESO_BON1 = 5.0` por refeição em que pp1 e pp2 têm o
+  mesmo `preparo`. Só vale para preparos presentes nas duas categorias
+  (bife, cozido, estrogonofe, gratinado, hambúrguer, lasanha, quibe, xadrez,
+  frito).
+
+**Resultado (maio/2026, 47 refeições principais)**
+
+| Métrica | Antes | Depois |
+|---|---|---|
+| Refeições com P(pp2) > P(pp1) | 7 | 2 |
+| Refeições com P(pp2) > P(pp1) + 1 | 4 | 2 |
+| Pior excesso | +4,31 (lombo 5,7 × lasanha de pvt 10,0) | +3,09 |
+| pp1 e pp2 do mesmo preparo | 0 | 23 |
+| Colisões PEN1 (1 a 4 slots) | 0 | 0 |
+| Popularidade pura (Σ S·x) | 2001,6 | 1990,6 (−0,55%) |
+| Tempo de resolução | ~158 s | ~134 s |
+
+As 2 inversões que sobraram são com "peixe ao molho" (P = 1, o piso da
+escala), que o `T06min` obriga a aparecer; qualquer pp2 com P > 2 inverte.
+
+**DECISÕES TOMADAS QUE PRECISAM DE VALIDAÇÃO**
+
+- [ ] **23 de 47 refeições casadas é muito?** O bônus pode estar alto. Se
+      o grupo achar repetitivo, baixar `PESO_BON1` (ex.: 2–3) ou limitar
+      quantas vezes por semana o casamento é premiado.
+- [ ] **"Atrativo" = P do DML.** É popularidade relativa dentro da
+      categoria, não percepção declarada.
+- [ ] **Calibração de `FOLGA_PEN2` e `PESO_PEN2`**: escolhidos para ser uma
+      penalização branda, como pedido. Para zerar as inversões seria preciso
+      subir o peso bem acima de 1.
+

@@ -6,6 +6,8 @@ import pandas as pd
 import calendar
 from datetime import date
 
+from relatorio import gerar_relatorio
+
 # ------------------------ CONFIGURAÇÕES INICIAIS ------------------------
 
 # Ler csv
@@ -1980,6 +1982,50 @@ for d, r in slots:
 
 print(f"PEN2: {len(v_PEN2)} termos (folga {FOLGA_PEN2}, peso {PESO_PEN2})")
 
+# ---------------- PEN3: mesmo prato na mesma refeição, semana seguinte ----
+#
+# Pedido do grupo: variedade. Lasanha no almoço de uma terça e de novo no
+# almoço da terça seguinte é o tipo de repetição que o aluno mais percebe.
+# NÃO É REGRA DO EDITAL; ver DUVIDAS_EDITAL.md, item 9.
+#
+# POR QUE O PEN1 NÃO COBRE: ele age até ALCANCE_PEN slots (~2 dias), e a
+# mesma refeição da semana seguinte fica a ~11 slots. As regras PP1/OP1 já
+# impedem o mesmo item DUAS vezes na janela de 7 dias, mas d e d + 7 ficam
+# em janelas diferentes, então essa repetição é permitida.
+#
+# FORMULAÇÃO: para cada item i de pp1 ou pp2 (prato EXATO, não preparo) e
+# cada par (d, r), (d + 7, r) existente:
+#
+#     z >= x[i,r,d] + x[i,r,d+7] - 1,   z >= 0
+#
+# Mesmo raciocínio do PEN1: z só é forçada a 1 se o item aparece nos dois;
+# a penalização é negativa no objetivo, então z fica em 0 nos demais casos.
+#
+# CALIBRAÇÃO ("leve"): PESO_PEN3 = 6, ~30% do maior S (~20) e ~1/4 de uma
+# colisão adjacente do PEN1. Desempata entre pratos de score parecido, mas
+# o solver ainda repete um prato muito popular quando a alternativa é cara.
+PESO_PEN3 = 6.0
+
+I_PEN3 = sorted(IPP1 | IPP2)
+
+z_PEN3 = {}
+for d in D:
+    if d + 7 not in D:
+        continue
+    for r in R_ds(d):
+        if r not in ("Almoco", "Janta") or r not in R_ds(d + 7):
+            continue
+        for i in I_PEN3:
+            z = m.addVar(lb=0.0, name=f"z_PEN3_{i}_{d}_{r}".replace(" ", "-"))
+            m.addConstr(
+                z >= x[i, r, d] + x[i, r, d + 7] - 1,
+                name=f"PEN3_{i}_{d}_{r}".replace(" ", "-")
+            )
+            z_PEN3[i, d, r] = z
+            penalidades.append(PESO_PEN3 * z)
+
+print(f"PEN3: {len(z_PEN3)} termos (peso {PESO_PEN3})")
+
 # Objetivo: popularidade, mais o bônus de preparo casado (BON1), menos as
 # colisões de preparo (PEN1) e as inversões pp2 > pp1 (PEN2).
 m.setObjective(
@@ -2034,3 +2080,73 @@ for d in D:
             print(f"  {r}: (nenhum item selecionado)")
 
     print()
+
+# ------------------------ RELATÓRIO VISUAL ------------------------
+
+# Página HTML com o cardápio em calendário, para apresentar ao time (ver
+# relatorio.py). Fica em otimizacao/results/, junto de um JSON com os mesmos
+# dados, e abre sozinha no navegador. Para só gerar o arquivo, sem abrir,
+# troque ABRIR_NO_NAVEGADOR para False.
+ABRIR_NO_NAVEGADOR = True
+
+STATUS_SOLVER = {
+    GRB.OPTIMAL: "ótima",
+    GRB.TIME_LIMIT: "interrompida (limite de tempo)",
+    GRB.SUBOPTIMAL: "subótima",
+}
+
+if m.SolCount > 0:
+    resultado = {
+        "ano": ano,
+        "mes": mes,
+        "dias_no_mes": calendar.monthrange(ano, mes)[1],
+        "primeiro_dia_semana": s(1),
+        "solver": {
+            "status": STATUS_SOLVER.get(m.Status, f"status {m.Status}"),
+            "tempo_s": round(m.Runtime, 1),
+            "objetivo": round(m.ObjVal, 1),
+        },
+        "parametros": {
+            "PESO_PEN_BASE": PESO_PEN_BASE,
+            "ALCANCE_PEN": ALCANCE_PEN,
+            "PESO_BON1": PESO_BON1,
+            "FOLGA_PEN2": FOLGA_PEN2,
+            "PESO_PEN2": PESO_PEN2,
+            "PESO_PEN3": PESO_PEN3,
+        },
+        "preparos_penalizados": PREPAROS,
+        "dias": [
+            {
+                "dia": d,
+                "dia_semana": s(d),
+                "refeicoes": [
+                    {
+                        "refeicao": r,
+                        "F": round(F[r][s(d)], 3),
+                        "itens": [
+                            {
+                                "nome": i,
+                                "categoria": Categoria[i],
+                                "P": round(float(P[i]), 3),
+                                "S": round(float(S[i, r, d]), 3),
+                                # NaN na planilha = item sem preparo.
+                                "preparo": Preparo[i] if isinstance(Preparo.get(i), str) else None,
+                            }
+                            for i in I
+                            if x[i, r, d].X > 0.5
+                        ],
+                    }
+                    for r in R_ds(d)
+                ],
+            }
+            for d in D
+            if R_ds(d)
+        ],
+    }
+
+    caminho = gerar_relatorio(
+        resultado, "otimizacao/results", abrir=ABRIR_NO_NAVEGADOR
+    )
+    print(f"Relatório salvo em {caminho}")
+else:
+    print("Sem solução factível: relatório não gerado.")

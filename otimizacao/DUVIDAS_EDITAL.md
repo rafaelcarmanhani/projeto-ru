@@ -335,3 +335,36 @@ escala), que o `T06min` obriga a aparecer; qualquer pp2 com P > 2 inverte.
       penalização branda, como pedido. Para zerar as inversões seria preciso
       subir o peso bem acima de 1.
 
+
+## 10. Mesmo prato na mesma refeição na semana seguinte (PEN3) — NÃO É REGRA DO EDITAL
+
+Pedido do grupo, por variedade: evitar, por exemplo, lasanha no almoço de
+uma terça e de novo no almoço da terça seguinte.
+
+**Por que nenhuma regra anterior cobria:** `PP1`/`OP1` usam janela móvel de
+7 dias, que proíbe o item duas vezes dentro da janela mas permite `d` e
+`d + 7` (janelas diferentes). A `PEN1` age só até `ALCANCE_PEN = 4` slots, e
+a mesma refeição da semana seguinte fica a ~11 slots.
+
+**O que foi feito:** para cada item de pp1 ou pp2 (prato EXATO, não
+preparo) e cada par (`d`, `r`), (`d + 7`, `r`) existente:
+`z >= x[i,r,d] + x[i,r,d+7] − 1`, `z >= 0`, custo `PESO_PEN3 · z`, com
+`PESO_PEN3 = 6.0` (~30% do maior S, ~1/4 de uma colisão adjacente da PEN1).
+Só pp1 e pp2; guarnição e sobremesa ficaram de fora por terem poucos itens
+e cotas próprias.
+
+**Resultado (maio/2026, ótima nos dois casos):**
+
+| | Sem PEN3 | Com PEN3 |
+|---|---:|---:|
+| Repetições semanais de pp1/pp2 | 23 | 0 |
+| Objetivo | 2101,5 | 2100,0 |
+
+**DECISÕES QUE PRECISAM DE VALIDAÇÃO**
+
+- [ ] **Peso:** com 6 a PEN3 já zera as repetições a um custo de 1,5 ponto,
+      ou seja, age como proibição na prática. Se o grupo aceitar alguma
+      repetição quando o prato for muito popular, baixar para 2–3.
+- [ ] **Prato exato × preparo:** hoje é o prato exato. Penalizar o preparo
+      colidiria com o BON1 (pp1 e pp2 do mesmo preparo são desejados).
+- [ ] **Só semana N × N+1.** N × N+2 não é penalizado.

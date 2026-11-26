@@ -622,7 +622,6 @@ Ano,Mês,Dia_semana,Dia_mês,refeicao,total,prato_principal_1,prato_principal_2,
 2024,3,qua,20,almoco,2934.0,Frango assado,Ovo frito,Polenta,Barra de cereais,1,0,0,0,0,0,0,0,23,104,5
 2024,3,qua,20,jantar,2656.0,Bife,Rondele,Couve-flor,Pudim de pão,1,0,0,0,0,0,0,0,23,104,5
 2024,3,qui,21,almoco,3015.0,Bife,PVT,Ervilha parmentier,Cocada,1,0,0,0,0,0,0,0,24,103,4
-2024,3,qui,21,almoco,3015.0,Estrogonofe de carne,Estrogonofe de PVT,Batata palha,Brigadeirão,1,0,0,0,0,0,0,0,24,103,4
 2024,3,qui,21,jantar,2123.0,Bisteca,Curry de legumes,Farofa,Goiabada,1,0,0,0,0,0,0,0,24,103,4
 2024,3,sex,22,almoco,2548.0,Isca de frango,Ovo frito,Macarrão,Surpresa de abacaxi,1,0,0,0,0,0,0,0,25,102,3
 2024,3,sex,22,jantar,1759.0,Lasanha bolonhesa,Lasanha de PVT,Acelga,Picolé,1,0,0,0,0,0,0,0,25,102,3
@@ -808,7 +807,6 @@ Ano,Mês,Dia_semana,Dia_mês,refeicao,total,prato_principal_1,prato_principal_2,
 2024,7,qui,25,almoco,644.0,Pernil,Moussaka,Farofa,Cocada,0,0,1,1,1,0,0,23,0,0,21
 2024,7,qui,25,jantar,646.0,Hamburguer,Hamburguer de grão de bico,Macarrão,Manjar,0,0,1,1,1,0,0,23,0,0,21
 2024,7,sex,26,almoco,589.0,Peixe frito,Grãos com queijo,Brócolis,Bolinho,0,0,1,1,1,0,0,24,0,0,20
-2024,7,sex,26,almoco,589.0,Peixe frito,Grãos com queijo,Brócolis,Bolinho,0,0,1,1,1,0,0,24,0,0,20
 2024,7,sex,26,jantar,462.0,Carne moída,PVT,Batata,Gelatina,0,0,1,1,1,0,0,24,0,0,20
 2024,7,sáb,27,almoco,413.0,Filé de frango,Bife de feijão,Ervilha parmentier,Barra de cereais,0,0,1,1,1,0,0,25,0,0,19
 2024,7,seg,29,almoco,773.0,Bife,Quibe de PVT,Chuchu,Pão de mel,0,0,1,1,1,0,0,27,0,0,17
@@ -939,7 +937,6 @@ Ano,Mês,Dia_semana,Dia_mês,refeicao,total,prato_principal_1,prato_principal_2,
 2024,10,ter,22,almoco,2495.0,Hamburguer,Hamburguer de lentilha,Macarrão,Bolinho,1,0,0,0,0,0,0,0,78,51,6
 2024,10,ter,22,jantar,2276.0,Filé de coxa,Quibe de brócolis,Polenta,Pudim de pão,1,0,0,0,0,0,0,0,78,51,6
 2024,10,qua,23,almoco,2262.0,Lombo,Grão de bico,Farofa,Chocolate,1,0,0,0,0,0,0,0,79,50,5
-2024,10,qua,23,almoco,2262.0,Lombo,Grão de bico,Farofa,Chocolate,1,0,0,0,0,0,0,0,79,50,5
 2024,10,qua,23,jantar,1527.0,Bife,Ovo frito,Chuchu,Gelatina,1,0,0,0,0,0,0,0,79,50,5
 2024,10,qui,24,almoco,2277.0,Carne moída,PVT,Ervilha parmentier,Pudim de maria mole,1,0,0,0,0,0,0,0,80,49,4
 2024,10,qui,24,jantar,1674.0,Pernil,Grãos gratinados,Couve,Picolé,1,0,0,0,0,0,0,0,80,49,4
@@ -954,7 +951,6 @@ Ano,Mês,Dia_semana,Dia_mês,refeicao,total,prato_principal_1,prato_principal_2,
 2024,10,qui,31,jantar,2324.0,Frango empanado,Xadrez de PVT,Creme de milho,Surpresa de abacaxi,1,0,0,0,0,0,0,0,87,42,2
 2024,11,sex,1,almoco,2507.0,Hamburguer,Hamburguer de lentilha,Purês,Iogurte,1,0,0,1,0,1,0,0,88,41,1
 2024,11,sex,1,jantar,1353.0,Lombo,PVT,Virado,Barra de cereais,1,0,0,1,0,1,0,0,88,41,1
-2024,11,seg,4,almoco,0.0,Frango empanado,Omelete,Creme de milho,Torrone,0,1,0,0,1,0,0,0,91,38,0
 2024,11,ter,5,jantar,2179.0,Linguiça,Curry de legumes,Farofa,Goiabada,1,0,0,0,1,0,1,0,92,37,10
 2024,11,qua,6,almoco,2413.0,Bife,Quibe de PVT,Purês,Brigadeirão,1,0,0,0,0,0,0,0,93,36,9
 2024,11,qua,6,jantar,2495.0,Filé de frango,Ovo frito,Macarrão,Picolé,1,0,0,0,0,0,0,0,93,36,9
@@ -1110,8 +1106,6 @@ Ano,Mês,Dia_semana,Dia_mês,refeicao,total,prato_principal_1,prato_principal_2,
 2025,2,qui,27,jantar,1740.0,Carne em cubos,Quibe de brócolis,Macarrão,Mousse de maracujá,1,0,0,0,0,0,0,0,3,130,4
 2025,2,sex,28,almoco,2153.0,Estrogonofe de carne,Suflê de legumes,Batata palha,Bombom,1,0,0,0,0,0,0,0,4,129,3
 2025,2,sex,28,jantar,906.0,Filé de peixe,Batatalhoada,Brócolis,Surpresa de banana,1,0,0,0,0,0,0,0,4,129,3
-2025,3,qua,5,almoco,0.0,Hamburguer,Hamburguer de PVT,Purês,Torrone,0,1,0,0,1,0,1,0,9,124,0
-2025,3,qua,5,jantar,0.0,Frango empanado,Ovo frito,Legumes,Iogurte,0,1,0,0,1,0,1,0,9,124,0
 2025,3,qui,6,almoco,2091.0,Hamburguer,Hamburguer de PVT,Purês,Torrone,1,0,0,0,1,0,1,0,10,123,39
 2025,3,qui,6,jantar,2000.0,Frango empanado,Ovo frito,Legumes,Iogurte,1,0,0,0,1,0,1,0,10,123,39
 2025,3,sex,7,almoco,2066.0,Pernil,Lasanha de abobrinha,Farofa,Bombom,1,0,0,0,0,0,0,0,11,122,38
@@ -1413,8 +1407,6 @@ Ano,Mês,Dia_semana,Dia_mês,refeicao,total,prato_principal_1,prato_principal_2,
 2025,10,qua,8,almoco,2613.0,Carne em cubos,Bife de feijão,Mandioca,Bombom,1,0,0,0,0,0,0,0,65,65,19
 2025,10,qua,8,jantar,2366.0,Filé de frango,Omelete,Chuchu,Flan de baunilha,1,0,0,0,0,0,0,0,65,65,19
 2025,10,qui,9,almoco,2510.0,Pernil,Baião de dois,Acelga,Mousse de limão,1,0,0,0,0,0,0,0,66,64,18
-2025,10,qui,9,almoco,2510.0,Carne moída,PVT,Purês,Surpresa de abacaxi,1,0,0,0,0,0,0,0,66,64,18
-2025,10,qui,9,almoco,2510.0,Estrogonofe de carne,Ovo frito,Legumes,Pudim de pão,1,0,0,0,0,0,0,0,66,64,18
 2025,10,qui,9,jantar,2034.0,Carne louca,Moussaka,Polenta,Picolé,1,0,0,0,0,0,0,0,66,64,18
 2025,10,sex,10,almoco,2634.0,Carne moída,PVT,Purês,Surpresa de abacaxi,1,0,0,0,0,0,0,0,67,63,17
 2025,10,sex,10,jantar,1248.0,Peixe frito,Grãos com queijo,Batata,Bananada,1,0,0,0,0,0,0,0,67,63,17

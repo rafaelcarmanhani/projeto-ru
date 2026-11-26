@@ -28,7 +28,7 @@ COLUNAS_ONEHOT = [
 
 def carregar_e_preparar_dados(csv_path: str = CSV_PATH):
     """
-    Carrega o CSV da área 1, aplica as mesmas limpezas do notebook original
+    Carrega o CSV tratado da área 1 e aplica os filtros específicos do modelo
     e retorna:
       - X, y: atributos e alvo (após one-hot encoding)
       - atributos: lista de colunas de X (usada para reindexar novas observações)
@@ -38,9 +38,6 @@ def carregar_e_preparar_dados(csv_path: str = CSV_PATH):
 
     # Remover o Café da Manhã
     data = data[data["refeicao"] != "cafe da manha"].copy()
-
-    data = data.dropna()
-    data = data[data["total"] != 0]
 
     # Não utilizar variáveis climáticas na previsão
     data = data.drop(columns=COLUNAS_CLIMA, errors="ignore")

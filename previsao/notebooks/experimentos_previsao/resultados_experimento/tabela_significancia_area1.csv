@@ -1,0 +1,7 @@
+cenario,metrica,media_baseline,media_cenario,reducao_pct,p_valor,significativo_p<0.05
+B. Só jittering,mae,133.04,131.06,1.49,6e-05,True
+B. Só jittering,margem,361.79,356.21,1.54,0.03015,True
+C. Só Gaussian Copula,mae,133.04,226.95,-70.59,6e-05,True
+C. Só Gaussian Copula,margem,361.79,559.04,-54.52,6e-05,True
+D. Jittering + Copula,mae,133.04,180.39,-35.59,6e-05,True
+D. Jittering + Copula,margem,361.79,468.68,-29.55,6e-05,True
